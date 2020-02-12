@@ -1,0 +1,13 @@
+start = element songs {song}
+song = element song {verses}
+verses = element verses {line}
+line = element line {mixed{(landscape|homeland|leader|soldier|woman|animal|missionary)*}}
+landscape = element landscape {(positive|negative)}
+homeland = element homeland {(positive|negative)}
+leader = element leader{(positive|negative)}
+soldier = element soldier{(positive|negative)}
+woman = element woman {(positive|negative)}
+animal = element animal {(positive|negative)}
+missionary = element missionary {(positive|negative)}
+positive = attribute positive {("rev"|"nationalism"|"weather"|"health"|"other")+}
+negative = attribute negative {("violence"|"weather"|"help")+}
