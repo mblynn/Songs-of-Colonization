@@ -1,7 +1,8 @@
 start = element songs {song}
-song = element song {verses|author*}
+song = element song {title, author*, verse}
+title = element title {text}
 author = element author {text}
-verses = element verses {line}
+verse = element verses {line}
 line = element line {mixed{(landscape|homeland|leader|soldier|col|woman|animal|missionary|resource)*}}
 landscape = element landscape {(positive|negative)*}
 homeland = element homeland {(positive|negative)*}
