@@ -201,37 +201,37 @@
     <song>
         <title>NEW NATIONAL ANTHEM</title>
         <verse>
-            <line>My country, 'tis of thee,</line>
+            <line>My <place>country</place>, 'tis of thee,</line>
             <line>Land where things used to be</line>
-            <line>So cheap, we croak.</line>
-            <line>Land of the mavericks,</line>
-            <line>Land of the puncher's tricks,</line>
-            <line>Thy culture-inroad pricks</line>
+            <line>So <negative>cheap</negative>, we croak.</line>
+            <line>Land of the <person>mavericks</person>,</line>
+            <line>Land of the <person>puncher</person>'s tricks,</line>
+            <line>Thy culture-inroad <negative>pricks</negative></line>
             <line>The hide of this peeler-bloke.</line>
         </verse>
         <verse>
-            <line>Some of the punchers swear</line>
+            <line>Some of the <person>punchers</person> swear</line>
             <line>That what they eat and wear</line>
-            <line>Takes all their calves.</line>
+            <line>Takes all their <animal>calves</animal>.</line>
             <line>Others vow that they</line>
-            <line>Eat only once a day</line>
+            <line><negative>Eat only once a day</negative></line>
             <line>Jerked beef and prairie hay</line>
             <line>Washed down with tallow salves.</line>
         </verse>
         <verse>
             <line>These salty-dogs but crave</line>
-            <line>To pull them out the grave</line>
-            <line>Just one Kiowa spur.</line>
+            <line>To pull them out the <negative>grave</negative></line>
+            <line>Just one <col>Kiowa</col> spur.</line>
             <line>They know they still will dine</line>
             <line>On flesh and beef the time;</line>
-            <line>But give us, Lord divine,</line>
+            <line>But give us, <god>Lord</god> divine,</line>
             <line>One "hen-fruit stir."</line>
         </verse>
         <verse>
             <line>Our father's land, with thee,</line>
-            <line>Best trails of liberty,</line>
+            <line>Best trails of <positive>liberty</positive>,</line>
             <line>We chose to stop.</line>
-            <line>We don't exactly like</line>
+            <line>We <negative>don't exactly like</negative></line>
             <line>So soon to henceward hike,</line>
             <line>But hell, we'll take the pike</line>
             <line>If this don't stop.</line>
