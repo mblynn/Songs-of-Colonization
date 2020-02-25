@@ -3,32 +3,32 @@
     <song>
         <title>THE BUFFALO HUNTERS</title>
         <verse>
-            <line>Come all you <woman positive="beauty">pretty girls</woman>, to you these lines I'll write,</line>
-            <line>We are going to the range in which we take delight;</line>
-            <line>We are going on the range as we <people negative>poor hunters</people> do,</line>
+            <line>Come all you <woman>pretty girls</woman>, to you these lines I'll write,</line>
+            <line>We are going to the <landscape>range</landscape> in which we take delight;</line>
+            <line>We are going on the <landscape>range</landscape> as we <people>poor hunters</people> do,</line>
             <line>And the tender-footed fellows can stay at home with you.</line>
         </verse>
         <verse>
             <line>It's all of the day long as we go tramping round</line>
-            <line>In search of the <animal>buffalo</animal> that we may shoot him down;</line>
-            <line>Our guns upon our shoulders, our belts of forty rounds,</line>
-            <line>We send them up Salt River to some <landscape positive>happy hunting grounds</landscape>.</line>
+            <line>In search of the <animal>buffalo</animal> that we may <action>shoot</action> him down;</line>
+            <line>Our <weapon>guns</weapon> upon our shoulders, our belts of <weapon>forty rounds</weapon>,</line>
+            <line>We send them up <place>Salt River</place> to some <landscape>happy hunting grounds</landscape>.</line>
         </verse>
         <verse>
             <line>Our game, it is the <animal>antelope</animal>, the <animal>buffalo</animal>, <animal>wolf</animal>, and <animal>deer</animal>,</line>
             <line>Who roam the <landscape>wide prairies</landscape> without a single fear;</line>
-            <line>We rob him of his robe and think it is no harm,</line>
+            <line>We <action>rob</action> him of his robe and think it is no harm,</line>
             <line>To buy us food and clothing to keep our bodies warm.</line>
         </verse>
         <verse>
             <line>The <animal>buffalo</animal>, he is the noblest of the band,</line>
             <line>He sometimes rejects in throwing up his hand.</line>
             <line>His shaggy main thrown forward, his head raised to the sky,</line>
-            <line>He seems to say, "We're coming, boys; so <person>hunter</person>, mind your eye."</line>
+            <line>He seems to say, <dialogue>"We're coming, boys; so <person>hunter</person>, mind your eye."</dialogue></line>
         </verse>
         <verse>
             <line>Our fires are made of mesquite roots, our beds are on the ground;</line>
-            <line>Our houses made of buffalo hides, we make them tall and round;</line>
+            <line>Our houses made of <animal>buffalo</animal> hides, we make them tall and round;</line>
             <line>Our furniture is the camp kettle, the coffee pot, and pan,</line>
             <line>Our chuck it is both bread and meat, mingled well with sand.</line>
         </verse>
@@ -45,17 +45,17 @@
             <line>Now, <god>O Lord</god>, please lend me thine ear,</line>
             <line>The prayer of a <person>cattleman</person> to hear,</line>
             <line>No doubt the prayers may seem strange,</line>
-            <line>But I want you to bless our <landscape>cattle range</landscape>.</line>
+            <line>But I want you to <action>bless</action> our <landscape>cattle range</landscape>.</line>
         </verse>
         <verse>
-            <line>Bless the round-ups year by year,</line>
+            <line><action>Bless</action> the round-ups year by year,</line>
             <line>And don't forget the growing steer;</line>
             <line>Water the lands with brooks and rills</line>
             <line>For my <animal>cattle</animal> that roam on a <landscape>thousand hills</landscape>.</line>
         </verse>
         <verse>
             <line><landscape>Prairie fires</landscape>, won't you please stop?</line>
-            <line>Let thunder roll and water drop.</line>
+            <line>Let <weather>thunder</weather> roll and <weather>water drop</weather>.</line>
             <line>It frightens me to see the smoke;</line>
             <line>Unless it's stopped, I'll go dead broke.</line>
         </verse>
@@ -63,19 +63,19 @@
             <line>As you, <god>O Lord</god>, my <animal>herd</animal> behold,</line>
             <line>It represents a sack of <money>gold</money>;</line>
             <line>I think at least five cents a pound</line>
-            <line>Will be the price of beef the year around.</line>
+            <line>Will be the price of <animal>beef</animal> the year around.</line>
         </verse>
         <verse>
             <line>One thing more and then I'm through,--</line>
             <line>Instead of one <animal>calf</animal>, give my <animal>cows</animal> two.</line>
-            <line>I may pray different from other men</line>
+            <line>I may <action>pray</action> different from other men</line>
             <line>But I've had my say, and now, Amen.</line>
         </verse>
     </song>
     <song>
         <title>HERE'S TO THE RANGER!</title>
         <verse>
-            <line>He leaves unplowed his furrow,</line>
+            <line>He leaves unplowed his <landscape>furrow</landscape>,</line>
             <line>He leaves his books unread</line>
             <line>For a life of tented <freedom>freedom</freedom></line>
             <line>By lure of danger led.</line>
@@ -90,17 +90,17 @@
             <line>Through <landscape>lonely woodland places</landscape></line>
             <line>Our <people>children</people> come and go;</line>
             <line>Our <animal>flocks and herds</animal> untended</line>
-            <line>O'er hill and valley roam,</line>
+            <line>O'er <landscape>hill and valley</landscape> roam,</line>
             <line>The <person>Ranger</person> in the saddle</line>
             <line>Means <positive>peace</positive> for us at home.</line>
         </verse>
         <verse>
-            <line>Behold our smiling farmsteads</line>
+            <line>Behold our smiling <place>farmsteads</place></line>
             <line>Where waves the <money>golden grain</money>!</line>
             <line>Beneath yon tree, earth's bosom</line>
             <line>Was dark with crimson stain.</line>
             <line>That bluff the death-shot echoed</line>
-            <line>Of husband, father, slain!</line>
+            <line>Of <person>husband</person>, <person>father</person>, slain!</line>
             <line><god>God</god> grant such sight of horror</line>
             <line>We never see again!</line>
         </verse>
@@ -112,14 +112,14 @@
             <line>And if one voice is silent,</line>
             <line>One fails to hear the jest,</line>
             <line>They know his thoughts are absent</line>
-            <line>With <woman>her</woman> who loves him best.</line>
+            <line>With <woman>her</woman> who <love>loves</love> him best.</line>
         </verse>
         <verse>
-            <line>Our state, her sons confess it,</line>
+            <line>Our <place>state</place>, her sons confess it,</line>
             <line>That queenly, star-crowned brow,</line>
             <line>Has darkened with the shadow</line>
             <line>Of lawlessness ere now;</line>
-            <line>And men of evil passions</line>
+            <line>And <person>men of evil passions</person></line>
             <line>On her reproach have laid,</line>
             <line>But that the ready <person>Ranger</person></line>
             <line><action>Rode promptly</action> to her aid.</line>
@@ -129,7 +129,7 @@
             <line>Nor trumpet tongue of <glory>fame</glory>;</line>
             <line>But <beauty>beauty</beauty> smiles upon him,</line>
             <line>And <person>ranchmen</person> bless his name.</line>
-            <line>Then here's to the <person>Texas Ranger</person>,</line>
+            <line>Then <action>here's to</action> the <person>Texas Ranger</person>,</line>
             <line>Past, present and to come!</line>
             <line>Our safety from the <col>savage</col>,</line>
             <line>The guardian of our home.</line>
@@ -139,43 +139,43 @@
         <title>TEXAS RANGERS</title>
         <verse>
             <line>Come, all you <people>Texas rangers</people>, wherever you may be,</line>
-            <line>I'll tell you of some <negative>troubles</negative> that happened unto me.</line>
+            <line>I'll tell you of some <hardship>troubles</hardship> that happened unto me.</line>
             <line>My name is nothing extra, so it I will not tell,--</line>
-            <line>And here's to all you rangers, I am sure I wish you well.</line>
+            <line>And <action>here's to</action> all you <person>rangers</person>, I am sure I wish you well.</line>
         </verse>
         <verse>
             <line>It was at the age of sixteen that I joined the jolly band,</line>
             <line>We marched from <place>San Antonio</place> down to the <place>Rio Grande</place>.</line>
             <line>Our <person>captain</person> he informed us, perhaps he thought it right,</line>
-            <line>"Before we reach the station, boys, you'll surely have to <action>fight</action>."</line>
+            <line><dialogue>"Before we reach the station, boys, you'll surely have to <action>fight</action>."</dialogue></line>
         </verse>
         <verse>
-            <line>And when the bugle sounded our captain gave command,</line>
-            <line>"To arms, to arms," he shouted, "and by your horses stand."</line>
+            <line>And when the bugle sounded our <person>captain</person> <action>gave command</action>,</line>
+            <line><dialogue>"To arms, to arms,"</dialogue> he shouted, <dialogue>"and by your horses stand."</dialogue></line>
             <line>I saw the smoke ascending, it seemed to reach the sky;</line>
-            <line>The first thought that struck me, my time had come to die.</line>
+            <line>The first thought that struck me, my time had come to <death>die</death>.</line>
         </verse>
         <verse>
             <line>I saw the <col>Indians</col> coming, I heard them <action>give the yell</action>;</line>
             <line>My feelings at that moment, no tongue can ever tell.</line>
-            <line>I saw the glittering lances, their arrows round me flew,</line>
+            <line>I saw the glittering <weapon>lances</weapon>, their <weapon>arrows</weapon> round me flew,</line>
             <line>And all my strength it left me and all my courage too.</line>
         </verse>
         <verse>
             <line>We <action>fought</action> full nine hours before the strife was o'er,</line>
-            <line>The like of <negative>dead and wounded</negative> I never saw before.</line>
+            <line>The like of <death>dead and wounded</death> I never saw before.</line>
             <line>And when the sun was rising and the <col>Indians</col> they had fled,</line>
-            <line>We loaded up our rifles and counted up our dead.</line>
+            <line>We loaded up our <weapon>rifles</weapon> and counted up our dead.</line>
         </verse>
         <verse>
-            <line>And all of us were <negative>wounded</negative>, our noble captain <negative>slain</negative>,</line>
-            <line>And the sun was shining sadly across the <landscape negative>bloody plain</landscape>.</line>
-            <line>Sixteen as brave rangers as ever roamed the <place>West</place></line>
-            <line>Were buried by their comrades with arrows in their breast.</line>
+            <line>And all of us were wounded, our noble <person>captain</person> <negative>slain</negative>,</line>
+            <line>And the sun was shining sadly across the <landscape>bloody plain</landscape>.</line>
+            <line>Sixteen as brave <person>rangers</person> as ever roamed the <place>West</place></line>
+            <line>Were buried by their <person>comrades</person> with <weapon>arrows</weapon> in their breast.</line>
         </verse>
         <verse>
-            <line>'Twas then I thought of <woman>mother</woman>, who to me in tears did say,</line>
-            <line>"To you they are all strangers, with me you had better stay."</line>
+            <line>'Twas then I thought of <person>mother</person>, who to me in tears did say,</line>
+            <line><dialogue>"To you they are all strangers, with me you had better stay."</dialogue></line>
             <line>I thought that she was childish, the best she did not know;</line>
             <line>My mind was fixed on ranging and I was bound to go.</line>
         </verse>
@@ -183,18 +183,18 @@
             <line>Perhaps you have a <person>mother</person>, likewise a <person>sister</person> too,</line>
             <line>And maybe you have a <person>sweetheart</person> to weep and mourn for you;</line>
             <line>If that be your situation, although you'd like to <action>roam</action>,</line>
-            <line>I'd advise you by experience, you had better stay at home.</line>
+            <line>I'd <action>advise</action> you by experience, you had better stay at home.</line>
         </verse>
         <verse>
             <line>I have seen the fruits of rambling, I know its <negative>hardships</negative> well;</line>
-            <line>I have crossed the <place>Rocky Mountains</place>, rode down the streets of hell;</line>
+            <line>I have crossed the <place>Rocky Mountains</place>, rode down the streets of <place>hell</place>;</line>
             <line>I have been in the great <place>Southwest</place> where the wild <col>Apaches</col> roam,</line>
             <line>And I tell you from experience you had better stay at home.</line>
         </verse>
         <verse>
             <line>And now my song is ended; I guess I have sung enough;</line>
-            <line>The life of a <person>ranger</person> I am sure is <negative>very tough</negative>.</line>
-            <line>And here's to all you <woman>ladies</woman>, I am sure I wish you well,</line>
+            <line>The life of a <person>ranger</person> I am sure is very tough.</line>
+            <line>And here's to all you <person>ladies</person>, I am sure I wish you well,</line>
             <line>I am bound to go a-ranging, so <person>ladies</person>, fare you well.</line>
         </verse>
     </song>
@@ -202,35 +202,35 @@
         <title>NEW NATIONAL ANTHEM</title>
         <verse>
             <line>My <place>country</place>, 'tis of thee,</line>
-            <line>Land where things used to be</line>
-            <line>So <negative>cheap</negative>, we croak.</line>
+            <line><landscape>Land</landscape> where things used to be</line>
+            <line>So <adjecgtive>cheap</adjecgtive>, we croak.</line>
             <line>Land of the <person>mavericks</person>,</line>
             <line>Land of the <person>puncher</person>'s tricks,</line>
-            <line>Thy culture-inroad <negative>pricks</negative></line>
-            <line>The hide of this peeler-bloke.</line>
+            <line>Thy culture-inroad pricks</line>
+            <line>The hide of this <person>peeler-bloke</person>.</line>
         </verse>
         <verse>
             <line>Some of the <person>punchers</person> swear</line>
             <line>That what they eat and wear</line>
             <line>Takes all their <animal>calves</animal>.</line>
             <line>Others vow that they</line>
-            <line><negative>Eat only once a day</negative></line>
-            <line>Jerked beef and prairie hay</line>
+            <line><action>Eat only once a day</action></line>
+            <line><food>Jerked beef</food> and <food>prairie hay</food></line>
             <line>Washed down with tallow salves.</line>
         </verse>
         <verse>
-            <line>These salty-dogs but crave</line>
-            <line>To pull them out the <negative>grave</negative></line>
+            <line>These salty-dogs but <action>crave</action></line>
+            <line>To pull them out the <place>grave</place></line>
             <line>Just one <col>Kiowa</col> spur.</line>
-            <line>They know they still will dine</line>
-            <line>On flesh and beef the time;</line>
+            <line>They know they still will <food>dine</food></line>
+            <line>On <food>flesh</food> and <food>beef</food> the time;</line>
             <line>But give us, <god>Lord</god> divine,</line>
             <line>One "hen-fruit stir."</line>
         </verse>
         <verse>
-            <line>Our father's land, with thee,</line>
+            <line>Our <person>father</person>'s land, with thee,</line>
             <line>Best trails of <positive>liberty</positive>,</line>
-            <line>We chose to stop.</line>
+            <line>We <action>chose to stop</action>.</line>
             <line>We <negative>don't exactly like</negative></line>
             <line>So soon to henceward hike,</line>
             <line>But hell, we'll take the pike</line>
