@@ -240,44 +240,44 @@
     <song>
         <title>WESTWARD HO</title>
         <verse>
-            <line>I love not Colorado</line>
+            <line>I love not <landscape>Colorado</landscape></line>
             <line>Where the faro table grows,</line>
             <line>And down the desperado</line>
             <line>The rippling Bourbon flows;</line>
         </verse>
         <verse>
-            <line>Nor seek I fair Montana</line>
+            <line>Nor seek I fair <landscape>Montana</landscape></line>
             <line>Of bowie-lunging fame;</line>
-            <line>The pistol ring of fair Wyoming</line>
+            <line>The pistol ring of fair <landscape>Wyoming</landscape></line>
             <line>I leave to nobler game.</line>
         </verse>
         <verse>
-            <line>Sweet poker-haunted Kansas</line>
+            <line>Sweet poker-haunted <landscape>Kansas</landscape></line>
             <line>In vain allures the eye;</line>
-            <line>The Nevada rough has charms enough</line>
+            <line>The <landscape>Nevada</landscape> rough has charms enough</line>
             <line>Yet its blandishments I fly.</line>
         </verse>
         <verse>
-            <line>Shall Arizona woo me</line>
-            <line>Where the meek Apache bides?</line>
-            <line>Or New Mexico where natives grow</line>
+            <line>Shall <landscape>Arizona</landscape> woo me</line>
+            <line>Where the <col>meek Apache</col> bides?</line>
+            <line>Or <landscape>New Mexico</landscape> where <col>natives</col> grow</line>
             <line>With arrow-proof insides?</line>
         </verse>
         <verse>
-            <line>Nay, 'tis where the grizzlies wander</line>
+            <line>Nay,'tis where the <animal>grizzlies</animal> wander</line>
             <line>And the lonely diggers roam,</line>
             <line>And the grim Chinese from the squatter flees</line>
             <line>That I'll make my humble home.</line>
         </verse>
         <verse>
-            <line>I'll chase the wild tarantula</line>
-            <line>And the fierce cayote I'll dare,</line>
-            <line>And the locust grim, I'll battle him</line>
-            <line>In his native wildwood lair.</line>
+            <line>I'll chase the wild <animal>tarantula</animal></line>
+            <line>And the fierce <animal>cayote</animal> I'll dare,</line>
+            <line>And the <animal>locust</animal> grim, I'll battle him</line>
+            <line>In his native <landscape>wildwood lair</landscape>.</line>
         </verse>
         <verse>
-            <line>Or I'll seek the gulch deserted</line>
-            <line>And dream of the wild Red man,</line>
+            <line>Or I'll seek the <landscape>gulch</landscape> deserted</line>
+            <line>And dream of the <col>wild Red man</col>,</line>
             <line>And I'll build a cot on a corner lot</line>
             <line>And get rich as soon as I can.</line>
         </verse>
@@ -287,56 +287,56 @@
         <verse>
             <line>I'll sing you a song, though it may be a sad one,</line>
             <line>Of trials and troubles and where they first begun;</line>
-            <line>I left my dear kindred, my friends, and my home,</line>
-            <line>Across the wild deserts and mountains to roam.</line>
+            <line>I left my <homeland>dear kindred, my friends, and my home,</homeland></line>
+            <line>Across the <landscape>wild deserts and mountains</landscape> to roam.</line>
         </verse>
         <verse>
-            <line>I crossed the Missouri and joined a large train</line>
-            <line>Which bore us over mountain and valley and plain;</line>
+            <line>I crossed the <landscape>Missouri</landscape> and joined a large train</line>
+            <line>Which bore us over <landscape>mountain and valley and plain;</landscape></line>
             <line>And often of evenings out hunting we'd go</line>
-            <line>To shoot the fleet antelope and wild buffalo.</line>
+            <line>To shoot the fleet <animal>antelope</animal> and <animal>wild buffalo.</animal></line>
         </verse>
         <verse>
-            <line>We heard of Sioux Indians all out on the plains</line>
+            <line>We heard of <col>Sioux Indians</col> all out on the <landscape>plains</landscape></line>
             <line>A-killing poor drivers and burning their trains,--</line>
             <line>A-killing poor drivers with arrows and bow,</line>
-            <line>When captured by Indians no mercy they show.</line>
+            <line>When captured by <col>Indians</col> no mercy they show.</line>
         </verse>
         <verse>
-            <line>We traveled three weeks till we came to the Platte</line>
-            <line>And pitched out our tents at the end of the flat,</line>
-            <line>We spread down our blankets on the green grassy ground,</line>
-            <line>While our horses and mules were grazing around.</line>
+            <line>We traveled three weeks till we came to the <landscape>Platte</landscape></line>
+            <line>And pitched out our tents at the end of the <landscape>flat,</landscape></line>
+            <line>We spread down our blankets on the <landscape>green grassy ground,</landscape></line>
+            <line>While our <animal>horses</animal> and <animal>mules</animal> were grazing around.</line>
         </verse>
         <verse>
             <line>While taking refreshment we heard a low yell,</line>
-            <line>The whoop of Sioux Indians coming up from the dell;</line>
+            <line>The whoop of <col>Sioux Indians</col> coming up from the dell;</line>
             <line>We sprang to our rifles with a flash in each eye,</line>
-            <line>"Boys," says our brave leader, "we'll fight till we die."</line>
+            <line>"Boys," says our <leader>brave leader,</leader> "we'll fight till we die."</line>
         </verse>
         <verse>
             <line>They made a bold dash and came near to our train</line>
             <line>And the arrows fell around us like hail and like rain,</line>
             <line>But with our long rifles we fed them cold lead</line>
-            <line>Till many a brave warrior around us lay dead.</line>
+            <line>Till many a <soldier><col>brave warrior</col></soldier> around us lay dead.</line>
         </verse>
         <verse>
-            <line>We shot their bold chief at the head of his band.</line>
-            <line>He died like a warrior with a gun in his hand.</line>
-            <line>When they saw their bold chief lying dead in his gore,</line>
+            <line>We shot their <col>bold chief</col> at the head of his band.</line>
+            <line>He died like a <soldier>warrior</soldier> with a gun in his hand.</line>
+            <line>When they saw their <col>bold chief</col> lying dead in his gore,</line>
             <line>They whooped and they yelled and we saw them no more.</line>
         </verse>
         <verse>
-            <line>With our small band,--there were just twenty-four,--</line>
-            <line>And the Sioux Indians there were five hundred or more,--</line>
+            <line>With our <soldier>small band,</soldier>--there were just twenty-four,--</line>
+            <line>And the <col>Sioux Indians</col> there were five hundred or more,--</line>
             <line>We fought them with courage; we spoke not a word,</line>
             <line>Till the end of the battle was all that was heard.</line>
         </verse>
         <verse>
-            <line>We hitched up our horses and we started our train;</line>
-            <line>Three more bloody battles this trip on the plain;</line>
-            <line>And in our last battle three of our brave boys fell,</line>
-            <line>And we left them to rest in a green, shady dell.</line>
+            <line>We hitched up our <animal>horses</animal> and we started our train;</line>
+            <line>Three more bloody battles this trip on the <landscape>plain;</landscape></line>
+            <line>And in our last battle three of our <soldier>brave boys</soldier> fell,</line>
+            <line>And we left them to rest in a <landscape>green, shady dell.</landscape></line>
         </verse>
     </song>
     <song>
@@ -344,7 +344,7 @@
         <title>THE "METIS" SONG OF THE BUFFALO HUNTERS</title>
         <author>Robideau</author>
         <verse>
-            <line>Hurrah for the buffalo hunters!</line>
+            <line>Hurrah for the <animal>buffalo</animal> hunters!</line>
             <line>Hurrah for the cart brigade!</line>
             <line>That creak along on its winding way,</line>
             <line>While we dance and sing and play.</line>
@@ -354,26 +354,26 @@
             <line>Hurrah for the Pembinah hunters!</line>
             <line>Hurrah for its cart brigade!</line>
             <line>For with horse and gun we roll along</line>
-            <line>O'er mountain and hill and plain.</line>
+            <line>O'er <landscape>mountain and hill and plain.</landscape></line>
             <line>Hurrah, hurrah for the cart brigade!</line>
         </verse>
         <verse>
-            <line>We whipped the Sioux and scalped them too,</line>
+            <line>We whipped the <col>Sioux</col> and scalped them too,</line>
             <line>While on the western plain,</line>
             <line>And rode away on our homeward way</line>
             <line>With none to say us nay,--</line>
             <line>Hurrah, hurrah for the cart brigade! Hurrah!</line>
         </verse>
         <verse>
-            <line>Mon ami, mon ami, hurrah for our black-haired girls!</line>
-            <line>That braved the Sioux and fought them too,</line>
-            <line>While on Montana's plains.</line>
+            <line>Mon ami, mon ami, hurrah for our <woman>black-haired girls!</woman></line>
+            <line>That braved the <col>Sioux</col> and fought them too,</line>
+            <line>While on <landscape>Montana's plains.</landscape></line>
             <line>We'll hold them true and love them too,</line>
             <line>While on the trail of the Pembinah, hurrah!</line>
             <line>Hurrah, hurrah for the cart brigade of Pembinah!</line>
         </verse>
         <verse>
-            <line>We have the skins and the meat so sweet.</line>
+            <line>We have the <resource>skins</resource> and the <resource>meat</resource> so sweet.</line>
             <line>And we'll sit by the fire in the lodge so neat,</line>
             <line>While the wind blows cold and the snow is deep.</line>
             <line>Then roll in our robes and laugh as we sleep.</line>
@@ -391,7 +391,7 @@
         </verse>
         <verse>
             <line>Of all the old frontiersmen</line>
-            <line>That used to scour the plain,</line>
+            <line>That used to scour the <landscape>plain,</landscape></line>
             <line>There are but very few of them</line>
             <line>That with us yet remain.</line>
         </verse>
@@ -416,24 +416,24 @@
         <verse>
             <line>But, brothers, we are falling,</line>
             <line>Our race is almost run;</line>
-            <line>The days of elk and buffalo</line>
-            <line>And beaver traps are gone.</line>
+            <line>The days of <animal>elk</animal> and <animal>buffalo</animal></line>
+            <line>And <animal>beaver</animal> traps are gone.</line>
         </verse>
         <verse>
-            <line>Oh the days of elk and buffalo</line>
+            <line>Oh the days of <animal>elk</animal> and <animal>buffalo</animal></line>
             <line>It fills my heart with pain</line>
             <line>To know these days are past and gone</line>
             <line>To never come again.</line>
         </verse>
         <verse>
-            <line>We fought the red-skin rascals</line>
-            <line>Over valley, hill, and plain;</line>
-            <line>We fought him in the mountain top,</line>
+            <line>We fought the <col>red-skin rascals</col></line>
+            <line>Over <landscape>valley, hill, and plain;</landscape></line>
+            <line>We fought him in the <landscape>mountain top,</landscape></line>
             <line>And fought him down again.</line>
         </verse>
         <verse>
             <line>These fighting days are over;</line>
-            <line>The Indian yell resounds</line>
+            <line>The <col>Indian</col> yell resounds</line>
             <line>No more along the border;</line>
             <line>Peace sends far sweeter sounds.</line>
         </verse>
@@ -445,3 +445,8 @@
         </verse>
     </song>
 </songs>
+
+<!-- Questions: should I include punctuation? Should I include descriptors within the tags? Should I tag other
+peoples mentioned (ex. Chinese)? Should we include expansion/movement West/colonization/frontier as a tag? 
+Look at Siuox Indians for when to tag soldier vs. col. Maybe tag for brother? See if bright homes in Old
+Scout's Lament is homeland (same with homeward way in metis). See if location should also be a tag. -->
