@@ -1,7 +1,0 @@
-1. a. //sp[not(child::l)]
-b. //sp[not(child::l) and not(child::ab)] there are 7 of these instances. They contain speaker, stages, and lg. 
-
-2. The first two are asking for the first line of any speech by Hamlet. The second two are asking for the first line
-of the FIRST speech by Hamlet only. 
-
-NOTE: I did this in office hours with Mitchell. The answers went live while I was doing this but I did not see them.
