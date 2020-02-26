@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songs>
+    <song>
+        <title>An die Kämpfer in Südwestafrika</title>
+        <stanza>
+            <line>Sie sagen, daß wir euch verhöhnen,</line>
+            <line>Und euer Schicksal rühr' uns nicht, </line>
+            <line>Wenn ihre hohlen Phrasen tönen </line>
+            <line>Von Ruhm und treu erfüllter Pflicht. </line>
+        </stanza>
+
+        <stanza>
+            <line>An Mitleid, das sie reichlich spenden, </line>
+            <line>Sind ihre kalten Herzen leer, </line>
+            <line>Sie werden morgen wieder senden </line>
+            <line>Die neuen Opfer übers Meer. </line>
+        </stanza>
+
+        <stanza>
+            <line>Verlangt nicht ihr, daß unsre Stimme </line>
+            <line>Mit ihren Lügen sich vermengt. </line>
+            <line>Das Wort erstickt im heißen Grimme; </line>
+            <line>Er hat das Lob zurückgedrängt. </line>
+        </stanza>
+
+        <stanza>
+            <line>Der Ruhm, den ihr euch dort errungen, </line>
+            <line>Wie ist um diesen Ruhm uns leid! </line>
+            <line>Es greift ans Herz, ihr braven Jungen, </line>
+            <line>Daß ihr für nichts geopfert seid. </line>
+        </stanza>
+    </song>
+
+
+    <song>
+        <title>Afrikanisches Reiterlied </title>
+
+        <stanza>
+            <line>Hallo, ich treck mit Reiterlust </line>
+            <line>Die Bas entland zu Pferd! </line>
+            <line>Das Herz frohlockt in weiter Brust, </line>
+            <line>Gleichwie an <positive type= "women">Mutters Herd!</positive> </line>
+            <line>Es kennt nicht Sorg‘, es kennt nicht Plag‘, </line>
+            <line>Kein Reiter grämet sich. </line>
+            <line>Und dennoch ich voll Sehnsucht frag‘: </line>
+            <line><positive type = "homeland">Wann kehr‘ zur Heimat ich?</positive></line>
+        </stanza>
+
+        <stanza>
+            <line>Und reit‘ ich so de Pas entlang </line>
+            <line>Im <positive type= "landscape" >bunten Sonnenschein</positive>, </line>
+            <line>Durch <positive type = "landscape" >blauen Ather</positive> tönt mein Sang </line>
+            <line>Dann in den Busch hinein </line>
+            <line>Er trägt das Lied in alle Welt, </line>
+            <line>was grad mein Herz erfüllt. </line>
+            <line>Doch merkt, dass mir kein Lied gefällt, </line>
+            <line>was <postive type= "women" >meinen Lieb</postive> nicht gilt. </line>
+        </stanza>
+
+        <stanza>
+            <line><animal>Das Kudu</animal> und <animal>das Wildebeest</animal>, </line>
+            <line><animal>Der Gemsbock</animal> und <animal>der Strauß,</animal> </line>
+            <line>Ich scheuch‘ sie auf aus ihrem Nest </line>
+            <line>Und <weapon>schieß</weapon> sie mir zum Schmaus. </line>
+            <line><negative type= "colonized">Bei Hottentotten, Hereros,</negative> </line>
+            <line>Find‘ <negative type = "women">tausend Frauen </negative>ich, </line>
+            <line>Und dennoch sehn‘ ich immer bloß</line>
+            <line>Zu <positive type = "women">meinen Liebchen</positive> mich.</line>
+        </stanza>
+
+        <stanza>
+            <line>D<landscape>urch Berg und Tal</landscape> hinauf, hinab, </line>
+            <line>So reit‘ ich fort und fort, </line>
+            <line>hinauf, hinab im Schritt und Trab, </line>
+            <line>So geht’s von Ort zu Ort.</line>
+            <line>Auch den Galopp verschmäh‘ ich nicht.</line>
+            <line><postive type = "landscape">Frei liegt die Pad vor mir</postive>!</line>
+            <line><postive type= "lanscape">Doch ist die Heimat erst in Sicht</postive>, </line>
+            <line>Zum Halten ich Parier‘! </line>
+        </stanza>
+    </song>
+
+    <song>
+        <title>Das Sudwesterlied </title>
+
+        <stanza>
+            <line> <negative type = "landscape">Hart wie Kameldornholz ist unser Land</negative></line>
+            <line>Und <negative type = "landscape" >trocken sind seine Riviere</negative>.</line>
+            <line><negatve type= "landscape">Die Klippen, sie sind von der Sonne verbrannt</negatve></line>
+            <line>Und scheu sind im Busch die <animals>Tiere</animals>.</line>
+            <line>|: Und sollte man uns fragen:</line>
+            <line>Was hält euch denn hier fest?</line>
+            <line>Wir könnten nur sagen:</line>
+            <line><positive type= "homeland" "nationalism">Wir lieben Südwest</positive></line>
+        </stanza>
+
+        <stanza>
+            <line>Doch unsre Liebe ist teuer bezahlt</line>
+            <line>Trotz allem, wir lassen dich nicht</line>
+            <line>Weil unsere Sorgen überstrahlt</line>
+            <line>Der <landscape>Sonne hell leuchtendes Licht</landscape>.</line>
+            <line>|: Und sollte man uns fragen:</line>
+            <line>Was hält euch denn hier fest?</line>
+            <line>Wir könnten nur sagen:</line>
+            <line> <positive type= "homeland" "nationalism">Wir lieben Südwest</positive>! :|</line>
+        </stanza>
+
+        <stanza>
+            <line>Und kommst du selber in unser Land</line>
+            <line>Und hast <positive type= "landscape">seine Weiten gesehen</positive></line>
+            <line>Und <positive type= "landscape">hat <posessive>unsre Sonne</posessive> ins Herz dir gebrannt</positive></line>
+            <line>Dann kannst du nicht wieder gehen.</line>
+            <line>|: Und sollte man dich fragen:</line>
+            <line>Was hält dich denn hier fest?</line>
+            <line>Du könntest nur sagen:</line>
+            <line><positive tyoe = "homeland">Ich liebe Südwest! </positive>:|</line>
+        </stanza>
+    </song>
+
+    <song>
+        <title>Schutztruppenlied</title>
+
+
+        <stanza>
+            <line>„Ich bin ein junges Reiterblut – in <positive type= "nationalism" "possesive" "landscape" >kaiserlichem Sold</positive>, – </line>
+            <line>Trag‘ auf dem Ohre keck den Hut, – frag‘ nicht nach <wealth>Lieb‘ und Gold</wealth>. – </line>
+            <line>Hab‘ unter mir ein <positive type = "animal" "romanticism" >flottes Pferd</positive> – und führ‘ ein gut <weapon>Gewehr</weapon>, – </line>
+            <line>Was sonst der Himmel mir beschert, – das wiegt bei mir nicht schwer. – </line>
+            <line><positive type= "nationalism" homeland">Wir dienen dir, lieb Vaterland</positive> – im Südwestafrika; –</line>
+            <line>Schutztruppe werden wir genannt, – zum Schutze sind wir da. –</line>
+        </stanza>
+
+        <stanza>
+            <line>Brennt noch so stark der Sonne Glut – auf <positive type = "landscape">heißem Wüstensand</positive>, –</line>
+            <line>Wir krempen um den breiten Hut – und <positive type= "landscape""riding">ziehn vergnügt durchs Land</positive>; –</line>
+            <line><negative type = "thirst">Quält uns der Durst</negative> auch noch so sehr, – <negative type = "hunger">quält uns der Hunger schier</negative>, – </line>
+            <line>Wir nehmen’s alle nicht so schwer; – den alle denken wir: --</line>
+            <line><positive type= "nationalism" homeland">Wir dienen dir, lieb Vaterland</positive>, – usw. </line>
+        </stanza>
+        <stanza>
+            <line>Und haben wir so manche Nacht, – zu Fuß und auch zu Pferd – </line>
+            <line>Dem <positive type = "fatigue">Schlaf getrotzt und treu gewacht, – es hat uns nicht beschwert</positive>. – </line>
+            <line><positive type= "nationalism" homeland">Für deutsche Bruder tun wir’s gern</positive>, – <positive type= "natioanlism" "pride">und Stolz füllt unsre Brust</positive>, –</line>
+            <line>Für <positive type = "nationalism" "posessive" "veneration" >unsern Kaiser, unsern Herrn;</positive> – den wir sind uns bewusst: – </line>
+            <line><positive type= "nationalism" homeland">Wir dienen dir, lieb Vaterland, – usw.</positive></line>
+        </stanza>
+        <stanza>
+            <line>Wir sochten schon so manchen <animal>Strauß</animal> – <landscape>im Busch und Felsgeröll</landscape> –</line>
+            <line>Mit diesen <negative type= "animal">schwartzen Teufeln</negative> aus und <violence>färbten rot ihr Fell</violence>. – </line>
+            <line>Sie rissen aus, wir hinterdrein – soweit der <landscape>Himmel blau</landscape>, – </line>
+            <line>Und holten wir sie selten ein, sie wissen doch genau: –</line>
+            <line><positive type= "nationalism" homeland">Wir dienen dir, lieb Vaterland, – usw.</positive></positive></line>
+        </stanza>
+        <stanza>
+            <line>Doch ach, so mancher <nationalism>Kamerad</nationalism> – in voller <strength>Lebenskraft</strength>, –</line>
+            <line>Bei <positive type= "riding">todeskühner Reitertat</positive> – ward er dahingerafft. –</line>
+            <line>Für unsern Kaiser, für das Reich – gab er dahin sein Blut, –</line>
+            <line>Auf sein <negative>Gesicht, so todesbleich</negative>, da legten wir den Hut. –</line>
+            <line><positive type= "nationalism" homeland">Wir dienen dir, lieb Vaterland, – usw.</positive></line>
+        </stanza>
+        <stanza>
+            <line>Und kommt auch mal an uns die Reih‘, – wir bleiben unverzagt; –</line>
+            <line>In <positive type = "war">jedem Kampfe wird aufs neu</positive> – das Leben frisch gewagt, – </line>
+            <line>Wir <positive type = "nationalism" "war">kämpfen ja für deutsche Macht</positive>, <nationalism>für deutsche Herrlichkeit! </nationalism>–</line>
+            <line>Der <positive type= "homeland">fernen Heimat wird gedacht – treulich in Freud‘ und Lied.</positive> –</line>
+            <line><positive type= "nationalism" homeland">Wir dienen dir, lieb Vaterland, – im Südwestafrika; </positive> –</line>
+            <line>Schutztruppe werden wir genannt, – Schutztruppe hoch, hurra! –„</line>
+        </stanza>
+    </song>
+</songs>
