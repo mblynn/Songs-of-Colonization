@@ -24,7 +24,7 @@
             <line>The <animal>buffalo</animal>, he is the noblest of the band,</line>
             <line>He sometimes rejects in throwing up his hand.</line>
             <line>His shaggy main thrown forward, his head raised to the sky,</line>
-            <line>He seems to say, <dialogue>"We're coming, boys; so <person>hunter</person>, mind your eye."</dialogue></line>
+            <line>He seems to say, <dialogue>"We're coming, boys; so <people>hunter</people>, mind your eye."</dialogue></line>
         </verse>
         <verse>
             <line>Our fires are made of <resource>mesquite roots</resource>, our beds are on the ground;</line>
@@ -36,14 +36,14 @@
             <line>Our neighbors are the <people>Cheyennes</people>, the <people>'Rapahoes</people>, and <people>Sioux</people>,</line>
             <line>Their mode of navigation is a buffalo-hide canoe.</line>
             <line>And when <action>they come upon you</action> <action>they take you</action> unaware,</line>
-            <line>And such a peculiar way they have of <action>raising <person>hunter</person>'s hair</action>.</line>
+            <line>And such a peculiar way they have of <action>raising <people>hunter</people>'s hair</action>.</line>
         </verse>
     </song>
     <song>
         <title>THE COWMAN'S PRAYER</title>
         <verse>
             <line>Now, <religion>O Lord</religion>, please <action>lend me</action> thine ear,</line>
-            <line>The prayer of a <person>cattleman</person> to hear,</line>
+            <line>The prayer of a <people>cattleman</people> to hear,</line>
             <line>No doubt the prayers may seem strange,</line>
             <line>But I want you to <action>bless</action> our <landscape>cattle range</landscape>.</line>
         </verse>
@@ -105,7 +105,7 @@
             <line>We never see again!</line>
         </verse>
         <verse>
-            <line>The <person>gay and hardy Ranger</person>,</line>
+            <line>The <people>gay and hardy Ranger</people>,</line>
             <line>His blanket on the ground,</line>
             <line>Lies by the blazing camp-fire</line>
             <line>While song and tale goes round;</line>
@@ -259,8 +259,8 @@
         </verse>
         <verse>
             <line>Shall <landscape>Arizona</landscape> woo me</line>
-            <line>Where the <col>meek Apache</col> bides?</line>
-            <line>Or <landscape>New Mexico</landscape> where <col>natives</col> grow</line>
+            <line>Where the <people>meek Apache</people> bides?</line>
+            <line>Or <landscape>New Mexico</landscape> where <people>natives</people> grow</line>
             <line>With arrow-proof insides?</line>
         </verse>
         <verse>
@@ -277,7 +277,7 @@
         </verse>
         <verse>
             <line>Or I'll seek the <landscape>gulch</landscape> deserted</line>
-            <line>And dream of the <col>wild Red man</col>,</line>
+            <line>And dream of the <people>wild Red man</people>,</line>
             <line>And I'll build a cot on a corner lot</line>
             <line>And get rich as soon as I can.</line>
         </verse>
@@ -287,7 +287,7 @@
         <verse>
             <line>I'll sing you a song, though it may be a sad one,</line>
             <line>Of trials and troubles and where they first begun;</line>
-            <line>I left my <homeland><person>dear kindred, my friends</person>, and my home,</homeland></line>
+            <line>I left my <homeland><people>dear kindred, my friends</people>, and my home,</homeland></line>
             <line>Across the <landscape>wild deserts and mountains</landscape> to roam.</line>
         </verse>
         <verse>
@@ -297,10 +297,10 @@
             <line>To <action>shoot</action> the fleet <animal>antelope</animal> and <animal>wild buffalo.</animal></line>
         </verse>
         <verse>
-            <line>We heard of <col>Sioux Indians</col> all out on the <landscape>plains</landscape></line>
+            <line>We heard of <people>Sioux Indians</people> all out on the <landscape>plains</landscape></line>
             <line>A-killing poor drivers and burning their trains,--</line>
             <line>A-killing poor drivers with arrows and bow,</line>
-            <line>When captured by <col>Indians</col> no mercy they show.</line>
+            <line>When captured by <people>Indians</people> no mercy they show.</line>
         </verse>
         <verse>
             <line>We <action>traveled</action> three weeks till we came to the <landscape>Platte</landscape></line>
@@ -310,7 +310,7 @@
         </verse>
         <verse>
             <line>While taking <resource>refreshment</resource> we heard a low yell,</line>
-            <line>The whoop of <col>Sioux Indians</col> coming up from the dell;</line>
+            <line>The whoop of <people>Sioux Indians</people> coming up from the dell;</line>
             <line>We sprang to our <weapon>rifles</weapon> with a flash in each eye,</line>
             <line><dialogue>"Boys,"</dialogue> says our <leader>brave leader,</leader> <dialogue>"we'll fight till we die."</dialogue></line>
         </verse>
@@ -318,17 +318,17 @@
             <line>They made a bold dash and came near to our train</line>
             <line>And the <weapon>arrows</weapon> fell around us <weather>like hail and like rain</weather>,</line>
             <line>But with our long rifles we fed them cold lead</line>
-            <line>Till many a <soldier><col>brave warrior</col></soldier> around us lay dead.</line>
+            <line>Till many a <soldier><people>brave warrior</people></soldier> around us lay dead.</line>
         </verse>
         <verse>
-            <line>We <action>shot</action> their <col>bold chief</col> at the head of his band.</line>
+            <line>We <action>shot</action> their <people>bold chief</people> at the head of his band.</line>
             <line>He died like a <soldier>warrior</soldier> with a <weapon>gun</weapon> in his hand.</line>
-            <line>When they saw their <col>bold chief</col> lying dead in his gore,</line>
+            <line>When they saw their <people>bold chief</people> lying dead in his gore,</line>
             <line>They <action>whooped and they yelled</action> and we saw them no more.</line>
         </verse>
         <verse>
             <line>With our <soldier>small band,</soldier>--there were just twenty-four,--</line>
-            <line>And the <col>Sioux Indians</col> there were five hundred or more,--</line>
+            <line>And the <people>Sioux Indians</people> there were five hundred or more,--</line>
             <line>We <action>fought</action> them with courage; we spoke not a word,</line>
             <line>Till the end of the battle was all that was heard.</line>
         </verse>
@@ -358,7 +358,7 @@
             <line>Hurrah, hurrah for the cart brigade!</line>
         </verse>
         <verse>
-            <line>We <action>whipped</action> the <col>Sioux</col> and <action>scalped</action> them too,</line>
+            <line>We <action>whipped</action> the <people>Sioux</people> and <action>scalped</action> them too,</line>
             <line>While on the <landscape>western plain</landscape>,</line>
             <line>And rode away on our homeward way</line>
             <line>With none to say us nay,--</line>
@@ -366,7 +366,7 @@
         </verse>
         <verse>
             <line>Mon ami, mon ami, hurrah for our <people>black-haired girls!</people></line>
-            <line>That braved the <col>Sioux</col> and fought them too,</line>
+            <line>That braved the <people>Sioux</people> and fought them too,</line>
             <line>While on <landscape>Montana's plains.</landscape></line>
             <line>We'll <action>hold them true</action> and <action>love them</action> too,</line>
             <line>While on the trail of the Pembinah, hurrah!</line>
@@ -426,14 +426,14 @@
             <line>To never come again.</line>
         </verse>
         <verse>
-            <line>We fought the <col>red-skin rascals</col></line>
+            <line>We fought the <people>red-skin rascals</people></line>
             <line>Over <landscape>valley, hill, and plain;</landscape></line>
             <line>We fought him in the <landscape>mountain top,</landscape></line>
             <line>And <action>fought</action> him down again.</line>
         </verse>
         <verse>
             <line>These fighting days are over;</line>
-            <line>The <col>Indian</col> yell resounds</line>
+            <line>The <people>Indian</people> yell resounds</line>
             <line>No more along the <place>border</place>;</line>
             <line>Peace sends far sweeter sounds.</line>
         </verse>
