@@ -61,7 +61,7 @@
         </verse>
         <verse>
             <line>As you, <religion>O Lord</religion>, my <animal>herd</animal> <action>behold</action>,</line>
-            <line>It represents a sack of <money>gold</money>;</line>
+            <line>It represents a sack of <resource>gold</resource>;</line>
             <line>I think at least five cents a pound</line>
             <line>Will be the price of <animal>beef</animal> the year around.</line>
         </verse>
@@ -96,7 +96,7 @@
         </verse>
         <verse>
             <line>Behold our smiling <place>farmsteads</place></line>
-            <line>Where waves the <money>golden grain</money>!</line>
+            <line>Where waves the <resource>golden grain</resource>!</line>
             <line>Beneath yon <landscape>tree, earth's bosom</landscape></line>
             <line>Was dark with crimson stain.</line>
             <line>That <landscape>bluff</landscape> the death-shot echoed</line>
@@ -215,16 +215,16 @@
             <line>Takes all their <animal>calves</animal>.</line>
             <line>Others vow that they</line>
             <line><action>Eat only once a day</action></line>
-            <line><food>Jerked beef</food> and <food>prairie hay</food></line>
+            <line><resource>Jerked beef</resource> and <food>prairie hay</food></line>
             <line>Washed down with tallow salves.</line>
         </verse>
         <verse>
             <line>These salty-dogs but <action>crave</action></line>
             <line>To pull them out the <place>grave</place></line>
             <line>Just one <people>Kiowa</people> spur.</line>
-            <line>They know they still will <food>dine</food></line>
-            <line>On <food>flesh</food> and <food>beef</food> the time;</line>
-            <line>But give us, <god>Lord</god> divine,</line>
+            <line>They know they still will <resource>dine</resource></line>
+            <line>On <resource>flesh</resource> and <resource>beef</resource> the time;</line>
+            <line>But give us, <religion>Lord</religion> divine,</line>
             <line>One "hen-fruit stir."</line>
         </verse>
         <verse>
@@ -243,7 +243,7 @@
             <line>I love not <landscape>Colorado</landscape></line>
             <line>Where the faro table grows,</line>
             <line>And down the desperado</line>
-            <line>The rippling Bourbon flows;</line>
+            <line>The rippling <resource>Bourbon</resource> flows;</line>
         </verse>
         <verse>
             <line>Nor seek I fair <landscape>Montana</landscape></line>
@@ -318,16 +318,16 @@
             <line>They made a bold dash and came near to our train</line>
             <line>And the <weapon>arrows</weapon> fell around us <weather>like hail and like rain</weather>,</line>
             <line>But with our long rifles we fed them cold lead</line>
-            <line>Till many a <soldier><people>brave warrior</people></soldier> around us lay dead.</line>
+            <line>Till many a <people>brave warrior</people> around us lay dead.</line>
         </verse>
         <verse>
             <line>We <action>shot</action> their <people>bold chief</people> at the head of his band.</line>
-            <line>He died like a <soldier>warrior</soldier> with a <weapon>gun</weapon> in his hand.</line>
+            <line>He died like a <people>warrior</people> with a <weapon>gun</weapon> in his hand.</line>
             <line>When they saw their <people>bold chief</people> lying dead in his gore,</line>
             <line>They <action>whooped and they yelled</action> and we saw them no more.</line>
         </verse>
         <verse>
-            <line>With our <soldier>small band,</soldier>--there were just twenty-four,--</line>
+            <line>With our <people>small band,</people>--there were just twenty-four,--</line>
             <line>And the <people>Sioux Indians</people> there were five hundred or more,--</line>
             <line>We <action>fought</action> them with courage; we spoke not a word,</line>
             <line>Till the end of the battle was all that was heard.</line>
