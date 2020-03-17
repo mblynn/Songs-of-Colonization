@@ -1,0 +1,38 @@
+start = element songs {song}
+song = element song {title, author*, verse}
+title = element title {text}
+author = element author {text}
+verse = element verse {line}
+line = element line {mixed {(people|landscape|action|animal|place|resource|col|religion|homeland|weather|noun|weapon|violence)*}}
+landscape = element landscape {mood}
+people = element people {group, indiv}
+action = element action {context}
+animal = element animal {context}
+place = element place {mood}
+resource = element resource {type, mood}
+col = element col {context, mood}
+religion = element religion {context, mood}
+homeland = element homeland {context, mood}
+weather = element weather {mood}
+noun = element noun {type, mood}
+weapon = element weapon {context, mood}
+violence = element violence {perp, victim}
+mood = attribute mood {"positive"|"negative"|"neutral"}
+group = attribute group {"women"|"men"|"children"|"settlers"|"hunters"|"children"|"women"|"freinds"|"other"|"army"}
+indiv = attribute indiv {"man"|"woman"|"husband"|"wife"|"mother"|"father"|"child"|"captain"|"settler"|"friend"|"brother"|"sister"|"lover"|"other"}
+context = attribute context {"peace"|"violence"|"neutral"|"hunting"|"utilizing"|"coexisting"|"prayer"|"exclamation"|"complaint"|"longing"|"hating"|"loving"|"possesion"|"other"} # these could be used anywhere. Not sure how to create an attribute value for a context of a specific element. For example, the @context of <action> can have dif values than @context of <weapon>
+type = attribute type {"food"|"clothing"|"money"|"supplies"|"object"|"abstract"|"feeling"|"other"} # see comment above for @context
+perp = attribute perp {"settler"|"native"}
+victim = attribute victim {"settler"|"native"}
+
+# for nationalism: maybe create a feeling element
+# subcategories of nationalism to track: reverence, pride, loyalty, support, love, xenophobia, ethnocentrism
+
+
+
+
+
+
+
+
+
