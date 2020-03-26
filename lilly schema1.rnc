@@ -1,0 +1,22 @@
+start = element songs {song}
+song = element song {title, author*, verse}
+title = element title {text}
+author = element author {text}
+verse = element verse {line}
+line = element line {mixed{(landscape|homeland|people|col|religion|animal|resource|action|weather|weapon|violence)*}}
+landscape = element landscape {mood}
+homeland = element homeland {(type)}
+people = element people{(group|individual)*}
+col = element col {mood}
+religion = element religion {text}
+animal = element animal {text}
+resource = element resource {text}
+action = element action {(type)}
+weather = element weather {text}
+weapon = element weapon {text}
+violence = element violence {text}
+type = attribute type {("belonging"|"possessive"|"aggressive"|"wise"|"celebratory"|"happy"|"pious")}
+group = attribute group {("girls"|"hunters"|"cowards"|"hunters"|"men"|"enemies"|"children"|"women"|"settlers"|"warriors"|"tribe")}
+individual = attribute individual {("settler"|"hunter"|"cattleman"|"man"|"warrior"|"guardsman"|"ranger"|"husband"|"father"|"woman"|"leader"|"mother"|"kindred")}
+mood = attribute mood {("positive"|"negative"|"neutral")}
+
