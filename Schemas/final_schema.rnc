@@ -1,0 +1,43 @@
+start = element songs { song }
+song = element song { title, author*, verse }
+title = element title { text }
+author = element author { text }
+verse = element verse { line }
+line =
+    element line {
+        mixed { (action | homeland | sig | violence | possess | NatUnity)* }
+    }
+action = element action { type }
+homeland = element homeland { type, mood }
+sig = element sig { type, mood, wild* }
+wild = attribute wild { text }# wild is an attribute that doesn't fall into any specific category but is still sig
+violence = element violence { perp, victim }
+perp = attribute perp { "settler" | "native" }
+victim = attribute victim { "settler" | "native" }
+possess = element possess { kind }
+kind = attribute kind { "land" | "people" | "labor" | "resource" }
+NatUnity = element NatUnity { cat }
+cat = attribute cat { "brotherhood" | "solidarity" | "loyalty" | "pride" | "patriotism" }
+mood = attribute mood { "positive" | "negative" | "ambiguous" }
+type =
+    attribute type {
+        "peace"
+        | "belonging"
+        | "possessive"
+        | "aggressive"
+        | "reverant"
+        | "pious"
+        | "nostalgic"
+        | "celebratory"
+        | "happy"
+        | "neutral"
+        | "other"
+        | "longing"
+        | "hating"
+        | "coexisting"
+        | "complaint"
+        | "loving"
+        | "exploring"
+        | "xenophobia"
+        | "ethnocentrism"
+    }
