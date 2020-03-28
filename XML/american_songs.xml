@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <songs>
-    <song>
+    <song n="1">
         <title>THE BUFFALO HUNTERS</title>
         <verse>
             <line>Come all you <people>pretty girls</people>, to you these lines I'll write,</line>
@@ -39,7 +39,7 @@
             <line>And such a peculiar way they have of <action>raising <people>hunter</people>'s hair</action>.</line>
         </verse>
     </song>
-    <song>
+    <song n="2">
         <title>THE COWMAN'S PRAYER</title>
         <verse>
             <line>Now, <religion>O Lord</religion>, please <action>lend me</action> thine ear,</line>
@@ -72,7 +72,7 @@
             <line>But I've had my say, and now, <religion>Amen</religion>.</line>
         </verse>
     </song>
-    <song>
+    <song n="3">
         <title>HERE'S TO THE RANGER!</title>
         <verse>
             <line>He <action>leaves unplowed</action> his <landscape>furrow</landscape>,</line>
@@ -135,7 +135,7 @@
             <line>The guardian of our home.</line>
         </verse>
     </song>
-    <song>
+    <song n="4">
         <title>TEXAS RANGERS</title>
         <verse>
             <line>Come, all you <people>Texas rangers</people>, wherever you may be,</line>
@@ -198,7 +198,7 @@
             <line>I am bound to go a-ranging, so <people>ladies</people>, fare you well.</line>
         </verse>
     </song>
-    <song>
+    <song  n="5">
         <title>NEW NATIONAL ANTHEM</title>
         <verse>
             <line>My <place>country</place>, 'tis of thee,</line>
@@ -237,7 +237,7 @@
             <line>If this don't stop.</line>
         </verse>
     </song>
-    <song>
+    <song n="6">
         <title>WESTWARD HO</title>
         <verse>
             <line>I love not <landscape>Colorado</landscape></line>
@@ -282,7 +282,7 @@
             <line>And get rich as soon as I can.</line>
         </verse>
     </song>
-    <song>
+    <song n="7">
         <title>SIOUX INDIANS</title>
         <verse>
             <line>I'll sing you a song, though it may be a sad one,</line>
@@ -339,7 +339,7 @@
             <line>And we left them to rest in a <landscape>green, shady dell.</landscape></line>
         </verse>
     </song>
-    <song>
+    <song n="8">
         <!-- Might be Canandian. Do some background research before deciding to use this -->
         <title>THE "METIS" SONG OF THE BUFFALO HUNTERS</title>
         <author>Robideau</author>
@@ -381,7 +381,7 @@
             <line>Hurrah! Hurrah!</line>
         </verse>
     </song>
-    <song>
+    <song n="9">
         <title>THE OLD SCOUT'S LAMENT</title>
         <verse>
             <line>Come all of you, my <people>brother scouts</people>,</line>
