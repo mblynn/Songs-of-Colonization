@@ -11,6 +11,7 @@
             <body>
                 <h1>Songs of Colonization</h1>
                 <h2>Contents</h2>
+                <!-- Creates table of contents -->
                 <ul>
                     <xsl:apply-templates select="//song" mode="toc"/>
                 </ul>
@@ -20,6 +21,7 @@
         </html>
     </xsl:template>
     <xsl:template match="song" mode="toc">
+        <!-- Adds links to the toc using AVT-->
         <li>
             <a href="#song{@n}">
                 <xsl:apply-templates select="@n"/>
@@ -29,19 +31,23 @@
         </li>
     </xsl:template>
     <xsl:template match="song">
+        <!-- Outputs the titles as clickable links -->
         <h2 id="song{@n}">
             <xsl:apply-templates select="title"/>
         </h2>
+        <!--Wraps each song in a <section> tag-->
         <section>
             <xsl:apply-templates select="verse"/>
         </section>
     </xsl:template>
     <xsl:template match="verse">
+        <!-- Outputs verses as <p> elements-->
         <p>
             <xsl:apply-templates/>
         </p>
     </xsl:template>
     <xsl:template match="line">
+        <!-- Adds line breaks -->
         <xsl:apply-templates/>
         <xsl:if test="following-sibling::line">
             <br/>
