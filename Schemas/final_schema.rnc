@@ -1,8 +1,9 @@
-start = element songs { song }
-song = element song { title, author*, verse }
+start = element songs { song+ }
+song = element song { n, title, author*, verse+ }
+n = attribute n {text}
 title = element title { text }
 author = element author { text }
-verse = element verse { line }
+verse = element verse { line+ }
 line =
     element line {
         mixed { (action | homeland | sig | violence | possess | NatUnity)* }
