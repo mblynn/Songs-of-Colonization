@@ -8,16 +8,16 @@ line =
     element line {
         mixed { (action | homeland | sig | violence | possess | NatUnity)* }
     }
-action = element action { type }
-homeland = element homeland { type, mood }
-sig = element sig { type, mood, wild* }
+action = element action { text, type }
+homeland = element homeland { text, type, mood }
+sig = element sig { text, type, mood, wild* }
 wild = attribute wild { text }# wild is an attribute that doesn't fall into any specific category but is still sig
-violence = element violence { perp, victim }
-perp = attribute perp { "settler" | "native" }
-victim = attribute victim { "settler" | "native" }
-possess = element possess { kind }
+violence = element violence {text,  perp, victim }
+perp = attribute perp { "settler" | "native"|"ambiguous" }
+victim = attribute victim { "settler" | "native" |"ambiguous"}
+possess = element possess { text, kind }
 kind = attribute kind { "land" | "people" | "labor" | "resource" }
-NatUnity = element NatUnity { cat }
+NatUnity = element NatUnity { text, cat }
 cat = attribute cat { "brotherhood" | "solidarity" | "loyalty" | "pride" | "patriotism" }
 mood = attribute mood { "positive" | "negative" | "ambiguous" }
 type =

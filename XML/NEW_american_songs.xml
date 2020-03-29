@@ -5,19 +5,19 @@
         <title>THE BUFFALO HUNTERS</title>
         <verse>
             <line>Come all you pretty girls, to you these lines I'll write,</line>
-            <line>We are going to the range in which we take delight;</line>
+            <line>We are <action type="happy">going to the range</action> in which we take delight;</line>
             <line>We are going on the range as we poor hunters do,</line>
             <line>And the tender-footed fellows can stay at home with you.</line>
         </verse>
         <verse>
-            <line>It's all of the day long as we go tramping round</line>
+            <line>It's all of the day long as we go <action type="exploring">tramping round</action></line>
             <line>In search of the buffalo that we may shoot him down;</line>
             <line>Our guns upon our shoulders, our belts of forty rounds,</line>
             <line>We send them up Salt River to some happy hunting grounds.</line>
         </verse>
         <verse>
             <line>Our game, it is the antelope, the buffalo, wolf, and deer,</line>
-            <line>Who roam the wide prairies without a single fear;</line>
+            <line>Who <action type="belonging">roam the wide prairies</action> without a single fear;</line>
             <line>We rob him of his robe and think it is no harm,</line>
             <line>To buy us food and clothing to keep our bodies warm.</line>
         </verse>
@@ -36,7 +36,7 @@
         <verse>
             <line>Our neighbors are the Cheyennes, the 'Rapahoes, and Sioux,</line>
             <line>Their mode of navigation is a buffalo-hide canoe.</line>
-            <line>And when they come upon you they take you unaware,</line>
+            <line>And when they come upon you they<violence perp="native" victim="settler">take you unaware</violence>,</line>
             <line>And such a peculiar way they have of raising hunter's hair.</line>
         </verse>
     </song>
@@ -46,7 +46,7 @@
             <line>Now, O Lord, please lend me thine ear,</line>
             <line>The prayer of a cattleman to hear,</line>
             <line>No doubt the prayers may seem strange,</line>
-            <line>But I want you to bless our cattle range.</line>
+            <line>But I want you to bless <possess kind="resource">our cattle range</possess>.</line>
         </verse>
         <verse>
             <line>Bless the round-ups year by year,</line>
@@ -55,7 +55,7 @@
             <line>For my cattle that roam on a thousand hills.</line>
         </verse>
         <verse>
-            <line>Prairie fires, won't you please stop?</line>
+            <line>Prairie fires, <sig type="longing" mood="negative">won't you please stop</sig>?</line>
             <line>Let thunder roll and water drop.</line>
             <line>It frightens me to see the smoke;</line>
             <line>Unless it's stopped, I'll go dead broke.</line>
@@ -93,7 +93,7 @@
             <line>Our flocks and herds untended</line>
             <line>O'er hill and valley roam,</line>
             <line>The Ranger in the saddle</line>
-            <line>Means peace for us at home.</line>
+            <line>Means peace for us at <homeland type="peace" mood="positive">home</homeland>.</line>
         </verse>
         <verse>
             <line>Behold our smiling farmsteads</line>
@@ -101,7 +101,7 @@
             <line>Beneath yon tree, earth's bosom</line>
             <line>Was dark with crimson stain.</line>
             <line>That bluff the death-shot echoed</line>
-            <line>Of husband, father, slain!</line>
+            <line>Of <violence perp="ambiguous" victim="settler">husband, father, slain</violence>!</line>
             <line>God grant such sight of horror</line>
             <line>We never see again!</line>
         </verse>
@@ -116,21 +116,21 @@
             <line>With her who loves him best.</line>
         </verse>
         <verse>
-            <line>Our state, her sons confess it,</line>
+            <line><homeland type="possessive" mood="positive">Our state</homeland>, her sons confess it,</line>
             <line>That queenly, star-crowned brow,</line>
             <line>Has darkened with the shadow</line>
             <line>Of lawlessness ere now;</line>
             <line>And men of evil passions</line>
             <line>On her reproach have laid,</line>
             <line>But that the ready Ranger</line>
-            <line>Rode promptly to her aid.</line>
+            <line><NatUnity cat="loyalty">Rode promptly to her aid</NatUnity>.</line>
         </verse>
         <verse>
             <line>He may not win the laurel</line>
             <line>Nor trumpet tongue of fame;</line>
             <line>But beauty smiles upon him,</line>
-            <line>And ranchmen bless his name.</line>
-            <line>Then here's to the Texas Ranger,</line>
+            <line>And ranchmen <action type="reverant">bless his name</action>.</line>
+            <line>Then <sig type="reverant" mood="positive">here's to the Texas Ranger</sig>,</line>
             <line>Past, present and to come!</line>
             <line>Our safety from the savage,</line>
             <line>The guardian of our home.</line>
@@ -142,7 +142,7 @@
             <line>Come, all you Texas rangers, wherever you may be,</line>
             <line>I'll tell you of some troubles that happened unto me.</line>
             <line>My name is nothing extra, so it I will not tell,--</line>
-            <line>And here's to all you rangers, I am sure I wish you well.</line>
+            <line>And <sig type="reverant" mood="positive">here's to all you rangers</sig>, I am sure I wish you well.</line>
         </verse>
         <verse>
             <line>It was at the age of sixteen that I joined the jolly band,</line>
@@ -159,7 +159,7 @@
         <verse>
             <line>I saw the Indians coming, I heard them give the yell;</line>
             <line>My feelings at that moment, no tongue can ever tell.</line>
-            <line>I saw the glittering lances, their arrows round me flew,</line>
+            <line>I saw the glittering lances, <violence perp="native" victim="settler">their arrows round me flew</violence>,</line>
             <line>And all my strength it left me and all my courage too.</line>
         </verse>
         <verse>
@@ -169,16 +169,16 @@
             <line>We loaded up our rifles and counted up our dead.</line>
         </verse>
         <verse>
-            <line>And all of us were wounded, our noble captain slain,</line>
+            <line>And all of us were wounded, our <sig type="reverant" mood="negative">noble captain</sig> slain,</line>
             <line>And the sun was shining sadly across the bloody plain.</line>
             <line>Sixteen as brave rangers as ever roamed the West</line>
-            <line>Were buried by their comrades with arrows in their breast.</line>
+            <line>Were <NatUnity cat="solidarity">buried by their comrades</NatUnity> with arrows in their breast.</line>
         </verse>
         <verse>
-            <line>'Twas then I thought of mother, who to me in tears did say,</line>
+            <line>'Twas then <action type="longing">I thought of mother</action>, who to me in tears did say,</line>
             <line>"To you they are all strangers, with me you had better stay."</line>
             <line>I thought that she was childish, the best she did not know;</line>
-            <line>My mind was fixed on ranging and I was bound to go.</line>
+            <line>My mind was <sig type="belonging" mood="ambiguous">fixed on ranging and I was bound to go</sig>.</line>
         </verse>
         <verse>
             <line>Perhaps you have a mother, likewise a sister too,</line>
@@ -195,16 +195,16 @@
         <verse>
             <line>And now my song is ended; I guess I have sung enough;</line>
             <line>The life of a ranger I am sure is very tough.</line>
-            <line>And here's to all you ladies, I am sure I wish you well,</line>
-            <line>I am bound to go a-ranging, so ladies, fare you well.</line>
+            <line>And <sig type="reverant" mood="ambiguous">here's to all you ladies</sig>, I am sure I wish you well,</line>
+            <line>I am <sig type="belonging" mood="ambiguous">bound to go a-ranging</sig>, so ladies, fare you well.</line>
         </verse>
     </song>
     <song  n="5">
         <title>NEW NATIONAL ANTHEM</title>
         <verse>
-            <line>My country, 'tis of thee,</line>
-            <line>Land where things used to be</line>
-            <line>So cheap, we croak.</line>
+            <line>My <homeland type="possessive" mood="negative">country</homeland>, 'tis of thee,</line>
+            <line><sig type="complaint" mood="negative">Land where things used to be</sig></line>
+            <line><sig type="complaint" mood="negative">So cheap, we croak</sig>.</line>
             <line>Land of the mavericks,</line>
             <line>Land of the puncher's tricks,</line>
             <line>Thy culture-inroad pricks</line>
@@ -229,7 +229,7 @@
             <line>One "hen-fruit stir."</line>
         </verse>
         <verse>
-            <line>Our father's land, with thee,</line>
+            <line><homeland type="possessive" mood="ambiguous">Our father's land</homeland>, with thee,</line>
             <line>Best trails of liberty,</line>
             <line>We chose to stop.</line>
             <line>We don't exactly like</line>
