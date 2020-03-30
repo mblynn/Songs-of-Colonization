@@ -288,7 +288,7 @@
         <verse>
             <line>I'll sing you a song, though it may be a sad one,</line>
             <line>Of trials and troubles and where they first begun;</line>
-            <line>I left my dear kindred, my friends, and my home,</line>
+            <line>I <homeland type="longing">left my dear kindred, my friends, and my home,</homeland></line>
             <line>Across the wild deserts and mountains to roam.</line>
         </verse>
         <verse>
@@ -298,10 +298,10 @@
             <line>To shoot the fleet antelope and wild buffalo.</line>
         </verse>
         <verse>
-            <line>We heard of Sioux Indians all out on the plains</line>
-            <line>A-killing poor drivers and burning their trains,--</line>
-            <line>A-killing poor drivers with arrows and bow,</line>
-            <line>When captured by Indians no mercy they show.</line>
+            <line>We heard of <sig wild="col">Sioux Indians</sig> all out on the plains</line>
+            <line><violence perp="native" victim="settler">A-killing poor drivers and burning their trains,</violence>--</line>
+            <line><violence perp="native" victim="settler">A-killing poor drivers with arrows and bow,</violence></line>
+            <line><violence perp="native" victim="settler">When captured by Indians no mercy they show.</violence></line>
         </verse>
         <verse>
             <line>We traveled three weeks till we came to the Platte</line>
@@ -311,32 +311,32 @@
         </verse>
         <verse>
             <line>While taking refreshment we heard a low yell,</line>
-            <line>The whoop of Sioux Indians coming up from the dell;</line>
-            <line>We sprang to our rifles with a flash in each eye,</line>
-            <line>"Boys," says our brave leader, "we'll fight till we die."</line>
+            <line>The <sig wild="col">whoop of Sioux Indians</sig> coming up from the dell;</line>
+            <line><violence perp="settler" victim="native">We sprang to our rifles with a flash in each eye,</violence></line>
+            <line><violence perp="settler" victim="native">"Boys," says our brave leader, "we'll fight till we die."</violence></line>
         </verse>
         <verse>
             <line>They made a bold dash and came near to our train</line>
-            <line>And the arrows fell around us like hail and like rain,</line>
-            <line>But with our long rifles we fed them cold lead</line>
-            <line>Till many a brave warrior around us lay dead.</line>
+            <line><violence perp="native" victim="settler">And the arrows fell around us like hail and like rain,</violence></line>
+            <line><violence perp="settler" victim="native">But with our long rifles we fed them cold lead</violence></line>
+            <line><violence perp="settler" victim="native">Till many a brave warrior around us lay dead.</violence></line>
         </verse>
         <verse>
-            <line>We shot their bold chief at the head of his band.</line>
-            <line>He died like a warrior with a gun in his hand.</line>
-            <line>When they saw their bold chief lying dead in his gore,</line>
+            <line><violence perp="settler" victim="native">We shot their bold chief at the head of his band.</violence></line>
+            <line><violence perp="settler" victim="native">He died like a warrior with a gun in his hand.</violence></line>
+            <line><violence perp="settler" victim="native">When they saw their bold chief lying dead in his gore,</violence></line>
             <line>They whooped and they yelled and we saw them no more.</line>
         </verse>
         <verse>
             <line>With our small band,--there were just twenty-four,--</line>
             <line>And the Sioux Indians there were five hundred or more,--</line>
-            <line>We fought them with courage; we spoke not a word,</line>
+            <line><violence perp="settler" victim="native">We fought them with courage; we spoke not a word,</violence></line>
             <line>Till the end of the battle was all that was heard.</line>
         </verse>
         <verse>
             <line>We hitched up our horses and we started our train;</line>
-            <line>Three more bloody battles this trip on the plain;</line>
-            <line>And in our last battle three of our brave boys fell,</line>
+            <line><violence perp="settler" victim="native">Three more bloody battles this trip on the plain;</violence></line>
+            <line><violence>And in our last battle three of our brave boys fell,</violence></line>
             <line>And we left them to rest in a green, shady dell.</line>
         </verse>
     </song>
@@ -359,15 +359,15 @@
             <line>Hurrah, hurrah for the cart brigade!</line>
         </verse>
         <verse>
-            <line>We whipped the Sioux and scalped them too,</line>
+            <line><violence perp="settler" victim="native">We whipped the Sioux and scalped them too,</violence></line>
             <line>While on the western plain,</line>
-            <line>And rode away on our homeward way</line>
+            <line>And rode away on our <homeland type="celebratory">homeward way</homeland></line>
             <line>With none to say us nay,--</line>
             <line>Hurrah, hurrah for the cart brigade! Hurrah!</line>
         </verse>
         <verse>
             <line>Mon ami, mon ami, hurrah for our black-haired girls!</line>
-            <line>That braved the Sioux and fought them too,</line>
+            <line><violence perp="settler" victim="native">That braved the Sioux and fought them too,</violence></line>
             <line>While on Montana's plains.</line>
             <line>We'll hold them true and love them too,</line>
             <line>While on the trail of the Pembinah, hurrah!</line>
