@@ -6,8 +6,9 @@ author = element author { text }
 verse = element verse { line+ }
 line =
     element line {
-        mixed { (action | homeland | sig | violence | possess | NatUnity)* }
+        mixed { lang, (action | homeland | sig | violence | possess | NatUnity)* }
     }
+lang = attribute lang { "german"|"english"}
 action = element action { text, type }
 homeland = element homeland { text, type*, mood* }
 sig = element sig { text, type*, mood*, wild* }
