@@ -19,7 +19,7 @@ victim = attribute victim { "settler" | "native" |"ambiguous"}
 possess = element possess { text, kind }
 kind = attribute kind { "land" | "people" | "labor" | "resource" }
 NatUnity = element NatUnity { text, cat }
-cat = attribute cat { "brotherhood" | "solidarity" | "loyalty" | "pride" | "patriotism" }
+cat = attribute cat { "brotherhood" | "solidarity" | "loyalty" | "pride" | "patriotism"| "loyalty solidarity"|"patriotism loyalty" }
 mood = attribute mood { "positive" | "negative" | "ambiguous" }
 type =
     attribute type {
@@ -42,4 +42,10 @@ type =
         | "exploring"
         | "xenophobia"
         | "ethnocentrism"
+        |"nostalgic celebratory"
+        |"nostalgic loving"
+        |"aggressive xenophobia"
+        |"exploring happy"
+        |"hating xenophobia"
+        |"nostalgic longing"
     }
