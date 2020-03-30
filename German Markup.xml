@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="Songs-of-Colonization/Schemas/final_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<songs>
+    <song n="1">
+        <title>Afrikanisches Reiterlied</title> 
+        <verse> 
+            <line>Hallo, ich treck mit Reiterlust </line>
+            <line>Hello, I treck with a riders delight </line>
+            
+            <line language= "german" >Die Pad entlang zu Pferd! </line>
+            <line>Along the path on horseback</line>
+            <!-- How should  separate the languages? -->
+            
+            <line>Das Herz frohlockt in weiter Brust,</line> 
+            <line>My heart rejoices in my  chest,</line>
+           
+            <line> Gleichwie an Mutters Herd! </line>
+            <line>Just like by <sig type= "nostalgic" type= "celebratory" mood= "positive">my mother’s hearth</sig></line>
+           <!--this seems to have inherent significance as "homeland" because it refers to a mothers hearth- but it is only implied and not direct, so i used "sig". is it too ambiguous to be included? -->
+            
+            <line> Es kennt nicht Sorg‘, es kennt nicht Plag‘</line>, 
+            <line>it knows no worries, it knows no suffering</line>
+            
+            <line>Kein Reiter grämet sich. </line>
+            <line> No rider ever worries</line>
+
+            <line> Und dennoch ich voll Sehnsucht frag‘: </line>
+            <line>And yet I ask with longing:</line>
+
+            <line> Wann kehr‘ zur Heimat ich?</line>
+            <line><homeland type="longing" mood="positive">When will I return home?</homeland></line>
+        </verse>
+        <verse>
+            <line> Und reit‘ ich so de Pad entlang </line>
+            <line>I ride along the road</line> 
+
+            <line>Im bunten Sonnenschein, </line>
+            <line>In bright sunshine</line> 
+
+            <line>Durch blauen Ather tönt mein Sang</line>
+            <line>My song rings through the blue ether</line> 
+
+            <line>Dann in den Busch hinein </line>
+            <line>And out into the bush</line>
+
+            <line>Er trägt das Lied in alle Welt, </line>
+            <line>it carries the song to the whole world,</line>
+
+            <line>was grad mein Herz erfüllt. </line>
+            <line>what fills my heart </line>
+
+            <line> Doch merkt, dass mir kein Lied gefällt, </line>
+            <line>But mark this, I don’t like any song</line>
+            
+            <line>was meinen Lieb nicht gilt. </line>
+            <line>That is not meant for my loved one</line> 
+        </verse>
+        <verse>
+            <line>Das Kudu und das Wildebeest, </line>
+            <line>The kudu and the wildebeest,</line>
+
+            <line>Der Gemsbock und der Strauß, </line>
+            <line>The gemsbock and the ostrich, </line>
+
+            <line> Ich scheuch‘ sie auf aus ihrem Nest </line>
+            <line>I scare them out of their nest</line> 
+
+            <line>Und schieß sie mir zum Schmaus. </line>
+            <line>And <violence perp= "settler" victem= "ambiguous">shoot them</violence> <possess kind= "resource">for my feast</possess></line>
+<!--do we care about this? its only violence against animals, but it expresses the idea of inherent ownership over a resource -->
+            <line>Bei Hottentotten, Hereros,</line> 
+            <line>By the <sig  mood="negative" type="xenophobia">Hottentotes and Hereros</sig> </line>
+<!-- can we add derogatory, need a better word.. or should i use "wild" instead? -->
+            <line>Find‘ tausend Frauen ich,</line>
+            <line><possess kind="people">I find a thousand women</possess> </line>
+ <!-- is this inherernt violence? its most likely (based on historical context) referring to abuse/rape, but there is no direct connection-->
+            
+            <line>Und dennoch sehn‘ ich immer bloß</line>
+            <line>And yet I only long for </line>
+
+            <line>Zu meinen Liebchen mich.</line>
+            <line>My love</line>
+        </verse>
+        <verse>
+            <line>Durch Berg und Tal hinauf, hinab,</line> 
+            <line>Through mountains and valleys up and down</line>
+
+            <line>So reit‘ ich fort und fort, </line>
+            <line>I ride away and away,</line>
+
+            <line>hinauf, hinab im Schritt und Trab, </line>
+            <line>Up and down, in walk and trot </line>
+
+            <line>So geht’s von Ort zu Ort.</line>
+            <line>Is how I go from place from place</line>
+
+            <line>Auch den Galopp verschmäh‘ ich nicht.</line>
+            <line>I do not shy away from the gallop, </line>
+
+            <line>Frei liegt die Pad vor mir!</line>
+            <line>Free lies the road before me!</line>
+
+            <line>Doch ist die Heimat erst in Sicht, </line>
+            <line>and when <homeland type="celebratory" moood="positive">my homeland</homeland> comes into sight </line>
+
+            <line>Zum Halten ich Parier‘! </line>
+            <line>I will halt and <NatUnity cat="loyalty">obey</NatUnity> </line>
+        </verse>
+    </song>
+    <song n="2">
+        <title>Das Sudwesterlied </title>
+        <verse>
+            <line>Hart wie Kameldornholz ist unser Land</line>
+            <line><possess kind="land">Our Land</possess> is as rugged as the camel thorn tree</line>
+
+            <line>Und trocken sind seine Riviere.</line>
+            <line>And dry are its rivers </line>
+
+            <line> Die Klippen, sie sind von der Sonne verbrannt</line>
+            <line>The Cliffs are burned by the sun </line>
+
+            <line>Und scheu sind im Busch die Tiere.</line>
+            <line>And the animals of the Bush are shy </line>
+
+            <line>|: Und sollte man uns fragen:</line>
+            <line>And should we be asked </line>
+
+            <line>Was hält euch denn hier fest?</line>
+            <line>What holds you here?</line>
+
+            <line>Wir könnten nur sagen:</line>
+            <line>We could only say</line>
+
+            <line>Wir lieben Südwest! :|</line>
+            <line><NatUnity cat="patriotism">We love the Southwest!</NatUnity></line>
+       <!-- this line comes up in evert verse, do i only mark it once? -->
+        </verse>
+        <verse>
+            <line>Doch unsre Liebe ist teuer bezahlt</line>
+            <line>our love was paid for dearly </line>
+<!-- a lot of these are negative discriptons of the homeland, but im not sure that I should tag them because they are not direct references, and are more negatives about the conditions of the land but not their true feelings- the overall tone is very positive and marking this as negative mat become confusing-->
+           
+            <line>Trotz allem, wir lassen dich nicht</line>
+            <line><homeland type="loving" mood= "positive" >Despite everything, we would not leave you</homeland> </line>
+            
+            <line>Weil unsere Sorgen überstrahlt</line>
+            <line>Because out worries are outshone </line>
+
+            <line>Der Sonne hell leuchtendes Licht.</line>
+            <line>by the brightly shining sun </line>
+
+            <line>|: Und sollte man uns fragen:</line>
+            <line>And should we be asked </line>
+
+            <line>Was  en  euch  en hier fest?</line>
+            <line>What holds you here?</line>
+   
+            <line>Wir könnten nur sagen:</line>
+            <line>We could only say</line>
+   
+            <line>Wir lieben Südwest! </line>
+            <line>We love the Southwest!</line>
+        </verse>
+        <verse>
+            <line>Und kommst du selber in unser Land</line>
+            <line>And should you come yourself to <possess kind="land">our country</possess> </line>
+
+            <line>Und hast seine Weiten gesehen</line>
+            <line>And see it’s vast expanses </line>
+
+            <line>Und hat unsre Sonne ins Herz dir gebrannt</line>
+            <line>And let our sun burn in your heart </line>
+
+            <line>Dann kannst du nicht wieder gehen.</line>
+            <line>Then <NatUnity cat="loyalty">you will never be able to leave again</NatUnity></line>
+
+            <line>|: Und sollte man uns fragen:</line>
+            <line>And should we be asked </line>
+
+            <line>Was hält euch denn hier fest?</line>
+            <line>What holds you here?</line>
+
+            <line>Wir könnten nur sagen:</line>
+            <line>We could only say</line>
+   
+            <line>Wir lieben Südwest! :|</line>
+            <line>We love the Southwest!</line>
+        </verse>
+    </song>
+    <song n="3">
+        <title>Schutztruppenlied</title>
+        <verse>
+            <line>„Ich bin ein junges Reiterblut – in kaiserlichem Sold, –</line> 
+            <line>I am a young rider- in <possess kind="land">the Kaisers land</possess>,</line>
+
+            <line>Trag‘ auf dem Ohre keck den Hut, – frag‘ nicht nach Lieb‘ und Gold. – </line>
+            <line>I wear my hat cocked upon my ear, I don’t ask for love and gold</line>
+
+            <line>Hab‘ unter mir ein flottes Pferd – und führ‘ ein gut Gewehr, – </line>
+            <line>For I have a dashing horse underneath me – and carry a good rifle </line>
+
+            <line>Was sonst der Himmel mir beschert, – das wiegt bei mir nicht schwer. – </line>
+            <line>Whatever else the heavens might bestow on me – that doesn’t weigh heavily on me </line>
+
+            <line>Wir dienen dir, lieb Vaterland, – im Südwestafrika; –</line>
+            <line><NatUnity cat="loyalty">We serve you</NatUnity>, <homeland type="nostalgic" type="loving" mood="positive">dear fatherland</homeland>, - in Southwest Africa; -</line>
+
+            <line>Schutztruppe werden wir genannt, – zum Schutze sind wir da. –</line>
+            <line>We are called Schutztruppe --  for <action type="aggressive" type="xenophobia">protection</action> <NatUnity cat="loyalty">we are here</NatUnity>.</line> 
+            <!-- my tags here definitly feel like a strech but something about using the word "protection" seems interesting because it implies there is an opposing force -->
+        </verse>
+        <verse>
+            <line>Brennt noch so stark der Sonne Glut – auf heißem Wüstensand, –</line>
+            <line>No matter how strong the sun burns - on the hot desert sand </line>
+
+            <line>Wir krempen um den breiten Hut – und ziehn vergnügt durchs Land; –</line>
+            <line>We turn down the brim of our hats --  and <action type="exploring" type="happy">wander merrily through the land</action></line> 
+
+            <line>Quält uns der Durst auch noch so sehr, – quält uns der Hunger schier, – </line>
+            <line>When we are tormented by thirst, - tormented by hunger, -</line>
+
+            <line>Wir nehmen’s alle nicht so schwer; – den alle denken wir: --</line>
+            <line>We don't take it all so hard; - instead we all think: -</line>
+
+            <line>Wir dienen dir, lieb Vaterland, – im Südwestafrika; –</line>
+            <line>We serve you, dear fatherland, - in Southwest Africa; -</line>
+
+            <line>Schutztruppe werden wir genannt, – zum Schutze sind wir da. –</line>
+            <line>We are called Schutztruppe --  for protection we are here. -</line>
+        </verse>
+        <verse>
+            <line>Und haben wir so manche Nacht, – zu Fuß und auch zu Pferd –</line> 
+            <line>And we have so many nights - on foot and also on horseback –</line>
+
+            <line>Dem Schlaf getrotzt und treu gewacht, – es hat uns nicht beschwert. – </line>
+            <line>defied sleep and <NatUnity cat="loyalty" cat="solidarity">remained faithfully awake</NatUnity>, - it never weighed us down.</line> –
+
+            <line>Für deutsche Bruder tun wir’s gern, – und Stolz füllt unsre Brust, –</line>
+            <line><NatUnity cat="brotherhood">For German brothers</NatUnity> we do it gladly, - and <NatUnity cat="pride">pride fills our chest</NatUnity>, -</line>
+
+            <line>Für unsern Kaiser, unsern Herrn; – den wir sind uns bewusst: – </line>
+            <line>For <sig type="reverant" mood="positive">our Kaiser, our Lord</sig>; - because we all know: -</line>
+
+            <line>Wir dienen dir, lieb Vaterland, – im Südwestafrika; –</line>
+            <line>We serve you, dear fatherland, - in Southwest Africa; -</line>
+
+            <line>Schutztruppe werden wir genannt, – zum Schutze sind wir da. –</line>
+            <line>We are called Schutztruppe --  for protection we are here.</line> 
+        </verse>
+        <verse>
+            <line>Wir sochten schon so manchen Strauß – im Busch und Felsgeröll –</line>
+            <line>We have saught out many an ostrich - through bushes and boulders –</line>
+
+            <line>Mit diesen schwartzen Teufeln aus und färbten rot ihr Fell. – </line>
+            <line>With these <sig type="hating" type="xenophobia" mood="negative">black devils</sig>  and colored red their fur.</line>
+
+            <line>Sie rissen aus, wir hinterdrein – soweit der Himmel blau, –</line>
+            <line>They took off, we followed them – as far as the sky is blue,  </line>
+
+            <line>Und holten wir sie selten ein, sie wissen doch genau: –</line>
+            <line>And even if we rarely caught them, they know very well </line>
+
+            <line>Wir dienen dir, lieb Vaterland, – im Südwestafrika; –</line>
+            <line>We serve you, dear fatherland, - in Southwest Africa; -</line>
+
+            <line>Schutztruppe werden wir genannt, – zum Schutze sind wir da. –</line>
+            <line>We are called Schutztruppe --  for protection we are here. -</line>
+        </verse>
+        <verse>
+            <line>Doch ach, so mancher Kamerad – in voller Lebenskraft, –</line>
+            <line>But, oh, many a <NatUnity cat="brotherhood">comrade</NatUnity> - in the prime of his life, -</line>
+
+            <line>Bei todeskühner Reitertat – ward er dahingerafft. –</line>
+            <line>By dareing deed on horseback – <violence perp="ambiguous" victim="settler">he was felled</violence>. –</line>
+
+            <line>Für unsern Kaiser, für das Reich – gab er dahin sein Blut, –</line>
+            <line><NatUnity cat="patriotism" cat="loyalty">For our  kaiser, for our country, he gave his blood</NatUnity> </line>
+
+            <line>Auf sein Gesicht, so todesbleich, da legten wir den Hut. –</line>
+            <line>upon his face, so pale as death, we lay down his hat–</line>
+
+            <line>Wir dienen dir, lieb Vaterland, – im Südwestafrika; –</line>
+            <line>We serve you, dear fatherland, - in Southwest Africa; -</line>
+
+            <line>Schutztruppe werden wir genannt, – zum Schutze sind wir da. –</line>
+            <line>We are called Schutztruppe --  for protection we are here. -</line>
+        </verse>
+        <verse>
+
+            <line>Und kommt auch mal an uns die Reih‘, – wir bleiben unverzagt; –</line>
+            <line>And when it is our turn -- <NatUnity cat="solidarity">we remain undaunted</NatUnity></line>
+            
+            <line>In jedem Kampfe wird aufs neu – das Leben frisch gewagt, –</line>
+            <line>In every <violence perp="settler" victim="ambiguous">battle</violence> —<NatUnity cat="solidarity">Life is risked</NatUnity> anew</line>
+
+            <line>Wir kämpfen ja für deutsche Macht, für deutsche Herrlichkeit! –</line>
+            <line><violence perp="settler" victim="ambiguous">We fight</violence> for <NatUnity cat="patriotism">German power</NatUnity>, for <NatUnity cat="patriotism">German Glory</NatUnity> </line>
+
+            <line>Der fernen Heimat wird gedacht – treulich in Freud‘ und Lied. –</line>
+            <line>We think back to our <homeland type="nostalgic" type="longing">distant homeland</homeland> --  <NatUnity cat="loyalty">faithfully</NatUnity> with joy and song </line>
+
+            <line>Wir dienen dir, lieb Vaterland, – im Südwestafrika; –</line>
+            <line>We serve you, dear fatherland, - in Southwest Africa; -</line>
+
+            <line>Schutztruppe werden wir genannt, – Schutztruppe hoch, hurra!. –</line>
+            <line>We are called Schutztruoppe- long live, huzzah!</line>
+        </verse>
+    </song>
+</songs>
+
