@@ -24,14 +24,25 @@
                     <hr/>
                     <div id="2">
                         <h2>Key</h2>
-                        <ul>
-                            <li class="violence">Violence</li>
-                            <li class="action">Action</li>
-                            <li class="sig">Significant phrase</li>
-                            <li class="homeland">Homeland</li>
-                            <li class="NatUnity">National Unity</li>
-                            <li class="possess">Possession</li>
-                        </ul>
+                        <div class="section">
+                            <h3>Significant Elements</h3>
+                            <ul>
+                                <li class="violence">Violence</li>
+                                <li class="action">Action</li>
+                                <li class="sig">Significant phrase</li>
+                                <li class="homeland">Homeland</li>
+                                <li class="NatUnity">National Unity</li>
+                                <li class="possess">Possession</li>
+                            </ul>
+                        </div>
+                        <div class="section">
+                            <h3>Moods</h3>
+                            <ul>
+                                <li class="positive">Positive</li>
+                                <li class="negative">Negative</li>
+                                <li class="ambiguous">Ambiguous</li>
+                            </ul>
+                        </div>
                     </div>
                 </section>
                 <hr/>

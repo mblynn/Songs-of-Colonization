@@ -1,14 +1,25 @@
 .container {
     display: flex;
     width: 50%;
-    
+
 }
 div > div {
     flex: 1;
     padding: 10px;
-   
+
 }
-ul { list-style-type: none;}
+div.section {
+    /*border-style: solid;*/
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    border-spacing: 3px;
+}
+ul {
+    list-style-type: none;
+}
+h3 {text-decoration: underline;}
 
 .violence {
     background-color: LightCoral;
