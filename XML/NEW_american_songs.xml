@@ -449,7 +449,6 @@
         </verse>
         <verse>
             <line>We <violence perp="native" victim="settler">fought the red-skin rascals</violence></line>
-            <!-- Could the perp and victim in this verse be ambiguous. To me it seems more like settlers are fighting defensively -->
             <line>Over valley, hill, and plain;</line>
             <line>We fought him in the mountain top,</line>
             <line>And <violence perp="native" victim="settler">fought him down again</violence>.</line>
