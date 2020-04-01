@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: darkgrey;
+}
+
+h1 {
+  color: white;
+  text-align: right;
+  background-color: lightgrey;
+  width: 300px;
+  padding: 50px;
+  margin: 20px;
+}
+  
+p {
+  font-family: verbana;
+  font-size: 20px;
+  text-align:center;
+}
+h2 {
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    width: 150px;
+    height: 400px;
+    padding: 10px;
+    margin: 20px;
+    letter-spacing: 1px;
+    font-family: verbana;
+}
+</style>
+</head>
+<body>
+
+
+<h1>Songs of Colonization</h1>
+<p>This is a paragraph.</p>
+<h2>Menu
+<li>Item 1</li>
+<li>Item 2</li>
+<li>Item 3</li>
+<li>Item 4</li>
+<li>Item 5</li>
+</h2>
+
+</body>
+</html>
+
