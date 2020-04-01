@@ -318,8 +318,7 @@
             <line>While taking refreshment we heard a low yell,</line>
             <line>The <sig wild="col">whoop of Sioux Indians</sig> coming up from the dell;</line>
             <line><violence perp="settler" victim="native">We sprang to our rifles with a flash in each eye,</violence></line>
-            <line><violence perp="settler" victim="native">"Boys," says our brave leader, "we'll fight till we die."</violence></line>
-            <!-- Line above can also be NatUnity. Do we want to tag as both? If so, will need to change schema  -->
+            <line><NatUnity cat="solidarity"></NatUnity>"Boys," says our brave leader, "we'll fight till we die."</line>
         </verse>
         <verse>
             <line>They made a bold dash and came near to our train</line>
