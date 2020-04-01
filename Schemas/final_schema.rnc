@@ -6,19 +6,20 @@ author = element author { text }
 verse = element verse { line+ }
 line =
     element line {
-        mixed { (action | homeland | sig | violence | possess | NatUnity)* }
+        mixed { lang?, (action | homeland | sig | violence | possess | NatUnity)* }
     }
+lang = attribute lang { "german"|"english"}
 action = element action { text, type }
 homeland = element homeland { text, type*, mood* }
 sig = element sig { text, type*, mood*, wild* }
 wild = attribute wild { text }# wild is an attribute that doesn't fall into any specific category but is still sig
-violence = element violence {text,  perp*, victim* }
+violence = element violence {text,  (perp*, victim*)  }
 perp = attribute perp { "settler" | "native"|"ambiguous" }
 victim = attribute victim { "settler" | "native" |"ambiguous"}
 possess = element possess { text, kind }
 kind = attribute kind { "land" | "people" | "labor" | "resource" }
 NatUnity = element NatUnity { text, cat }
-cat = attribute cat { "brotherhood" | "solidarity" | "loyalty" | "pride" | "patriotism" }
+cat = attribute cat { "brotherhood" | "solidarity" | "loyalty" | "pride" | "patriotism"| "loyalty solidarity"|"patriotism loyalty" }
 mood = attribute mood { "positive" | "negative" | "ambiguous" }
 type =
     attribute type {
@@ -41,4 +42,10 @@ type =
         | "exploring"
         | "xenophobia"
         | "ethnocentrism"
+        |"nostalgic celebratory"
+        |"nostalgic loving"
+        |"aggressive xenophobia"
+        |"exploring happy"
+        |"hating xenophobia"
+        |"nostalgic longing"
     }

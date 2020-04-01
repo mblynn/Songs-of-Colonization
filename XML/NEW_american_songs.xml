@@ -34,7 +34,7 @@
             <line>Our chuck it is both bread and meat, mingled well with sand.</line>
         </verse>
         <verse>
-            <line>Our neighbors are the Cheyennes, the 'Rapahoes, and Sioux,</line>
+            <line><sig type="coexisting" mood="positive">Our neighbors are the Cheyennes, the 'Rapahoes, and Sioux</sig>,</line>
             <line>Their mode of navigation is a buffalo-hide canoe.</line>
             <line>And when they come upon you they<violence perp="native" victim="settler">take you unaware</violence>,</line>
             <line>And such a peculiar way they have of raising hunter's hair.</line>
@@ -241,13 +241,13 @@
     <song n="6">
         <title>WESTWARD HO</title>
         <verse>
-            <line>I love not Colorado</line>
+            <line><sig type="belonging" mood="negative">I love not Colorado</sig></line>
             <line>Where the faro table grows,</line>
             <line>And down the desperado</line>
             <line>The rippling Bourbon flows;</line>
         </verse>
         <verse>
-            <line>Nor seek I fair Montana</line>
+            <line><sig type="belonging" mood="negative">Nor seek I fair Montana</sig></line>
             <line>Of bowie-lunging fame;</line>
             <line>The pistol ring of fair Wyoming</line>
             <line>I leave to nobler game.</line>
@@ -260,9 +260,15 @@
         </verse>
         <verse>
             <line>Shall Arizona woo me</line>
+<<<<<<< HEAD
             <line>Where the <sig type="xenophobia">meek Apache bides?</sig></line>
             <line><sig type="xenophobia">Or New Mexico where natives grow</sig></line>
             <line><sig type="xenophobia">With arrow-proof insides?</sig></line>
+=======
+            <line>Where the meek <sig wild="col">Apache</sig> bides?</line>
+            <line>Or New Mexico where <sig wild="col">natives grow</sig></line>
+            <line>With arrow-proof insides?</line>
+>>>>>>> ee73ee932d5297c7043084edf05853c4a0341447
         </verse>
         <verse>
             <line>Nay,'tis where the grizzlies wander</line>
@@ -277,10 +283,15 @@
             <line>In <possess kind="land">his native wildwood lair.</possess></line>
         </verse>
         <verse>
+<<<<<<< HEAD
             <line>Or <action type="exploring">I'll seek the gulch deserted</action></line>
             <line>And <sig type="ethnocentrism">dream of the wild Red man,</sig></line>
+=======
+            <line><action type="exploring">Or I'll seek the gulch deserted</action></line>
+            <line>And dream of the <sig wild="col">wild Red man</sig>,</line>
+>>>>>>> ee73ee932d5297c7043084edf05853c4a0341447
             <line>And I'll build a cot on a corner lot</line>
-            <line>And get rich as soon as I can.</line>
+            <line><sig type="longing">And get rich as soon as I can</sig>.</line>
         </verse>
     </song>
     <song n="7">
@@ -314,6 +325,7 @@
             <line>The <sig wild="col">whoop of Sioux Indians</sig> coming up from the dell;</line>
             <line><violence perp="settler" victim="native">We sprang to our rifles with a flash in each eye,</violence></line>
             <line><violence perp="settler" victim="native">"Boys," says our brave leader, "we'll fight till we die."</violence></line>
+            <!-- Line above can also be NatUnity. Do we want to tag as both? If so, will need to change schema  -->
         </verse>
         <verse>
             <line>They made a bold dash and came near to our train</line>
@@ -336,8 +348,13 @@
         <verse>
             <line>We <action type="exploring">hitched up our horses and we started our train;</action></line>
             <line><violence perp="settler" victim="native">Three more bloody battles this trip on the plain;</violence></line>
+<<<<<<< HEAD
             <line><violence perp="native" victim="settler">And in our last battle three of our brave boys fell,</violence></line>
             <line>And we left them to rest in a green, shady dell.</line>
+=======
+            <line><violence>And in our last battle three of our brave boys fell,</violence></line>
+            <line><NatUnity cat="brotherhood">And we left them to rest in a green, shady dell</NatUnity>.</line>
+>>>>>>> ee73ee932d5297c7043084edf05853c4a0341447
         </verse>
     </song>
     <song n="8">
@@ -361,7 +378,7 @@
         <verse>
             <line><violence perp="settler" victim="native">We whipped the Sioux and scalped them too,</violence></line>
             <line>While on the western plain,</line>
-            <line>And rode away on our <homeland type="celebratory">homeward way</homeland></line>
+            <line>And rode away on our <homeland type="celebratory" mood="positive">homeward way</homeland></line>
             <line>With none to say us nay,--</line>
             <line>Hurrah, hurrah for the cart brigade! Hurrah!</line>
         </verse>
@@ -369,7 +386,7 @@
             <line><possess kind="people">Mon ami, mon ami, hurrah for our black-haired girls!</possess></line>
             <line><violence perp="settler" victim="native">That braved the Sioux and fought them too,</violence></line>
             <line>While on Montana's plains.</line>
-            <line>We'll hold them true and love them too,</line>
+            <line><sig type="loving" mood="positive">We'll hold them true and love them too</sig>,</line>
             <line>While on the trail of the Pembinah, hurrah!</line>
             <line>Hurrah, hurrah for the cart brigade of Pembinah!</line>
         </verse>
@@ -385,13 +402,19 @@
     <song n="9">
         <title>THE OLD SCOUT'S LAMENT</title>
         <verse>
+<<<<<<< HEAD
             <line><NatUnity cat="brotherhood">Come all of you, my brother scouts,</NatUnity></line>
             <line>And join me in my song;</line>
             <line><NatUnity cat="brotherhood">Come, let us sing together</NatUnity></line>
+=======
+            <line>Come all of you, my brother scouts,</line>
+            <line>And <NatUnity cat="brotherhood">join me in my song</NatUnity>;</line>
+            <line>Come, let us sing together</line>
+>>>>>>> ee73ee932d5297c7043084edf05853c4a0341447
             <line>Though the shadows fall so long.</line>
         </verse>
         <verse>
-            <line>Of all the old frontiersmen</line>
+            <line>Of <sig type="reverant">all the old frontiersmen</sig></line>
             <line>That used to scour the plain,</line>
             <line>There are but very few of them</line>
             <line><NatUnity cat="solidarity">That with us yet remain.</NatUnity></line>
@@ -405,8 +428,13 @@
         <verse>
             <line>There were many of our number</line>
             <line>That never wore the blue,</line>
+<<<<<<< HEAD
             <line><NatUnity cat="loyalty">But, faithfully, they did their part,</NatUnity></line>
             <line><NatUnity cat="brotherhood">As brave men, tried and true.</NatUnity></line>
+=======
+            <line>But, faithfully, they did their part,</line>
+            <line>As <sig type="celebratory">brave men, tried and true</sig>.</line>
+>>>>>>> ee73ee932d5297c7043084edf05853c4a0341447
         </verse>
         <verse>
             <line>They never joined the army,</line>
@@ -422,6 +450,7 @@
         </verse>
         <verse>
             <line>Oh the days of elk and buffalo</line>
+<<<<<<< HEAD
             <line><sig type="nostalgic" mood="ambiguous">It fills my heart with pain</sig></line>
             <line><sig type="nostalgic" mood="amibguous">To know these days are past and gone</sig></line>
             <line>To never come again.</line>
@@ -431,18 +460,36 @@
             <line>Over valley, hill, and plain;</line>
             <line><violence perp="settler" victim="native">We fought him in the mountain top,</violence></line>
             <line><violence perp="settler" victim="native">And fought him down again.</violence></line>
+=======
+            <line>It fills my heart with pain</line>
+            <line>To <sig type="nostalgic">know these days are past and gone</sig></line>
+            <line>To never come again.</line>
+        </verse>
+        <verse>
+            <line>We <violence perp="native" victim="settler">fought the red-skin rascals</violence></line>
+            <!-- Could the perp and victim in this verse be ambiguous. To me it seems more like settlers are fighting defensively -->
+            <line>Over valley, hill, and plain;</line>
+            <line>We fought him in the mountain top,</line>
+            <line>And <violence perp="native" victim="settler">fought him down again</violence>.</line>
+>>>>>>> ee73ee932d5297c7043084edf05853c4a0341447
         </verse>
         <verse>
             <line>These <violence perp="settler" victim="native">fighting days are over;</violence></line>
             <line><violence perp="settler" victim="native">The Indian yell resounds</violence></line>
             <line>No more along the border;</line>
-            <line>Peace sends far sweeter sounds.</line>
+            <line><sig type="peace">Peace sends far sweeter sounds</sig>.</line>
         </verse>
         <verse>
+<<<<<<< HEAD
             <line><NatUnity cat="brotherhood">But we found great joy, old comrades</NatUnity></line>
             <line>To hear, and make it die;</line>
             <line><homeland type="celebratory" mood="positive">We won bright homes for gentle ones,</homeland></line>
             <line>And now, <possess kind="land">our West,</possess> <homeland type="nostalgic" mood="ambiguous">good-bye.</homeland></line>
+=======
+            <line>But <sig type="celebratory">we found great joy, old comrades</sig></line>
+            <line>To hear, and make it die;</line>
+            <line>We <sig type="celebratory">won bright homes for gentle ones</sig>,</line>
+            <line>And now, <homeland type="belonging">our West</homeland>, good-bye.</line>
         </verse>
     </song>
 </songs>

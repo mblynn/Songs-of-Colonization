@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="GitHub/Songs-of-Colonization/Schemas/final_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<songs>
+    <song n="1">
+        <title>Afrikanisches Reiterlied</title>
+        <verse>
+            <line lang="german">Hallo, ich treck mit Reiterlust </line>
+            <line lang="german">Die Pad entlang zu Pferd! </line>
+            <!-- How should  separate the languages? -->
+            <line lang="german">Das Herz frohlockt in weiter Brust,</line>
+            <line lang="german"> Gleichwie an Mutters Herd! </line>
+            <!--this seems to have inherent significance as "homeland" because it refers to a mothers hearth- but it is only implied and not direct, so i used "sig". is it too ambiguous to be included? -->
+            <line lang="german"> Es kennt nicht Sorg‘, es kennt nicht Plag‘,</line>
+            <line lang="german">Kein Reiter grämet sich. </line>
+            <line lang="german"> Und dennoch ich voll Sehnsucht frag‘: </line>
+            <line lang="german"> Wann kehr‘ zur Heimat ich?</line>
+        </verse>
+        <verse>
+            <line lang="german"> Und reit‘ ich so de Pad entlang </line>
+            <line lang="german">Im bunten Sonnenschein, </line>
+            <line lang="german">Durch blauen Ather tönt mein Sang</line>
+            <line lang="german">Dann in den Busch hinein </line>
+            <line lang="german">Er trägt das Lied in alle Welt, </line>
+            <line lang="german">was grad mein Herz erfüllt. </line>
+            <line lang="german"> Doch merkt, dass mir kein Lied gefällt, </line>
+            <line lang="german">was meinen Lieb nicht gilt. </line>
+        </verse>
+        <verse>
+            <line lang="german">Das Kudu und das Wildebeest, </line>
+            <line lang="german">Der Gemsbock und der Strauß, </line>
+            <line lang="german"> Ich scheuch‘ sie auf aus ihrem Nest </line>
+            <line lang="german">Und schieß sie mir zum Schmaus. </line>
+            <!--do we care about this? its only violence against animals, but it expresses the idea of inherent ownership over a resource -->
+            <line lang="german">Bei Hottentotten, Hereros,</line>
+            <!-- can we add derogatory, need a better word.. or should i use "wild" instead? -->
+            <line lang="german">Find‘ tausend Frauen ich,</line>
+            <!-- is this inherernt violence? its most likely (based on historical context) referring to abuse/rape, but there is no direct connection-->
+            <line lang="german">Und dennoch sehn‘ ich immer bloß</line>
+            <line lang="german">Zu meinen Liebchen mich.</line>
+        </verse>
+        <verse>
+            <line lang="german">Durch Berg und Tal hinauf, hinab,</line>
+            <line lang="german">So reit‘ ich fort und fort, </line>
+            <line lang="german">hinauf, hinab im Schritt und Trab, </line>
+            <line lang="german">So geht’s von Ort zu Ort.</line>
+            <line lang="german">Auch den Galopp verschmäh‘ ich nicht.</line>
+            <line lang="german">Frei liegt die Pad vor mir!</line>
+            <line lang="german">Doch ist die Heimat erst in Sicht, </line>
+            <line lang="german">Zum Halten ich Parier‘! </line>
+        </verse>
+    </song>
+    <song n="2">
+        <title>Das Sudwesterlied </title>
+        <verse>
+            <line lang="german">Hart wie Kameldornholz ist unser Land</line>
+            <line lang="german">Und trocken sind seine Riviere.</line>
+            <line lang="german"> Die Klippen, sie sind von der Sonne verbrannt</line>
+            <line lang="german">Und scheu sind im Busch die Tiere.</line>
+            <line lang="german">|: Und sollte man uns fragen:</line>
+            <line lang="german">Was hält euch denn hier fest?</line>
+            <line lang="german">Wir könnten nur sagen:</line>
+            <line lang="german">Wir lieben Südwest! :|</line>
+            <!-- this line comes up in evert verse, do i only mark it once? -->
+        </verse>
+        <verse>
+            <line lang="german">Doch unsre Liebe ist teuer bezahlt</line>
+            <!-- a lot of these are negative discriptons of the homeland, but im not sure that I should tag them because they are not direct references, and are more negatives about the conditions of the land but not their true feelings- the overall tone is very positive and marking this as negative mat become confusing-->
+            <line lang="german">Trotz allem, wir lassen dich nicht</line>
+            <line lang="german">Weil unsere Sorgen überstrahlt</line>
+            <line lang="german">Der Sonne hell leuchtendes Licht.</line>
+            <line lang="german">|: Und sollte man uns fragen:</line>
+            <line lang="german">Was en euch en hier fest?</line>
+            <line lang="german">Wir könnten nur sagen:</line>
+            <line lang="german">Wir lieben Südwest! </line>
+        </verse>
+        <verse>
+            <line lang="german">Und kommst du selber in unser Land</line>
+            <line lang="german">Und hast seine Weiten gesehen</line>
+            <line lang="german">Und hat unsre Sonne ins Herz dir gebrannt</line>
+            <line lang="german">Dann kannst du nicht wieder gehen.</line>
+            <line lang="german">|: Und sollte man uns fragen:</line>
+            <line lang="german">Was hält euch denn hier fest?</line>
+            <line lang="german">Wir könnten nur sagen:</line>
+            <line lang="german">Wir lieben Südwest! :|</line>
+        </verse>
+    </song>
+    <song n="3">
+        <title>Schutztruppenlied</title>
+        <verse>
+            <line lang="german">„Ich bin ein junges Reiterblut – in kaiserlichem Sold, –</line>
+            <line lang="german">Trag‘ auf dem Ohre keck den Hut, – frag‘ nicht nach Lieb‘ und Gold.
+                – </line>
+            <line lang="german">Hab‘ unter mir ein flottes Pferd – und führ‘ ein gut Gewehr, – </line>
+            <line lang="german">Was sonst der Himmel mir beschert, – das wiegt bei mir nicht schwer.
+                – </line>
+            <line lang="german">Wir dienen dir, lieb Vaterland, – im Südwestafrika; –</line>
+            <line lang="german">Schutztruppe werden wir genannt, – zum Schutze sind wir da. –</line>
+            <!-- my tags here definitly feel like a strech but something about using the word "protection" seems interesting because it implies there is an opposing force -->
+        </verse>
+        <verse>
+            <line lang="german">Brennt noch so stark der Sonne Glut – auf heißem Wüstensand,
+                –</line>
+            <line lang="german">Wir krempen um den breiten Hut – und ziehn vergnügt durchs Land;
+                –</line>
+            <line lang="german">Quält uns der Durst auch noch so sehr, – quält uns der Hunger
+                schier, – </line>
+            <line lang="german">Wir nehmen’s alle nicht so schwer; – den alle denken wir: --</line>
+            <line lang="german">Wir dienen dir, lieb Vaterland, – im Südwestafrika; –</line>
+            <line lang="german">Schutztruppe werden wir genannt, – zum Schutze sind wir da. –</line>
+        </verse>
+        <verse>
+            <line lang="german">Und haben wir so manche Nacht, – zu Fuß und auch zu Pferd –</line>
+            <line lang="german">Dem Schlaf getrotzt und treu gewacht, – es hat uns nicht beschwert.
+                – </line>
+            <line lang="german">Für deutsche Bruder tun wir’s gern, – und Stolz füllt unsre Brust,
+                –</line>
+            <line lang="german">Für unsern Kaiser, unsern Herrn; – den wir sind uns bewusst: – </line>
+            <line lang="german">Wir dienen dir, lieb Vaterland, – im Südwestafrika; –</line>
+            <line lang="german">Schutztruppe werden wir genannt, – zum Schutze sind wir da. –</line>
+        </verse>
+        <verse>
+            <line lang="german">Wir sochten schon so manchen Strauß – im Busch und Felsgeröll
+                –</line>
+            <line lang="german">Mit diesen schwartzen Teufeln aus und färbten rot ihr Fell. – </line>
+            <line lang="german">Sie rissen aus, wir hinterdrein – soweit der Himmel blau, –</line>
+            <line lang="german">Und holten wir sie selten ein, sie wissen doch genau: –</line>
+            <line lang="german">Wir dienen dir, lieb Vaterland, – im Südwestafrika; –</line>
+            <line lang="german">Schutztruppe werden wir genannt, – zum Schutze sind wir da. –</line>
+        </verse>
+        <verse>
+            <line lang="german">Doch ach, so mancher Kamerad – in voller Lebenskraft, –</line>
+            <line lang="german">Bei todeskühner Reitertat – ward er dahingerafft. –</line>
+            <line lang="german">Für unsern Kaiser, für das Reich – gab er dahin sein Blut, –</line>
+            <line lang="german">Auf sein Gesicht, so todesbleich, da legten wir den Hut. –</line>
+            <line lang="german">Wir dienen dir, lieb Vaterland, – im Südwestafrika; –</line>
+            <line lang="german">Schutztruppe werden wir genannt, – zum Schutze sind wir da. –</line>
+        </verse>
+        <verse>
+            <line lang="german">Und kommt auch mal an uns die Reih‘, – wir bleiben unverzagt;
+                –</line>
+            <line lang="german">In jedem Kampfe wird aufs neu – das Leben frisch gewagt, –</line>
+            <line lang="german">Wir kämpfen ja für deutsche Macht, für deutsche Herrlichkeit!
+                –</line>
+            <line lang="german">Der fernen Heimat wird gedacht – treulich in Freud‘ und Lied.
+                –</line>
+            <line lang="german">Wir dienen dir, lieb Vaterland, – im Südwestafrika; –</line>
+            <line lang="german">Schutztruppe werden wir genannt, – Schutztruppe hoch, hurra!.
+                –</line>
+        </verse>
+    </song>
+</songs>
