@@ -260,21 +260,18 @@
         </verse>
         <verse>
             <line>Shall Arizona woo me</line>
-<<<<<<< HEAD
             <line>Where the <sig type="xenophobia">meek Apache bides?</sig></line>
             <line><sig type="xenophobia">Or New Mexico where natives grow</sig></line>
             <line><sig type="xenophobia">With arrow-proof insides?</sig></line>
-=======
             <line>Where the meek <sig wild="col">Apache</sig> bides?</line>
             <line>Or New Mexico where <sig wild="col">natives grow</sig></line>
             <line>With arrow-proof insides?</line>
->>>>>>> ee73ee932d5297c7043084edf05853c4a0341447
         </verse>
         <verse>
             <line>Nay,'tis where the grizzlies wander</line>
             <line>And the lonely diggers roam,</line>
             <line>And <sig type="xenophobia">the grim Chinese from the squatter flees</sig></line>
-            <line>That <homeland type="possessing" mood="positive">I'll make my humble home.</homeland></line>
+            <line>That <homeland type="possessive" mood="positive">I'll make my humble home.</homeland></line>
         </verse>
         <verse>
             <line>I'll <action type="aggressive"></action>chase the wild tarantula</line>
@@ -283,13 +280,10 @@
             <line>In <possess kind="land">his native wildwood lair.</possess></line>
         </verse>
         <verse>
-<<<<<<< HEAD
             <line>Or <action type="exploring">I'll seek the gulch deserted</action></line>
             <line>And <sig type="ethnocentrism">dream of the wild Red man,</sig></line>
-=======
             <line><action type="exploring">Or I'll seek the gulch deserted</action></line>
             <line>And dream of the <sig wild="col">wild Red man</sig>,</line>
->>>>>>> ee73ee932d5297c7043084edf05853c4a0341447
             <line>And I'll build a cot on a corner lot</line>
             <line><sig type="longing">And get rich as soon as I can</sig>.</line>
         </verse>
@@ -348,13 +342,10 @@
         <verse>
             <line>We <action type="exploring">hitched up our horses and we started our train;</action></line>
             <line><violence perp="settler" victim="native">Three more bloody battles this trip on the plain;</violence></line>
-<<<<<<< HEAD
             <line><violence perp="native" victim="settler">And in our last battle three of our brave boys fell,</violence></line>
             <line>And we left them to rest in a green, shady dell.</line>
-=======
             <line><violence>And in our last battle three of our brave boys fell,</violence></line>
             <line><NatUnity cat="brotherhood">And we left them to rest in a green, shady dell</NatUnity>.</line>
->>>>>>> ee73ee932d5297c7043084edf05853c4a0341447
         </verse>
     </song>
     <song n="8">
@@ -402,15 +393,12 @@
     <song n="9">
         <title>THE OLD SCOUT'S LAMENT</title>
         <verse>
-<<<<<<< HEAD
             <line><NatUnity cat="brotherhood">Come all of you, my brother scouts,</NatUnity></line>
             <line>And join me in my song;</line>
             <line><NatUnity cat="brotherhood">Come, let us sing together</NatUnity></line>
-=======
             <line>Come all of you, my brother scouts,</line>
             <line>And <NatUnity cat="brotherhood">join me in my song</NatUnity>;</line>
             <line>Come, let us sing together</line>
->>>>>>> ee73ee932d5297c7043084edf05853c4a0341447
             <line>Though the shadows fall so long.</line>
         </verse>
         <verse>
@@ -428,13 +416,10 @@
         <verse>
             <line>There were many of our number</line>
             <line>That never wore the blue,</line>
-<<<<<<< HEAD
             <line><NatUnity cat="loyalty">But, faithfully, they did their part,</NatUnity></line>
             <line><NatUnity cat="brotherhood">As brave men, tried and true.</NatUnity></line>
-=======
             <line>But, faithfully, they did their part,</line>
             <line>As <sig type="celebratory">brave men, tried and true</sig>.</line>
->>>>>>> ee73ee932d5297c7043084edf05853c4a0341447
         </verse>
         <verse>
             <line>They never joined the army,</line>
@@ -450,9 +435,8 @@
         </verse>
         <verse>
             <line>Oh the days of elk and buffalo</line>
-<<<<<<< HEAD
             <line><sig type="nostalgic" mood="ambiguous">It fills my heart with pain</sig></line>
-            <line><sig type="nostalgic" mood="amibguous">To know these days are past and gone</sig></line>
+            <line><sig type="nostalgic" mood="ambiguous">To know these days are past and gone</sig></line>
             <line>To never come again.</line>
         </verse>
         <verse>
@@ -460,7 +444,6 @@
             <line>Over valley, hill, and plain;</line>
             <line><violence perp="settler" victim="native">We fought him in the mountain top,</violence></line>
             <line><violence perp="settler" victim="native">And fought him down again.</violence></line>
-=======
             <line>It fills my heart with pain</line>
             <line>To <sig type="nostalgic">know these days are past and gone</sig></line>
             <line>To never come again.</line>
@@ -471,7 +454,6 @@
             <line>Over valley, hill, and plain;</line>
             <line>We fought him in the mountain top,</line>
             <line>And <violence perp="native" victim="settler">fought him down again</violence>.</line>
->>>>>>> ee73ee932d5297c7043084edf05853c4a0341447
         </verse>
         <verse>
             <line>These <violence perp="settler" victim="native">fighting days are over;</violence></line>
@@ -480,12 +462,10 @@
             <line><sig type="peace">Peace sends far sweeter sounds</sig>.</line>
         </verse>
         <verse>
-<<<<<<< HEAD
             <line><NatUnity cat="brotherhood">But we found great joy, old comrades</NatUnity></line>
             <line>To hear, and make it die;</line>
             <line><homeland type="celebratory" mood="positive">We won bright homes for gentle ones,</homeland></line>
             <line>And now, <possess kind="land">our West,</possess> <homeland type="nostalgic" mood="ambiguous">good-bye.</homeland></line>
-=======
             <line>But <sig type="celebratory">we found great joy, old comrades</sig></line>
             <line>To hear, and make it die;</line>
             <line>We <sig type="celebratory">won bright homes for gentle ones</sig>,</line>
