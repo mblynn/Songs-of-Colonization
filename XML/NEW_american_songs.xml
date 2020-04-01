@@ -347,8 +347,8 @@
             <line><NatUnity cat="brotherhood">And we left them to rest in a green, shady dell</NatUnity>.</line>
         </verse>
     </song>
-    <song n="8">
-        <!-- Might be Canandian. Do some background research before deciding to use this -->
+    <!--<song n="8">
+        <!-\- Might be Canandian. Do some background research before deciding to use this -\->
         <title>THE "METIS" SONG OF THE BUFFALO HUNTERS</title>
         <author>Robideau</author>
         <verse>
@@ -369,7 +369,7 @@
             <line><violence perp="settler" victim="native">We whipped the Sioux and scalped them too,</violence></line>
             <line>While on the western plain,</line>
             <line>And rode away on our <homeland type="celebratory" mood="positive">homeward way</homeland></line>
-            <line>With none to say us nay,--</line>
+            <line>With none to say us nay,-\-</line>
             <line>Hurrah, hurrah for the cart brigade! Hurrah!</line>
         </verse>
         <verse>
@@ -388,7 +388,7 @@
             <line>Hurrah, hurrah for the cart brigade! Hurrah!</line>
             <line><action type="celebratory">Hurrah! Hurrah!</action></line>
         </verse>
-    </song>
+    </song>-->
     <song n="9">
         <title>THE OLD SCOUT'S LAMENT</title>
         <verse>
