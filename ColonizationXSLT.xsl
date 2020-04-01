@@ -8,10 +8,12 @@
         <html>
             <head>
                 <title>Songs</title>
+                <link rel="stylesheet" type="text/css" href="xsltCSS.css"/>
             </head>
             <body>
                 <h1>Songs of Colonization</h1>
                 <h2>Contents</h2>
+
                 <!-- Creates table of contents -->
                 <ul>
                     <xsl:apply-templates select="//song" mode="toc"/>
@@ -33,13 +35,12 @@
     </xsl:template>
     <xsl:template match="song">
         <!--Wraps each song in a <section> tag-->
-        
+
         <section>
             <!-- Outputs the titles as clickable links -->
             <h2 id="song{@n}">
                 <xsl:apply-templates select="title"/>
             </h2>
-            
             <xsl:apply-templates select="verse"/>
         </section>
     </xsl:template>
