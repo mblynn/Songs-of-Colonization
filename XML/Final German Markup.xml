@@ -5,7 +5,7 @@
         <title>Afrikanisches Reiterlied</title> 
         <verse> 
             <line lang="german">Hallo, ich treck mit Reiterlust </line>
-            <line lang="english">Hello, I treck with a riders delight </line>
+            <line lang="english">Hello, <action type="exploring">I treck with a riders delight</action> </line>
             
             <line lang="german" >Die Pad entlang zu Pferd! </line>
             <line lang="english">Along the path on horseback</line>
@@ -44,8 +44,8 @@
             <line lang="english">And out into the bush</line>
 
             <line lang="german">Er trägt das Lied in alle Welt, </line>
-            <line lang="english">it carries the song to the whole world,</line>
-
+            <line lang="english">it <NatUnity cat="pride">carries the song to the whole world</NatUnity>,</line>
+<!--is this natunity. the song seems that it is spreading to the world and they are prideful about that?-->
             <line lang="german">was grad mein Herz erfüllt. </line>
             <line lang="english">what fills my heart </line>
 
@@ -78,7 +78,7 @@
  <!-- is this inherernt violence? its most likely (based on historical context) referring to abuse/rape, but there is no direct connection-->
             
             <line lang="german">Und dennoch sehn‘ ich immer bloß</line>
-            <line lang="english">And yet I only long for </line>
+            <line lang="english">And yet <sig type="longing">I only long for</sig> </line>
 
             <line lang="german">Zu meinen Liebchen mich.</line>
             <line lang="english">My love</line>
@@ -89,7 +89,7 @@
 
             <line lang="german">So reit‘ ich fort und fort, </line>
             <line lang="english">I ride away and away,</line>
-
+<!--tag this as <action type="exploring">-->
             <line lang="german">hinauf, hinab im Schritt und Trab, </line>
             <line lang="english">Up and down, in walk and trot </line>
 
@@ -146,7 +146,7 @@
             <line lang="english"><homeland type="loving" mood= "positive" >Despite everything, we would not leave you</homeland> </line>
             
             <line lang="german">Weil unsere Sorgen überstrahlt</line>
-            <line lang="english">Because out worries are outshone </line>
+            <line lang="english">Because our worries are outshone </line>
 
             <line lang="german">Der Sonne hell leuchtendes Licht.</line>
             <line lang="english">by the brightly shining sun </line>
@@ -168,7 +168,7 @@
             <line lang="english">And should you come yourself to <possess kind="land">our country</possess> </line>
 
             <line lang="german">Und hast seine Weiten gesehen</line>
-            <line lang="english">And see it’s vast expanses </line>
+            <line lang="english">And see it’s <homeland type="celebratory" mood="positive">vast expanses</homeland> </line>
 
             <line lang="german">Und hat unsre Sonne ins Herz dir gebrannt</line>
             <line lang="english">And let our sun burn in your heart </line>
@@ -199,7 +199,7 @@
             <line lang="english">I wear my hat cocked upon my ear, I don’t ask for love and gold</line>
 
             <line lang="german">Hab‘ unter mir ein flottes Pferd – und führ‘ ein gut Gewehr, – </line>
-            <line lang="english">For I have a dashing horse underneath me – and carry a good rifle </line>
+            <line lang="english">For <possess kind="resource">I have a dashing horse</possess> underneath me – and <possess kind="resource">carry a good rifle</possess> </line>
 
             <line lang="german">Was sonst der Himmel mir beschert, – das wiegt bei mir nicht schwer. – </line>
             <line lang="english">Whatever else the heavens might bestow on me – that doesn’t weigh heavily on me </line>
@@ -219,7 +219,7 @@
             <line lang="english">We turn down the brim of our hats --  and <action type="exploring happy">wander merrily through the land</action></line> 
 
             <line lang="german">Quält uns der Durst auch noch so sehr, – quält uns der Hunger schier, – </line>
-            <line lang="english">When we are tormented by thirst, - tormented by hunger, -</line>
+            <line lang="english">When we are <sig type="complaint" mood="negative">tormented by thirst, - tormented by hunger</sig>, -</line>
 
             <line lang="german">Wir nehmen’s alle nicht so schwer; – den alle denken wir: --</line>
             <line lang="english">We don't take it all so hard; - instead we all think: -</line>
@@ -273,7 +273,7 @@
             <line lang="english">But, oh, many a <NatUnity cat="brotherhood">comrade</NatUnity> - in the prime of his life, -</line>
 
             <line lang="german">Bei todeskühner Reitertat – ward er dahingerafft. –</line>
-            <line lang="english">By dareing deed on horseback – <violence perp="ambiguous" victim="settler">he was felled</violence>. –</line>
+            <line lang="english">By daring deed on horseback – <violence perp="ambiguous" victim="settler">he was felled</violence>. –</line>
 
             <line lang="german">Für unsern Kaiser, für das Reich – gab er dahin sein Blut, –</line>
             <line lang="english"><NatUnity cat="patriotism loyalty">For our  kaiser, for our country, he gave his blood</NatUnity> </line>
