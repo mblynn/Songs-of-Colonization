@@ -12,12 +12,28 @@
             </head>
             <body>
                 <h1>Songs of Colonization</h1>
-                <h2>Contents</h2>
+                <section class="container">
+                    <div id="1">
+                        <h2>Contents</h2>
 
-                <!-- Creates table of contents -->
-                <ul>
-                    <xsl:apply-templates select="//song" mode="toc"/>
-                </ul>
+                        <!-- Creates table of contents -->
+                        <ul>
+                            <xsl:apply-templates select="//song" mode="toc"/>
+                        </ul>
+                    </div>
+                    <hr/>
+                    <div id="2">
+                        <h2>Key</h2>
+                        <ul>
+                            <li class="violence">Violence</li>
+                            <li class="action">Action</li>
+                            <li class="sig">Significant phrase</li>
+                            <li class="homeland">Homeland</li>
+                            <li class="NatUnity">National Unity</li>
+                            <li class="possess">Possession</li>
+                        </ul>
+                    </div>
+                </section>
                 <hr/>
                 <xsl:apply-templates select="//song"/>
             </body>
