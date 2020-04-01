@@ -1,11 +1,17 @@
-/* Tooltip container */
+span.violence {background-color: red;}
+span.action {background-color: magenta;}
+span.sig {background-color: orange;}
+span.homeland {background-color: MediumSpringGreen;}
+span.NatUnity {background-color: RoyalBlue;}
+span.possess {background-color: MediumOrchid;}
+/*/\* Tooltip container *\/
 .tooltip {
   position: relative;
   display: inline-block;
-  border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+  border-bottom: 1px dotted black; /\* If you want dots under the hoverable text *\/
 }
 
-/* Tooltip text */
+/\* Tooltip text *\/
 .tooltip .tooltiptext {
   visibility: hidden;
   width: 120px;
@@ -15,15 +21,16 @@
   padding: 5px 0;
   border-radius: 6px;
  
-  /* Position the tooltip text - see examples below! */
+  /\* Position the tooltip text - see examples below! *\/
   position: absolute;
   z-index: 1;
 }
 
-/* Show the tooltip text when you mouse over the tooltip container */
+/\* Show the tooltip text when you mouse over the tooltip container *\/
 .tooltip:hover .tooltiptext {
   visibility: visible;
 }
-/*<div class="tooltip">Hover over me
+/\*<div class="tooltip">Hover over me
   <span class="tooltiptext">Tooltip text</span>
-</div> */
+</div> *\/
+*/
