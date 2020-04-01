@@ -32,13 +32,14 @@
         </li>
     </xsl:template>
     <xsl:template match="song">
+        <!--Wraps each song in a <section> tag-->
+        
         <section>
             <!-- Outputs the titles as clickable links -->
             <h2 id="song{@n}">
                 <xsl:apply-templates select="title"/>
             </h2>
-            <!--Wraps each song in a <section> tag-->
-
+            
             <xsl:apply-templates select="verse"/>
         </section>
     </xsl:template>
