@@ -260,25 +260,25 @@
         </verse>
         <verse>
             <line>Shall Arizona woo me</line>
-            <line>Where the meek Apache bides?</line>
-            <line>Or New Mexico where natives grow</line>
-            <line>With arrow-proof insides?</line>
+            <line>Where the <sig type="xenophobia">meek Apache bides?</sig></line>
+            <line><sig type="xenophobia">Or New Mexico where natives grow</sig></line>
+            <line><sig type="xenophobia">With arrow-proof insides?</sig></line>
         </verse>
         <verse>
             <line>Nay,'tis where the grizzlies wander</line>
             <line>And the lonely diggers roam,</line>
-            <line>And the grim Chinese from the squatter flees</line>
-            <line>That I'll make my humble home.</line>
+            <line>And <sig type="xenophobia">the grim Chinese from the squatter flees</sig></line>
+            <line>That <homeland type="possessing" mood="positive">I'll make my humble home.</homeland></line>
         </verse>
         <verse>
-            <line>I'll chase the wild tarantula</line>
-            <line>And the fierce cayote I'll dare,</line>
-            <line>And the locust grim, I'll battle him</line>
-            <line>In his native wildwood lair.</line>
+            <line>I'll <action type="aggressive"></action>chase the wild tarantula</line>
+            <line>And the <action type="aggressive">fierce cayote I'll dare,</action></line>
+            <line>And the <action type="aggressive">locust grim, I'll battle him</action></line>
+            <line>In <possess kind="land">his native wildwood lair.</possess></line>
         </verse>
         <verse>
-            <line>Or I'll seek the gulch deserted</line>
-            <line>And dream of the wild Red man,</line>
+            <line>Or <action type="exploring">I'll seek the gulch deserted</action></line>
+            <line>And <sig type="ethnocentrism">dream of the wild Red man,</sig></line>
             <line>And I'll build a cot on a corner lot</line>
             <line>And get rich as soon as I can.</line>
         </verse>
@@ -289,13 +289,13 @@
             <line>I'll sing you a song, though it may be a sad one,</line>
             <line>Of trials and troubles and where they first begun;</line>
             <line>I <homeland type="longing">left my dear kindred, my friends, and my home,</homeland></line>
-            <line>Across the wild deserts and mountains to roam.</line>
+            <line>Across <action type="exploring">the wild deserts and mountains to roam.</action></line>
         </verse>
         <verse>
-            <line>I crossed the Missouri and joined a large train</line>
-            <line>Which bore us over mountain and valley and plain;</line>
+            <line>I <action type="exploring">crossed the Missouri and joined a large train</action></line>
+            <line>Which <action type="exploring">bore us over mountain and valley and plain;</action></line>
             <line>And often of evenings out hunting we'd go</line>
-            <line>To shoot the fleet antelope and wild buffalo.</line>
+            <line>To <possess kind="resource">shoot the fleet antelope and wild buffalo.</possess></line>
         </verse>
         <verse>
             <line>We heard of <sig wild="col">Sioux Indians</sig> all out on the plains</line>
@@ -304,9 +304,9 @@
             <line><violence perp="native" victim="settler">When captured by Indians no mercy they show.</violence></line>
         </verse>
         <verse>
-            <line>We traveled three weeks till we came to the Platte</line>
-            <line>And pitched out our tents at the end of the flat,</line>
-            <line>We spread down our blankets on the green grassy ground,</line>
+            <line>We <action type="exploring">traveled three weeks till we came to the Platte</action></line>
+            <line>And <possess kind="land">pitched out our tents at the end of the flat,</possess></line>
+            <line>We <possess kind="land">spread down our blankets on the green grassy ground,</possess></line>
             <line>While our horses and mules were grazing around.</line>
         </verse>
         <verse>
@@ -334,9 +334,9 @@
             <line>Till the end of the battle was all that was heard.</line>
         </verse>
         <verse>
-            <line>We hitched up our horses and we started our train;</line>
+            <line>We <action type="exploring">hitched up our horses and we started our train;</action></line>
             <line><violence perp="settler" victim="native">Three more bloody battles this trip on the plain;</violence></line>
-            <line><violence>And in our last battle three of our brave boys fell,</violence></line>
+            <line><violence perp="native" victim="settler">And in our last battle three of our brave boys fell,</violence></line>
             <line>And we left them to rest in a green, shady dell.</line>
         </verse>
     </song>
@@ -345,17 +345,17 @@
         <title>THE "METIS" SONG OF THE BUFFALO HUNTERS</title>
         <author>Robideau</author>
         <verse>
-            <line>Hurrah for the buffalo hunters!</line>
+            <line>Hurrah for the <possess kind="resource">buffalo hunters!</possess></line>
             <line>Hurrah for the cart brigade!</line>
-            <line>That creak along on its winding way,</line>
-            <line>While we dance and sing and play.</line>
+            <line><action type="exploring">That creak along on its winding way,</action></line>
+            <line><action type="celebratory">While we dance and sing and play.</action></line>
             <line>Hurrah, hurrah for the cart brigade!</line>
         </verse>
         <verse>
-            <line>Hurrah for the Pembinah hunters!</line>
+            <line>Hurrah for the <possess kind="resource">Pembinah hunters!</possess></line>
             <line>Hurrah for its cart brigade!</line>
-            <line>For with horse and gun we roll along</line>
-            <line>O'er mountain and hill and plain.</line>
+            <line>For <action type="exploring">with horse and gun we roll along</action></line>
+            <line><action type="exploring">O'er mountain and hill and plain.</action></line>
             <line>Hurrah, hurrah for the cart brigade!</line>
         </verse>
         <verse>
@@ -366,7 +366,7 @@
             <line>Hurrah, hurrah for the cart brigade! Hurrah!</line>
         </verse>
         <verse>
-            <line>Mon ami, mon ami, hurrah for our black-haired girls!</line>
+            <line><possess kind="people">Mon ami, mon ami, hurrah for our black-haired girls!</possess></line>
             <line><violence perp="settler" victim="native">That braved the Sioux and fought them too,</violence></line>
             <line>While on Montana's plains.</line>
             <line>We'll hold them true and love them too,</line>
@@ -374,39 +374,39 @@
             <line>Hurrah, hurrah for the cart brigade of Pembinah!</line>
         </verse>
         <verse>
-            <line>We have the skins and the meat so sweet.</line>
+            <line><possess kind="resource">We have the skins and the meat so sweet.</possess></line>
             <line>And we'll sit by the fire in the lodge so neat,</line>
             <line>While the wind blows cold and the snow is deep.</line>
             <line>Then roll in our robes and laugh as we sleep.</line>
             <line>Hurrah, hurrah for the cart brigade! Hurrah!</line>
-            <line>Hurrah! Hurrah!</line>
+            <line><action type="celebratory">Hurrah! Hurrah!</action></line>
         </verse>
     </song>
     <song n="9">
         <title>THE OLD SCOUT'S LAMENT</title>
         <verse>
-            <line>Come all of you, my brother scouts,</line>
+            <line><NatUnity cat="brotherhood">Come all of you, my brother scouts,</NatUnity></line>
             <line>And join me in my song;</line>
-            <line>Come, let us sing together</line>
+            <line><NatUnity cat="brotherhood">Come, let us sing together</NatUnity></line>
             <line>Though the shadows fall so long.</line>
         </verse>
         <verse>
             <line>Of all the old frontiersmen</line>
             <line>That used to scour the plain,</line>
             <line>There are but very few of them</line>
-            <line>That with us yet remain.</line>
+            <line><NatUnity cat="solidarity">That with us yet remain.</NatUnity></line>
         </verse>
         <verse>
             <line>Day after day they're dropping off,</line>
             <line>They're going one by one;</line>
-            <line>Our clan is fast decreasing,</line>
-            <line>Our race is almost run.</line>
+            <line><NatUnity cat="solidarity">Our clan is fast decreasing,</NatUnity></line>
+            <line><NatUnity cat="solidarity">Our race is almost run.</NatUnity></line>
         </verse>
         <verse>
             <line>There were many of our number</line>
             <line>That never wore the blue,</line>
-            <line>But, faithfully, they did their part,</line>
-            <line>As brave men, tried and true.</line>
+            <line><NatUnity cat="loyalty">But, faithfully, they did their part,</NatUnity></line>
+            <line><NatUnity cat="brotherhood">As brave men, tried and true.</NatUnity></line>
         </verse>
         <verse>
             <line>They never joined the army,</line>
@@ -415,34 +415,34 @@
             <line>To help them safely through.</line>
         </verse>
         <verse>
-            <line>But, brothers, we are falling,</line>
-            <line>Our race is almost run;</line>
+            <line><NatUnity cat="brotherhood">But, brothers, we are falling,</NatUnity></line>
+            <line><NatUnity cat="solidarity">Our race is almost run;</NatUnity></line>
             <line>The days of elk and buffalo</line>
             <line>And beaver traps are gone.</line>
         </verse>
         <verse>
             <line>Oh the days of elk and buffalo</line>
-            <line>It fills my heart with pain</line>
-            <line>To know these days are past and gone</line>
+            <line><sig type="nostalgic" mood="ambiguous">It fills my heart with pain</sig></line>
+            <line><sig type="nostalgic" mood="amibguous">To know these days are past and gone</sig></line>
             <line>To never come again.</line>
         </verse>
         <verse>
-            <line>We fought the red-skin rascals</line>
+            <line>We <violence perp="settler" victim="native">fought</violence>the <sig type="xenophobia" mood="negative">red-skin rascals</sig></line>
             <line>Over valley, hill, and plain;</line>
-            <line>We fought him in the mountain top,</line>
-            <line>And fought him down again.</line>
+            <line><violence perp="settler" victim="native">We fought him in the mountain top,</violence></line>
+            <line><violence perp="settler" victim="native">And fought him down again.</violence></line>
         </verse>
         <verse>
-            <line>These fighting days are over;</line>
-            <line>The Indian yell resounds</line>
+            <line>These <violence perp="settler" victim="native">fighting days are over;</violence></line>
+            <line><violence perp="settler" victim="native">The Indian yell resounds</violence></line>
             <line>No more along the border;</line>
             <line>Peace sends far sweeter sounds.</line>
         </verse>
         <verse>
-            <line>But we found great joy, old comrades</line>
+            <line><NatUnity cat="brotherhood">But we found great joy, old comrades</NatUnity></line>
             <line>To hear, and make it die;</line>
-            <line>We won bright homes for gentle ones,</line>
-            <line>And now, our West, good-bye.</line>
+            <line><homeland type="celebratory" mood="positive">We won bright homes for gentle ones,</homeland></line>
+            <line>And now, <possess kind="land">our West,</possess> <homeland type="nostalgic" mood="ambiguous">good-bye.</homeland></line>
         </verse>
     </song>
 </songs>
