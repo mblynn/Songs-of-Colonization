@@ -1,9 +1,12 @@
-span.violence {background-color: red;}
-span.action {background-color: magenta;}
-span.sig {background-color: orange;}
+span.violence {background-color: LightCoral;}
+span.action {background-color: yellow;}
+span.sig {background-color: SandyBrown;}
 span.homeland {background-color: MediumSpringGreen;}
-span.NatUnity {background-color: RoyalBlue;}
+span.NatUnity {background-color: SkyBlue;}
 span.possess {background-color: MediumOrchid;}
+span.positive {font-style: italic;}
+span.negative {font-weight: bold;}
+span.ambiguous {text-decoration: underline;}
 /*/\* Tooltip container *\/
 .tooltip {
   position: relative;
