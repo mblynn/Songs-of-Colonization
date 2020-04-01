@@ -29,12 +29,9 @@
             <line lang="english">The kudu and the wildebeest,</line>
             <line lang="english">The gemsbock and the ostrich, </line>
             <line lang="english">I scare them out of their nest</line> 
-            <line lang="english">And <violence perp= "settler" victim= "ambiguous">shoot them</violence> <possess kind= "resource">for my feast</possess></line>
-<!--do we care about this? its only violence against animals, but it expresses the idea of inherent ownership over a resource -->
+            <line lang="english">And shoot them <possess kind= "resource">for my feast</possess></line>
             <line lang="english">By the <sig  mood="negative" type="xenophobia">Hottentotes and Hereros</sig> </line>
-<!-- can we add derogatory, need a better word.. or should i use "wild" instead? -->
             <line lang="english"><possess kind="people">I find a thousand women</possess> </line>
- <!-- is this inherernt violence? its most likely (based on historical context) referring to abuse/rape, but there is no direct connection-->
             <line lang="english">And yet I only long for </line>
             <line lang="english">My love</line>
         </verse>
@@ -60,7 +57,6 @@
             <line lang="english">What holds you here?</line>
             <line lang="english">We could only say</line>
             <line lang="english"><NatUnity cat="patriotism">We love the Southwest!</NatUnity></line>
-       <!-- this line comes up in evert verse, do i only mark it once? -->
         </verse>
         <verse>
             <line lang="english">our love was paid for dearly </line>
@@ -71,7 +67,7 @@
             <line lang="english">And should we be asked </line>
             <line lang="english">What holds you here?</line>
             <line lang="english">We could only say</line>
-            <line lang="english">We love the Southwest!</line>
+            <line lang="english"><NatUnity cat="patriotism">We love the Southwest!</NatUnity></line>
         </verse>
         <verse>
             <line lang="english">And should you come yourself to <possess kind="land">our country</possess> </line>
@@ -81,7 +77,7 @@
             <line lang="english">And should we be asked </line>
             <line lang="english">What holds you here?</line>
             <line lang="english">We could only say</line>
-            <line lang="english">We love the Southwest!</line>
+            <line lang="english"><NatUnity cat="patriotism">We love the Southwest!</NatUnity></line>
         </verse>
     </song>
     <song n="3">
@@ -92,8 +88,7 @@
             <line lang="english">For I have a dashing horse underneath me – and carry a good rifle </line>
             <line lang="english">Whatever else the heavens might bestow on me – that doesn’t weigh heavily on me </line>
             <line lang="english"><NatUnity cat="loyalty">We serve you</NatUnity>, <homeland type="nostalgic loving" mood="positive">dear fatherland</homeland>, - in Southwest Africa; -</line>
-            <line lang="english">We are called Schutztruppe --  for <action type="aggressive xenophobia">protection</action> <NatUnity cat="loyalty">we are here</NatUnity>.</line> 
-            <!-- my tags here definitly feel like a strech but something about using the word "protection" seems interesting because it implies there is an opposing force -->
+            <line lang="english">We are called Schutztruppe --  for <action type="aggressive xenophobia">protection</action> <NatUnity cat="loyalty">we are here</NatUnity>.</line>
         </verse>
         <verse>
             <line lang="english">No matter how strong the sun burns - on the hot desert sand </line>
@@ -101,7 +96,7 @@
             <line lang="english">When we are tormented by thirst, - tormented by hunger, -</line>
             <line lang="english">We don't take it all so hard; - instead we all think: -</line>
             <line lang="english">We serve you, dear fatherland, - in Southwest Africa; -</line>
-            <line lang="english">We are called Schutztruppe --  for protection we are here. -</line>
+            <line lang="english">We are called Schutztruppe --  for <action type="aggressive xenophobia">protection</action> <NatUnity cat="loyalty">we are here</NatUnity>.</line>
         </verse>
         <verse> 
             <line lang="english">And we have so many nights - on foot and also on horseback –</line>
@@ -109,7 +104,7 @@
             <line lang="english"><NatUnity cat="brotherhood">For German brothers</NatUnity> we do it gladly, - and <NatUnity cat="pride">pride fills our chest</NatUnity>, -</line>
             <line lang="english">For <sig type="reverant" mood="positive">our Kaiser, our Lord</sig>; - because we all know: -</line>           
             <line lang="english">We serve you, dear fatherland, - in Southwest Africa; -</line>     
-            <line lang="english">We are called Schutztruppe --  for protection we are here.</line> 
+            <line lang="english">We are called Schutztruppe --  for <action type="aggressive xenophobia">protection</action> <NatUnity cat="loyalty">we are here</NatUnity>.</line>
         </verse>
         <verse>            
             <line lang="english">We have saught out many an ostrich - through bushes and boulders –</line>           
@@ -117,7 +112,7 @@
             <line lang="english">They took off, we followed them – as far as the sky is blue,  </line>          
             <line lang="english">And even if we rarely caught them, they know very well </line>           
             <line lang="english">We serve you, dear fatherland, - in Southwest Africa; -</line>            
-            <line lang="english">We are called Schutztruppe --  for protection we are here. -</line>
+            <line lang="english">We are called Schutztruppe --  for <action type="aggressive xenophobia">protection</action> <NatUnity cat="loyalty">we are here</NatUnity>.</line>
         </verse>
         <verse>            
             <line lang="english">But, oh, many a <NatUnity cat="brotherhood">comrade</NatUnity> - in the prime of his life, -</line>           
@@ -125,7 +120,7 @@
             <line lang="english"><NatUnity cat="patriotism loyalty">For our  kaiser, for our country, he gave his blood</NatUnity> </line>           
             <line lang="english">upon his face, so pale as death, we lay down his hat–</line>           
             <line lang="english">We serve you, dear fatherland, - in Southwest Africa; -</line>           
-            <line lang="english">We are called Schutztruppe --  for protection we are here. -</line>
+            <line lang="english">We are called Schutztruppe --  for <action type="aggressive xenophobia">protection</action> <NatUnity cat="loyalty">we are here</NatUnity>.</line>
         </verse>
         <verse>           
             <line lang="english">And when it is our turn -- <NatUnity cat="solidarity">we remain undaunted</NatUnity></line>           
