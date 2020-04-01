@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schemas/final_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<songs>
+    <song n="1">
+        <title>Afrikanisches Reiterlied</title> 
+        <verse>          
+            <line lang="english">Hello, I treck with a riders delight </line>                    
+            <line lang="english">Along the path on horseback</line>
+            <!-- How should  separate the languages? -->  
+            <line lang="english">My heart rejoices in my  chest,</line>         
+            <line lang="english">Just like by <sig type="nostalgic celebratory" mood= "positive">my mother’s hearth</sig></line>
+           <!--this seems to have inherent significance as "homeland" because it refers to a mothers hearth- but it is only implied and not direct, so i used "sig". is it too ambiguous to be included? --> 
+            <line lang="english">it knows no worries, it knows no suffering</line>
+            <line lang="english"> No rider ever worries</line>
+            <line lang="english">And yet I ask with longing:</line>
+            <line lang="english"><homeland type="longing" mood="positive">When will I return home?</homeland></line>
+        </verse>
+        <verse>
+            <line lang="english">I ride along the road</line> 
+            <line lang="english">In bright sunshine</line> 
+            <line lang="english">My song rings through the blue ether</line> 
+            <line lang="english">And out into the bush</line>
+            <line lang="english">it carries the song to the whole world,</line>
+            <line lang="english">what fills my heart </line>
+            <line lang="english">But mark this, I don’t like any song</line>
+            <line lang="english">That is not meant for my loved one</line> 
+        </verse>
+        <verse>
+            <line lang="english">The kudu and the wildebeest,</line>
+            <line lang="english">The gemsbock and the ostrich, </line>
+            <line lang="english">I scare them out of their nest</line> 
+            <line lang="english">And shoot them <possess kind= "resource">for my feast</possess></line>
+            <line lang="english">By the <sig  mood="negative" type="xenophobia">Hottentotes and Hereros</sig> </line>
+            <line lang="english"><possess kind="people">I find a thousand women</possess> </line>
+            <line lang="english">And yet I only long for </line>
+            <line lang="english">My love</line>
+        </verse>
+        <verse> 
+            <line lang="english">Through mountains and valleys up and down</line>
+            <line lang="english">I ride away and away,</line>
+            <line lang="english">Up and down, in walk and trot </line>
+            <line lang="english">Is how I go from place from place</line>
+            <line lang="english">I do not shy away from the gallop, </line>
+            <line lang="english">Free lies the road before me!</line>
+            <line lang="english">and when <homeland type="celebratory" mood="positive">my homeland</homeland> comes into sight </line>
+            <line lang="english">I will halt and <NatUnity cat="loyalty">obey</NatUnity> </line>
+        </verse>
+    </song>
+    <song n="2">
+        <title>Das Sudwesterlied </title>
+        <verse>
+            <line lang="english"><possess kind="land">Our Land</possess> is as rugged as the camel thorn tree</line>
+            <line lang="english">And dry are its rivers </line>
+            <line lang="english">The Cliffs are burned by the sun </line>
+            <line lang="english">And the animals of the Bush are shy </line>
+            <line lang="english">And should we be asked </line>
+            <line lang="english">What holds you here?</line>
+            <line lang="english">We could only say</line>
+            <line lang="english"><NatUnity cat="patriotism">We love the Southwest!</NatUnity></line>
+        </verse>
+        <verse>
+            <line lang="english">our love was paid for dearly </line>
+<!-- a lot of these are negative discriptons of the homeland, but im not sure that I should tag them because they are not direct references, and are more negatives about the conditions of the land but not their true feelings- the overall tone is very positive and marking this as negative mat become confusing-->
+            <line lang="english"><homeland type="loving" mood= "positive" >Despite everything, we would not leave you</homeland> </line>
+            <line lang="english">Because out worries are outshone </line>
+            <line lang="english">by the brightly shining sun </line>
+            <line lang="english">And should we be asked </line>
+            <line lang="english">What holds you here?</line>
+            <line lang="english">We could only say</line>
+            <line lang="english"><NatUnity cat="patriotism">We love the Southwest!</NatUnity></line>
+        </verse>
+        <verse>
+            <line lang="english">And should you come yourself to <possess kind="land">our country</possess> </line>
+            <line lang="english">And see it’s vast expanses </line>
+            <line lang="english">And let our sun burn in your heart </line>
+            <line lang="english">Then <NatUnity cat="loyalty">you will never be able to leave again</NatUnity></line>
+            <line lang="english">And should we be asked </line>
+            <line lang="english">What holds you here?</line>
+            <line lang="english">We could only say</line>
+            <line lang="english"><NatUnity cat="patriotism">We love the Southwest!</NatUnity></line>
+        </verse>
+    </song>
+    <song n="3">
+        <title>Schutztruppenlied</title>
+        <verse>
+            <line lang="english">I am a young rider- in <possess kind="land">the Kaisers land</possess>,</line>
+            <line lang="english">I wear my hat cocked upon my ear, I don’t ask for love and gold</line>
+            <line lang="english">For I have a dashing horse underneath me – and carry a good rifle </line>
+            <line lang="english">Whatever else the heavens might bestow on me – that doesn’t weigh heavily on me </line>
+            <line lang="english"><NatUnity cat="loyalty">We serve you</NatUnity>, <homeland type="nostalgic loving" mood="positive">dear fatherland</homeland>, - in Southwest Africa; -</line>
+            <line lang="english">We are called Schutztruppe --  for <action type="aggressive xenophobia">protection</action> <NatUnity cat="loyalty">we are here</NatUnity>.</line>
+        </verse>
+        <verse>
+            <line lang="english">No matter how strong the sun burns - on the hot desert sand </line>
+            <line lang="english">We turn down the brim of our hats --  and <action type="exploring happy">wander merrily through the land</action></line> 
+            <line lang="english">When we are tormented by thirst, - tormented by hunger, -</line>
+            <line lang="english">We don't take it all so hard; - instead we all think: -</line>
+            <line lang="english">We serve you, dear fatherland, - in Southwest Africa; -</line>
+            <line lang="english">We are called Schutztruppe --  for <action type="aggressive xenophobia">protection</action> <NatUnity cat="loyalty">we are here</NatUnity>.</line>
+        </verse>
+        <verse> 
+            <line lang="english">And we have so many nights - on foot and also on horseback –</line>
+            <line lang="english">defied sleep and <NatUnity cat="loyalty solidarity">remained faithfully awake</NatUnity>, - it never weighed us down. –</line>
+            <line lang="english"><NatUnity cat="brotherhood">For German brothers</NatUnity> we do it gladly, - and <NatUnity cat="pride">pride fills our chest</NatUnity>, -</line>
+            <line lang="english">For <sig type="reverant" mood="positive">our Kaiser, our Lord</sig>; - because we all know: -</line>           
+            <line lang="english">We serve you, dear fatherland, - in Southwest Africa; -</line>     
+            <line lang="english">We are called Schutztruppe --  for <action type="aggressive xenophobia">protection</action> <NatUnity cat="loyalty">we are here</NatUnity>.</line>
+        </verse>
+        <verse>            
+            <line lang="english">We have saught out many an ostrich - through bushes and boulders –</line>           
+            <line lang="english">With these <sig type="hating xenophobia" mood="negative">black devils</sig>  and colored red their fur.</line>           
+            <line lang="english">They took off, we followed them – as far as the sky is blue,  </line>          
+            <line lang="english">And even if we rarely caught them, they know very well </line>           
+            <line lang="english">We serve you, dear fatherland, - in Southwest Africa; -</line>            
+            <line lang="english">We are called Schutztruppe --  for <action type="aggressive xenophobia">protection</action> <NatUnity cat="loyalty">we are here</NatUnity>.</line>
+        </verse>
+        <verse>            
+            <line lang="english">But, oh, many a <NatUnity cat="brotherhood">comrade</NatUnity> - in the prime of his life, -</line>           
+            <line lang="english">By dareing deed on horseback – <violence perp="ambiguous" victim="settler">he was felled</violence>. –</line>           
+            <line lang="english"><NatUnity cat="patriotism loyalty">For our  kaiser, for our country, he gave his blood</NatUnity> </line>           
+            <line lang="english">upon his face, so pale as death, we lay down his hat–</line>           
+            <line lang="english">We serve you, dear fatherland, - in Southwest Africa; -</line>           
+            <line lang="english">We are called Schutztruppe --  for <action type="aggressive xenophobia">protection</action> <NatUnity cat="loyalty">we are here</NatUnity>.</line>
+        </verse>
+        <verse>           
+            <line lang="english">And when it is our turn -- <NatUnity cat="solidarity">we remain undaunted</NatUnity></line>           
+            <line lang="english">In every <violence perp="settler" victim="ambiguous">battle</violence> —<NatUnity cat="solidarity">Life is risked</NatUnity> anew</line>           
+            <line lang="english"><violence perp="settler" victim="ambiguous">We fight</violence> for <NatUnity cat="patriotism">German power</NatUnity>, for <NatUnity cat="patriotism">German Glory</NatUnity> </line>            
+            <line lang="english">We think back to our <homeland type="nostalgic longing">distant homeland</homeland> --  <NatUnity cat="loyalty">faithfully</NatUnity> with joy and song </line>            
+            <line lang="english">We serve you, dear fatherland, - in Southwest Africa; -</line>            
+            <line lang="english">We are called Schutztruoppe- long live, huzzah!</line>
+        </verse>
+    </song>
+</songs>
