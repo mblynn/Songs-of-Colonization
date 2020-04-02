@@ -88,15 +88,15 @@
             <line lang="english">For I have a dashing horse underneath me – and carry a good rifle </line>
             <line lang="english">Whatever else the heavens might bestow on me – that doesn’t weigh heavily on me </line>
             <line lang="english"><NatUnity cat="loyalty">We serve you</NatUnity>, <homeland type="nostalgic loving" mood="positive">dear fatherland</homeland>, - in Southwest Africa; -</line>
-            <line lang="english">We are called Schutztruppe --  for <action type="aggressive xenophobia">protection</action> <NatUnity cat="loyalty">we are here</NatUnity>.</line>
+            <line lang="english">We are called Schutztruppe --  for <sig type="aggressive xenophobia" mood= "ambiguous">protection</sig> <NatUnity cat="loyalty">we are here</NatUnity>.</line>
         </verse>
         <verse>
             <line lang="english">No matter how strong the sun burns - on the hot desert sand </line>
-            <line lang="english">We turn down the brim of our hats --  and <action type="exploring happy">wander merrily through the land</action></line> 
+            <line lang="english">We turn down the brim of our hats --  and <sig type="exploring happy" mood="positive">wander merrily through the land</sig></line> 
             <line lang="english">When we are tormented by thirst, - tormented by hunger, -</line>
             <line lang="english">We don't take it all so hard; - instead we all think: -</line>
             <line lang="english">We serve you, dear fatherland, - in Southwest Africa; -</line>
-            <line lang="english">We are called Schutztruppe --  for <action type="aggressive xenophobia">protection</action> <NatUnity cat="loyalty">we are here</NatUnity>.</line>
+            <line lang="english">We are called Schutztruppe --  for <sig type="aggressive xenophobia" mood= "ambiguous">protection</sig> <NatUnity cat="loyalty">we are here</NatUnity>.</line>
         </verse>
         <verse> 
             <line lang="english">And we have so many nights - on foot and also on horseback –</line>
@@ -104,7 +104,7 @@
             <line lang="english"><NatUnity cat="brotherhood">For German brothers</NatUnity> we do it gladly, - and <NatUnity cat="pride">pride fills our chest</NatUnity>, -</line>
             <line lang="english">For <sig type="reverant" mood="positive">our Kaiser, our Lord</sig>; - because we all know: -</line>           
             <line lang="english">We serve you, dear fatherland, - in Southwest Africa; -</line>     
-            <line lang="english">We are called Schutztruppe --  for <action type="aggressive xenophobia">protection</action> <NatUnity cat="loyalty">we are here</NatUnity>.</line>
+            <line lang="english">We are called Schutztruppe --  for <sig type="aggressive xenophobia" mood= "ambiguous">protection</sig> <NatUnity cat="loyalty">we are here</NatUnity>.</line>
         </verse>
         <verse>            
             <line lang="english">We have saught out many an ostrich - through bushes and boulders –</line>           
@@ -112,7 +112,7 @@
             <line lang="english">They took off, we followed them – as far as the sky is blue,  </line>          
             <line lang="english">And even if we rarely caught them, they know very well </line>           
             <line lang="english">We serve you, dear fatherland, - in Southwest Africa; -</line>            
-            <line lang="english">We are called Schutztruppe --  for <action type="aggressive xenophobia">protection</action> <NatUnity cat="loyalty">we are here</NatUnity>.</line>
+            <line lang="english">We are called Schutztruppe --  for <sig type="aggressive xenophobia" mood= "ambiguous">protection</sig> <NatUnity cat="loyalty">we are here</NatUnity>.</line>
         </verse>
         <verse>            
             <line lang="english">But, oh, many a <NatUnity cat="brotherhood">comrade</NatUnity> - in the prime of his life, -</line>           
@@ -120,7 +120,7 @@
             <line lang="english"><NatUnity cat="patriotism loyalty">For our  kaiser, for our country, he gave his blood</NatUnity> </line>           
             <line lang="english">upon his face, so pale as death, we lay down his hat–</line>           
             <line lang="english">We serve you, dear fatherland, - in Southwest Africa; -</line>           
-            <line lang="english">We are called Schutztruppe --  for <action type="aggressive xenophobia">protection</action> <NatUnity cat="loyalty">we are here</NatUnity>.</line>
+            <line lang="english">We are called Schutztruppe --  for <sig type="aggressive xenophobia" mood= "ambiguous">protection</sig> <NatUnity cat="loyalty">we are here</NatUnity>.</line>
         </verse>
         <verse>           
             <line lang="english">And when it is our turn -- <NatUnity cat="solidarity">we remain undaunted</NatUnity></line>           

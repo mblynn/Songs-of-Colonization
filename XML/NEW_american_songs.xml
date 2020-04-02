@@ -5,14 +5,14 @@
         <title>THE BUFFALO HUNTERS</title>
         <verse>
             <line>Come all you pretty girls, to you these lines I'll write,</line>
-            <line>We are <action type="happy">going to the range</action> in which we take delight;</line>
+            <line>We are <sig type="celebratory" mood="positive">going to the range</sig> in which we take delight;</line>
             <line>We are going on the range as we poor hunters do,</line>
             <line>And the tender-footed fellows can stay at home with you.</line>
             <!-- not sure if this one is necissary, ubt i guess it dosnt hurt to have extra? -->
         </verse>
         <verse>
-            <line>It's all of the day long as we go <action type="exploring">tramping round</action></line>
-            <line>In s<possess kind="resource">earch of the buffalo that we may shoot him down</possess>;</line>
+            <line>It's all of the day long as we go <sig type="exploring" mood="positive">tramping round</sig></line>
+            <line>In <possess kind="resource">search of the buffalo that we may shoot him down</possess>;</line>
             <line>Our guns upon our shoulders, our belts of forty rounds,</line>
             <line>We send them up Salt River to some happy hunting grounds.</line>
         </verse>
@@ -130,7 +130,7 @@
             <line>He may not win the laurel</line>
             <line>Nor trumpet tongue of fame;</line>
             <line>But beauty smiles upon him,</line>
-            <line>And ranchmen <action type="reverant">bless his name</action>.</line>
+            <line>And ranchmen <sig type="reverant" mood="positive">bless his name</sig>.</line>
             <line>Then <sig type="reverant" mood="positive">here's to the Texas Ranger</sig>,</line>
             <line>Past, present and to come!</line>
             <line><sig type="xenophobia" mood="negative">Our safety from the savage</sig>,</line>
@@ -279,7 +279,7 @@
             <line>In his native wildwood lair.</line>
         </verse>
         <verse>
-            <line>Or <action type="exploring">I'll seek the gulch deserted</action></line>
+            <line>Or <sig type="exploring" mood="positive">I'll seek the gulch deserted</sig></line>
             <line>And <sig type="xenophobia" mood="negative">dream of the wild Red man,</sig></line>
             <line>And I'll build a cot on a corner lot</line>
             <line>And get rich as soon as I can.</line>
@@ -291,11 +291,11 @@
             <line>I'll sing you a song, though it may be a sad one,</line>
             <line>Of trials and troubles and where they first begun;</line>
             <line>I <homeland type="longing">left my dear kindred, my friends, and my home,</homeland></line>
-            <line>Across <action type="exploring">the wild deserts and mountains to roam.</action></line>
+            <line>Across <sig type="exploring" mood="negative">the wild deserts and mountains to roam.</sig></line>
         </verse>
         <verse>
-            <line>I <action type="exploring">crossed the Missouri and joined a large train</action></line>
-            <line>Which <action type="exploring">bore us over mountain and valley and plain;</action></line>
+            <line>I <sig type="exploring" mood="ambiguous">crossed the Missouri and joined a large train</sig></line>
+            <line>Which <sig type="exploring" mood="ambiguous">bore us over mountain and valley and plain;</sig></line>
             <line>And often of evenings out hunting we'd go</line>
             <line>To <possess kind="resource">shoot the fleet antelope and wild buffalo.</possess></line>
         </verse>
@@ -306,7 +306,7 @@
             <line><violence perp="native" victim="settler">When captured by Indians no mercy they show.</violence></line>
         </verse>
         <verse>
-            <line>We <action type="exploring">traveled three weeks till we came to the Platte</action></line>
+            <line>We <sig type="exploring" mood="ambiguous">traveled three weeks till we came to the Platte</sig></line>
             <line>And <possess kind="land">pitched out our tents at the end of the flat,</possess></line>
             <line>We <possess kind="land">spread down our blankets on the green grassy ground,</possess></line>
             <line>While our horses and mules were grazing around.</line>
@@ -336,7 +336,7 @@
             <line>Till the end of the battle was all that was heard.</line>
         </verse>
         <verse>
-            <line>We <action type="exploring">hitched up our horses and we started our train;</action></line>
+            <line>We hitched up our horses and we started our train;</line>
             <line><violence perp="settler" victim="native">Three more bloody battles this trip on the plain;</violence></line>
             <line><violence perp="native" victim="settler">And in our last battle three of our brave boys fell,</violence></line>
             <line>And we left them to rest in a green, shady dell.</line>
