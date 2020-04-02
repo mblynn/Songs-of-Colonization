@@ -8,17 +8,18 @@
             <line>We are <action type="happy">going to the range</action> in which we take delight;</line>
             <line>We are going on the range as we poor hunters do,</line>
             <line>And the tender-footed fellows can stay at home with you.</line>
+            <!-- not sure if this one is necissary, ubt i guess it dosnt hurt to have extra? -->
         </verse>
         <verse>
             <line>It's all of the day long as we go <action type="exploring">tramping round</action></line>
-            <line>In search of the buffalo that we may shoot him down;</line>
+            <line>In s<possess kind="resource">earch of the buffalo that we may shoot him down</possess>;</line>
             <line>Our guns upon our shoulders, our belts of forty rounds,</line>
             <line>We send them up Salt River to some happy hunting grounds.</line>
         </verse>
         <verse>
-            <line>Our game, it is the antelope, the buffalo, wolf, and deer,</line>
-            <line>Who <action type="belonging">roam the wide prairies</action> without a single fear;</line>
-            <line>We rob him of his robe and think it is no harm,</line>
+            <line><possess kind="resource">Our game</possess>, it is the antelope, the buffalo, wolf, and deer,</line>
+            <line>Who roam the wide prairies without a single fear;</line>
+            <line>We <possess kind="resource">rob him of his robe and think it is no harm</possess>,</line>
             <line>To buy us food and clothing to keep our bodies warm.</line>
         </verse>
         <verse>
@@ -34,7 +35,7 @@
             <line>Our chuck it is both bread and meat, mingled well with sand.</line>
         </verse>
         <verse>
-            <line><sig type="coexisting" mood="positive">Our neighbors are the Cheyennes, the 'Rapahoes, and Sioux</sig>,</line>
+            <line><sig type="coexisting" mood="negative">Our neighbors are the Cheyennes, the 'Rapahoes, and Sioux</sig>,</line>
             <line>Their mode of navigation is a buffalo-hide canoe.</line>
             <line>And when they come upon you they <violence perp="native" victim="settler">take you unaware</violence>,</line>
             <line>And such a peculiar way they have of raising hunter's hair.</line>
@@ -55,7 +56,7 @@
             <line>For my cattle that roam on a thousand hills.</line>
         </verse>
         <verse>
-            <line>Prairie fires, <sig type="longing" mood="negative">won't you please stop</sig>?</line>
+            <line>Prairie fires, won't you please stop?</line>
             <line>Let thunder roll and water drop.</line>
             <line>It frightens me to see the smoke;</line>
             <line>Unless it's stopped, I'll go dead broke.</line>
@@ -82,21 +83,21 @@
             <line>By lure of danger led.</line>
             <line>He's first in the hour of peril,</line>
             <line>He's gayest in the dance,</line>
-            <line>Like the guardsman of old England</line>
-            <line>Or the beau sabreur of France.</line>
+            <line>Like the <NatUnity cat="patriotism">guardsman of old England</NatUnity></line>
+            <line>Or the <NatUnity cat="patriotism">beau sabreur of France</NatUnity>.</line>
         </verse>
         <verse>
-            <line>He stands our faithful bulwark</line>
-            <line>Against our savage foe;</line>
+            <line>He stands our <NatUnity cat="loyalty">faithful bulwark</NatUnity></line>
+            <line>Against our <sig type="hating xenophobia" mood="negative">savage foe</sig>;</line>
             <line>Through lonely woodland places</line>
             <line>Our children come and go;</line>
             <line>Our flocks and herds untended</line>
             <line>O'er hill and valley roam,</line>
             <line>The Ranger in the saddle</line>
-            <line>Means peace for us at <homeland type="peace" mood="positive">home</homeland>.</line>
+            <line><sig type="belonging" mood="positive">Means peace</sig> for us at <homeland type="peace" mood="positive">home</homeland>.</line>
         </verse>
         <verse>
-            <line>Behold our smiling farmsteads</line>
+            <line>Behold <possess kind="land">our smiling farmsteads</possess></line>
             <line>Where waves the golden grain!</line>
             <line>Beneath yon tree, earth's bosom</line>
             <line>Was dark with crimson stain.</line>
@@ -132,8 +133,8 @@
             <line>And ranchmen <action type="reverant">bless his name</action>.</line>
             <line>Then <sig type="reverant" mood="positive">here's to the Texas Ranger</sig>,</line>
             <line>Past, present and to come!</line>
-            <line>Our safety from the savage,</line>
-            <line>The guardian of our home.</line>
+            <line><sig type="xenophobia" mood="negative">Our safety from the savage</sig>,</line>
+            <line>The <NatUnity cat="patriotism">guardian of our home</NatUnity>.</line>
         </verse>
     </song>
     <song n="4">
@@ -145,19 +146,19 @@
             <line>And <sig type="reverant" mood="positive">here's to all you rangers</sig>, I am sure I wish you well.</line>
         </verse>
         <verse>
-            <line>It was at the age of sixteen that I joined the jolly band,</line>
+            <line>It was at the age of sixteen that <NatUnity cat="loyalty solidarity">I joined the jolly band</NatUnity>,</line>
             <line>We marched from San Antonio down to the Rio Grande.</line>
             <line>Our captain he informed us, perhaps he thought it right,</line>
             <line>"Before we reach the station, boys, you'll surely have to fight."</line>
         </verse>
         <verse>
-            <line>And when the bugle sounded our captain gave command,</line>
+            <line>And when the bugle sounded <NatUnity cat="loyalty">our captain gave command</NatUnity>,</line>
             <line>"To arms, to arms," he shouted, "and by your horses stand."</line>
             <line>I saw the smoke ascending, it seemed to reach the sky;</line>
             <line>The first thought that struck me, my time had come to die.</line>
         </verse>
         <verse>
-            <line>I saw the Indians coming, I heard them give the yell;</line>
+            <line><sig mood="negative" type="other">I saw the Indians coming</sig>, I heard them give the yell;</line>
             <line>My feelings at that moment, no tongue can ever tell.</line>
             <line>I saw the glittering lances, <violence perp="native" victim="settler">their arrows round me flew</violence>,</line>
             <line>And all my strength it left me and all my courage too.</line>
@@ -171,11 +172,11 @@
         <verse>
             <line>And all of us were wounded, our <sig type="reverant" mood="negative">noble captain</sig> slain,</line>
             <line>And the sun was shining sadly across the bloody plain.</line>
-            <line>Sixteen as brave rangers as ever roamed the West</line>
-            <line>Were <NatUnity cat="solidarity">buried by their comrades</NatUnity> with arrows in their breast.</line>
+            <line>Sixteen as <sig type="reverant" mood="positive">brave rangers</sig> as ever roamed the West</line>
+            <line>Were <NatUnity cat="solidarity">buried by their comrades</NatUnity> with <violence perp="native" victim="settler">arrows in their breast</violence>.</line>
         </verse>
         <verse>
-            <line>'Twas then <action type="longing">I thought of mother</action>, who to me in tears did say,</line>
+            <line>'Twas then <sig type="longing">I thought of mother</sig>, who to me in tears did say,</line>
             <line>"To you they are all strangers, with me you had better stay."</line>
             <line>I thought that she was childish, the best she did not know;</line>
             <line>My mind was <sig type="belonging" mood="ambiguous">fixed on ranging and I was bound to go</sig>.</line>
@@ -184,19 +185,19 @@
             <line>Perhaps you have a mother, likewise a sister too,</line>
             <line>And maybe you have a sweetheart to weep and mourn for you;</line>
             <line>If that be your situation, although you'd like to roam,</line>
-            <line>I'd advise you by experience, you had better stay at home.</line>
+            <line>I'd advise you by experience, <homeland mood="negative" type="complaint">you had better stay at home</homeland>.</line>
         </verse>
         <verse>
             <line>I have seen the fruits of rambling, I know its hardships well;</line>
             <line>I have crossed the Rocky Mountains, rode down the streets of hell;</line>
-            <line>I have been in the great Southwest where the wild Apaches roam,</line>
-            <line>And I tell you from experience you had better stay at home.</line>
+            <line>I have been in the great Southwest where the <sig type="xenophobia" mood="negative">wild Apaches</sig> roam,</line>
+            <line>And I tell you from experience <homeland mood="negative" type="complaint">you had better stay at home</homeland>.</line>
         </verse>
         <verse>
             <line>And now my song is ended; I guess I have sung enough;</line>
             <line>The life of a ranger I am sure is very tough.</line>
-            <line>And <sig type="reverant" mood="ambiguous">here's to all you ladies</sig>, I am sure I wish you well,</line>
-            <line>I am <sig type="belonging" mood="ambiguous">bound to go a-ranging</sig>, so ladies, fare you well.</line>
+            <line>And here's to all you ladies, I am sure I wish you well,</line>
+            <line>I am <sig type="belonging" mood="positive">bound to go a-ranging</sig>, so ladies, fare you well.</line>
         </verse>
     </song>
     <song  n="5">
@@ -204,9 +205,9 @@
         <verse>
             <line>My <homeland type="possessive" mood="negative">country</homeland>, 'tis of thee,</line>
             <line><sig type="complaint" mood="negative">Land where things used to be</sig></line>
-            <line><sig type="complaint" mood="negative">So cheap, we croak</sig>.</line>
-            <line>Land of the mavericks,</line>
-            <line>Land of the puncher's tricks,</line>
+            <line> So cheap, we croak.</line>
+            <line><possess kind="land">Land of the mavericks</possess>,</line>
+            <line><possess kind="land">Land of the puncher's tricks</possess>,</line>
             <line>Thy culture-inroad pricks</line>
             <line>The hide of this peeler-bloke.</line>
         </verse>
@@ -222,7 +223,7 @@
         <verse>
             <line>These salty-dogs but crave</line>
             <line>To pull them out the grave</line>
-            <line>Just one Kiowa spur.</line>
+            <line>Just one <sig type="xenophobia" mood="ambiguous">Kiowa spur</sig>.</line>
             <line>They know they still will dine</line>
             <line>On flesh and beef the time;</line>
             <line>But give us, Lord divine,</line>
@@ -241,15 +242,15 @@
     <song n="6">
         <title>WESTWARD HO</title>
         <verse>
-            <line><sig type="belonging" mood="negative">I love not Colorado</sig></line>
+            <line><homeland mood="negative" type="other">I love not Colorado</homeland></line>
             <line>Where the faro table grows,</line>
             <line>And down the desperado</line>
             <line>The rippling Bourbon flows;</line>
         </verse>
         <verse>
-            <line><sig type="belonging" mood="negative">Nor seek I fair Montana</sig></line>
+            <line><homeland mood="negative" type="other">Nor seek I fair Montana</homeland></line>
             <line>Of bowie-lunging fame;</line>
-            <line>The pistol ring of fair Wyoming</line>
+            <line>The pistol ring of <homeland type="other" mood="negative">fair Wyoming</homeland></line>
             <line>I leave to nobler game.</line>
         </verse>
         <verse>
@@ -262,10 +263,8 @@
             <line>Shall Arizona woo me</line>
             <line>Where the <sig type="xenophobia">meek Apache bides?</sig></line>
             <line><sig type="xenophobia">Or New Mexico where natives grow</sig></line>
-            <line><sig type="xenophobia">With arrow-proof insides?</sig></line>
-            <line>Where the meek <sig wild="col">Apache</sig> bides?</line>
-            <line>Or New Mexico where <sig wild="col">natives grow</sig></line>
             <line>With arrow-proof insides?</line>
+       
         </verse>
         <verse>
             <line>Nay,'tis where the grizzlies wander</line>
@@ -274,18 +273,16 @@
             <line>That <homeland type="possessive" mood="positive">I'll make my humble home.</homeland></line>
         </verse>
         <verse>
-            <line>I'll <action type="aggressive"></action>chase the wild tarantula</line>
-            <line>And the <action type="aggressive">fierce cayote I'll dare,</action></line>
-            <line>And the <action type="aggressive">locust grim, I'll battle him</action></line>
-            <line>In <possess kind="land">his native wildwood lair.</possess></line>
+            <line>I'll chase the wild tarantula</line>
+            <line>And the fierce cayote I'll dare,</line>
+            <line>And the locust grim, I'll battle him</line>
+            <line>In his native wildwood lair.</line>
         </verse>
         <verse>
             <line>Or <action type="exploring">I'll seek the gulch deserted</action></line>
-            <line>And <sig type="ethnocentrism">dream of the wild Red man,</sig></line>
-            <line><action type="exploring">Or I'll seek the gulch deserted</action></line>
-            <line>And dream of the <sig wild="col">wild Red man</sig>,</line>
+            <line>And <sig type="xenophobia" mood="negative">dream of the wild Red man,</sig></line>
             <line>And I'll build a cot on a corner lot</line>
-            <line><sig type="longing">And get rich as soon as I can</sig>.</line>
+            <line>And get rich as soon as I can.</line>
         </verse>
     </song>
     <song n="7">
@@ -303,7 +300,7 @@
             <line>To <possess kind="resource">shoot the fleet antelope and wild buffalo.</possess></line>
         </verse>
         <verse>
-            <line>We heard of <sig wild="col">Sioux Indians</sig> all out on the plains</line>
+            <line>We heard of <sig type="xenophobia" mood="negative">Sioux Indians</sig> all out on the plains</line>
             <line><violence perp="native" victim="settler">A-killing poor drivers and burning their trains,</violence>--</line>
             <line><violence perp="native" victim="settler">A-killing poor drivers with arrows and bow,</violence></line>
             <line><violence perp="native" victim="settler">When captured by Indians no mercy they show.</violence></line>
@@ -462,7 +459,7 @@
         <verse>
             <line><NatUnity cat="brotherhood">But we found great joy, old comrades</NatUnity></line>
             <line>To hear, and make it die;</line>
-            <line><homeland type="celebratory" mood="positive">We won bright homes for gentle ones,</homeland></line>
+            <line><possess kind="land">We won bright homes for gentle ones,</possess></line>
             <line>And now, <possess kind="land">our West,</possess> <homeland type="nostalgic" mood="ambiguous">good-bye.</homeland></line>
             <line>But <sig type="celebratory">we found great joy, old comrades</sig></line>
             <line>To hear, and make it die;</line>
