@@ -8,7 +8,6 @@
             <line>We are <sig type="celebratory" mood="positive">going to the range</sig> in which we take delight;</line>
             <line>We are going on the range as we poor hunters do,</line>
             <line>And the tender-footed fellows can stay at home with you.</line>
-            <!-- not sure if this one is necissary, ubt i guess it dosnt hurt to have extra? -->
         </verse>
         <verse>
             <line>It's all of the day long as we go <sig type="exploring" mood="positive">tramping round</sig></line>
@@ -30,7 +29,7 @@
         </verse>
         <verse>
             <line>Our fires are made of mesquite roots, our beds are on the ground;</line>
-            <line>Our houses made of buffalo hides, we make them tall and round;</line>
+            <line><possess kind="resource">Our houses made of buffalo hides</possess>, we make them tall and round;</line>
             <line>Our furniture is the camp kettle, the coffee pot, and pan,</line>
             <line>Our chuck it is both bread and meat, mingled well with sand.</line>
         </verse>
@@ -47,7 +46,7 @@
             <line>Now, O Lord, please lend me thine ear,</line>
             <line>The prayer of a cattleman to hear,</line>
             <line>No doubt the prayers may seem strange,</line>
-            <line>But I want you to bless <possess kind="resource">our cattle range</possess>.</line>
+            <line>But I want you to bless <possess kind="land">our cattle range</possess>.</line>
         </verse>
         <verse>
             <line>Bless the round-ups year by year,</line>
@@ -62,7 +61,7 @@
             <line>Unless it's stopped, I'll go dead broke.</line>
         </verse>
         <verse>
-            <line>As you, O Lord, my herd behold,</line>
+            <line>As you, O Lord, <possess kind="resource">my herd</possess> behold,</line>
             <line>It represents a sack of gold;</line>
             <line>I think at least five cents a pound</line>
             <line>Will be the price of beef the year around.</line>
@@ -91,7 +90,7 @@
             <line>Against our <sig type="hating xenophobia" mood="negative">savage foe</sig>;</line>
             <line>Through lonely woodland places</line>
             <line>Our children come and go;</line>
-            <line>Our flocks and herds untended</line>
+            <line><possess kind="resource">Our flocks and herds</possess> untended</line>
             <line>O'er hill and valley roam,</line>
             <line>The Ranger in the saddle</line>
             <line><sig type="belonging" mood="positive">Means peace</sig> for us at <homeland type="peace" mood="positive">home</homeland>.</line>
@@ -99,7 +98,7 @@
         <verse>
             <line>Behold <possess kind="land">our smiling farmsteads</possess></line>
             <line>Where waves the golden grain!</line>
-            <line>Beneath yon tree, earth's bosom</line>
+            <line>Beneath yon tree, <homeland mood="positive" type="loving">earth's bosom</homeland></line>
             <line>Was dark with crimson stain.</line>
             <line>That bluff the death-shot echoed</line>
             <line>Of <violence perp="ambiguous" victim="settler">husband, father, slain</violence>!</line>
@@ -124,7 +123,7 @@
             <line>And men of evil passions</line>
             <line>On her reproach have laid,</line>
             <line>But that the ready Ranger</line>
-            <line><NatUnity cat="loyalty">Rode promptly to her aid</NatUnity>.</line>
+            <line><NatUnity cat="patriotism loyalty">Rode promptly to her aid</NatUnity>.</line>
         </verse>
         <verse>
             <line>He may not win the laurel</line>
@@ -164,7 +163,7 @@
             <line>And all my strength it left me and all my courage too.</line>
         </verse>
         <verse>
-            <line>We fought full nine hours before the strife was o'er,</line>
+            <line><violence perp="ambiguous" victim="ambiguous">We fought</violence> full nine hours before the strife was o'er,</line>
             <line>The like of dead and wounded I never saw before.</line>
             <line>And when the sun was rising and the Indians they had fled,</line>
             <line>We loaded up our rifles and counted up our dead.</line>
@@ -231,7 +230,7 @@
         </verse>
         <verse>
             <line><homeland type="possessive" mood="ambiguous">Our father's land</homeland>, with thee,</line>
-            <line>Best trails of liberty,</line>
+            <line><homeland type="reverant" mood="positive">Best trails of liberty</homeland>,</line>
             <line>We chose to stop.</line>
             <line>We don't exactly like</line>
             <line>So soon to henceward hike,</line>
@@ -242,15 +241,15 @@
     <song n="6">
         <title>WESTWARD HO</title>
         <verse>
-            <line><homeland mood="negative" type="other">I love not Colorado</homeland></line>
+            <line>I love not Colorado</line>
             <line>Where the faro table grows,</line>
             <line>And down the desperado</line>
             <line>The rippling Bourbon flows;</line>
         </verse>
         <verse>
-            <line><homeland mood="negative" type="other">Nor seek I fair Montana</homeland></line>
+            <line>Nor seek I fair Montana</line>
             <line>Of bowie-lunging fame;</line>
-            <line>The pistol ring of <homeland type="other" mood="negative">fair Wyoming</homeland></line>
+            <line>The pistol ring of fair Wyoming</line>
             <line>I leave to nobler game.</line>
         </verse>
         <verse>
@@ -291,7 +290,7 @@
             <line>I'll sing you a song, though it may be a sad one,</line>
             <line>Of trials and troubles and where they first begun;</line>
             <line>I <homeland type="longing">left my dear kindred, my friends, and my home,</homeland></line>
-            <line>Across <sig type="exploring" mood="negative">the wild deserts and mountains to roam.</sig></line>
+            <line>Across <sig type="exploring" mood="ambiguous">the wild deserts and mountains to roam.</sig></line>
         </verse>
         <verse>
             <line>I <sig type="exploring" mood="ambiguous">crossed the Missouri and joined a large train</sig></line>
@@ -313,9 +312,9 @@
         </verse>
         <verse>
             <line>While taking refreshment we heard a low yell,</line>
-            <line>The <sig wild="col">whoop of Sioux Indians</sig> coming up from the dell;</line>
+            <line>The <sig type="xenophobia" mood="negative">whoop of Sioux Indians</sig> coming up from the dell;</line>
             <line><violence perp="settler" victim="native">We sprang to our rifles with a flash in each eye,</violence></line>
-            <line><NatUnity cat="solidarity"></NatUnity>"Boys," says our brave leader, "we'll fight till we die."</line>
+            <line><NatUnity cat="solidarity">"Boys," says our brave leader, "we'll fight till we die."</NatUnity></line>
         </verse>
         <verse>
             <line>They made a bold dash and came near to our train</line>
@@ -338,10 +337,8 @@
         <verse>
             <line>We hitched up our horses and we started our train;</line>
             <line><violence perp="settler" victim="native">Three more bloody battles this trip on the plain;</violence></line>
-            <line><violence perp="native" victim="settler">And in our last battle three of our brave boys fell,</violence></line>
+            <line>And in our last battle <NatUnity cat="brotherhood">three of our brave boys</NatUnity> <violence perp="native" victim="settler">fell,</violence></line>
             <line>And we left them to rest in a green, shady dell.</line>
-            <line><violence>And in our last battle three of our brave boys fell,</violence></line>
-            <line><NatUnity cat="brotherhood">And we left them to rest in a green, shady dell</NatUnity>.</line>
         </verse>
     </song>
     <!--<song n="8">
@@ -391,9 +388,9 @@
         <verse>
             <line><NatUnity cat="brotherhood">Come all of you, my brother scouts,</NatUnity></line>
             <line>And join me in my song;</line>
-            <line><NatUnity cat="brotherhood">Come, let us sing together</NatUnity></line>
-            <line>Come all of you, my brother scouts,</line>
-            <line>And <NatUnity cat="brotherhood">join me in my song</NatUnity>;</line>
+            <line>Come, let us sing together</line>
+            <line><NatUnity cat="brotherhood">Come all of you, my brother scouts,</NatUnity></line>
+            <line>And join me in my song;</line>
             <line>Come, let us sing together</line>
             <line>Though the shadows fall so long.</line>
         </verse>
@@ -414,8 +411,8 @@
             <line>That never wore the blue,</line>
             <line><NatUnity cat="loyalty">But, faithfully, they did their part,</NatUnity></line>
             <line><NatUnity cat="brotherhood">As brave men, tried and true.</NatUnity></line>
-            <line>But, faithfully, they did their part,</line>
-            <line>As <sig type="celebratory">brave men, tried and true</sig>.</line>
+            <line><NatUnity cat="loyalty">But, faithfully, they did their part,</NatUnity></line>
+            <line><NatUnity cat="brotherhood">As brave men, tried and true.</NatUnity></line>
         </verse>
         <verse>
             <line>They never joined the army,</line>
@@ -447,11 +444,11 @@
         <verse>
             <line>We <violence perp="native" victim="settler">fought the red-skin rascals</violence></line>
             <line>Over valley, hill, and plain;</line>
-            <line>We fought him in the mountain top,</line>
+            <line>We <violence perp="native" victim="settler">fought him in the mountain top,</violence></line>
             <line>And <violence perp="native" victim="settler">fought him down again</violence>.</line>
         </verse>
         <verse>
-            <line>These <violence perp="settler" victim="native">fighting days are over;</violence></line>
+            <line>These fighting days are over;</line>
             <line><violence perp="settler" victim="native">The Indian yell resounds</violence></line>
             <line>No more along the border;</line>
             <line><sig type="peace">Peace sends far sweeter sounds</sig>.</line>
@@ -463,8 +460,8 @@
             <line>And now, <possess kind="land">our West,</possess> <homeland type="nostalgic" mood="ambiguous">good-bye.</homeland></line>
             <line>But <sig type="celebratory">we found great joy, old comrades</sig></line>
             <line>To hear, and make it die;</line>
-            <line>We <sig type="celebratory">won bright homes for gentle ones</sig>,</line>
-            <line>And now, <homeland type="belonging">our West</homeland>, good-bye.</line>
+            <line><possess kind="land">We won bright homes for gentle ones,</possess>,</line>
+            <line>And now, <possess kind="land">our West,</possess> <homeland type="nostalgic" mood="ambiguous">good-bye.</line>
         </verse>
     </song>
 </songs>
