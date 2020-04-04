@@ -461,7 +461,7 @@
             <line>But <sig type="celebratory">we found great joy, old comrades</sig></line>
             <line>To hear, and make it die;</line>
             <line><possess kind="land">We won bright homes for gentle ones,</possess>,</line>
-            <line>And now, <possess kind="land">our West,</possess> <homeland type="nostalgic" mood="ambiguous">good-bye.</line>
+            <line>And now, <possess kind="land">our West,</possess> <homeland type="nostalgic" mood="ambiguous">good-bye.</homeland></line>
         </verse>
     </song>
 </songs>

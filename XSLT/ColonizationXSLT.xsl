@@ -9,6 +9,7 @@
             <head>
                 <title>Songs</title>
                 <link rel="stylesheet" type="text/css" href="xsltCSS.css"/>
+                <link rel="stylesheet" type="text/css" href="colonization.css"/>
             </head>
             <body>
                 <h1>Songs of Colonization</h1>
