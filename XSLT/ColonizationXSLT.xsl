@@ -104,11 +104,6 @@
             </xsl:choose>
         </span>
     </xsl:template>
-    <xsl:template match="action">
-        <span class="action">
-            <xsl:apply-templates/>
-        </span>
-    </xsl:template>
     <xsl:template match="sig">
         <span class="sig">
             <xsl:choose>
