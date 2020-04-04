@@ -1,0 +1,29 @@
+ul {
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    width: 150px;
+    height: auto;
+    padding: 0;
+    margin: 20px;
+    letter-spacing: 1px;
+    font-family: verbana;
+    list-style-type: none;
+}
+
+li a {
+    display: block;
+    color: white;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color on hover */
+li a:hover {
+    background-color: #555;
+    color: white;
+}
+.active {
+  background-color: #555;
+  color: white;
+}
