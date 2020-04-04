@@ -2,7 +2,7 @@
 body {
     background-color: darkgrey;
 }
-ul {
+div.menu {
     font-size: 20px;
     background-color: black;
     color: white;
@@ -15,7 +15,7 @@ ul {
     list-style-type: none;
 }
 
-li a {
+a {
     display: block;
     color: white;
     padding: 8px 16px;
@@ -23,11 +23,58 @@ li a {
 }
 
 /* Change the link color on hover */
-li a:hover {
+a:hover {
     background-color: #555;
     color: white;
 }
 .active {
-  background-color: #555;
-  color: white;
+    background-color: #555;
+    color: white;
+}
+/* Dropdown Button */
+.dropbtn {
+    background-color: black;
+    color: white;
+    padding: 8px 16px;
+    font-size: 20px;
+    border: none;
+    font-family: verbana;
+
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: inherit;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: black;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: white;
+    padding: 8px 16px;
+    text-decoration: none;
+    display: block;
+    font-size: 18px;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {
+    background-color: #555;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: inline-block; 
+    }
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+    background-color: #555;
 }

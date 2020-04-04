@@ -9,18 +9,17 @@
             <head>
                 <title>Songs</title>
                 <link rel="stylesheet" type="text/css" href="xsltCSS.css"/>
-                <link rel="stylesheet" type="text/css" href="colonization.css"/>
+                <link rel="stylesheet" type="text/css"
+                    href="/C:/Users/ESRes/OneDrive/Documents/GitHub/Songs-of-Colonization/Website/colonization.css"
+                />
             </head>
             <body>
                 <h1>Songs of Colonization</h1>
                 <section class="container">
                     <div id="1">
                         <h2>Contents</h2>
-
                         <!-- Creates table of contents -->
-                        <ul>
-                            <xsl:apply-templates select="//song" mode="toc"/>
-                        </ul>
+                        <xsl:apply-templates select="//song" mode="toc"/>
                     </div>
                     <hr/>
                     <div id="2">
@@ -53,17 +52,15 @@
     </xsl:template>
     <xsl:template match="song" mode="toc">
         <!-- Adds links to the toc using AVT-->
-        <li>
-            <a href="#song{@n}">
-                <xsl:apply-templates select="@n"/>
-                <xsl:text>. </xsl:text>
-                <xsl:apply-templates select="title" mode="toc"/>
-            </a>
-        </li>
+        <a href="#song{@n}">
+            <xsl:apply-templates select="@n"/>
+            <xsl:text>. </xsl:text>
+            <xsl:apply-templates select="title" mode="toc"/>
+        </a>
+
     </xsl:template>
     <xsl:template match="song">
         <!--Wraps each song in a <section> tag-->
-
         <section>
             <!-- Outputs the titles as clickable links -->
             <h2 id="song{@n}">
