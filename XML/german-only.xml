@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="GitHub/Songs-of-Colonization/Schemas/final_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schemas/final_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <songs>
     <song n="1">
         <title>Afrikanisches Reiterlied</title>
