@@ -8,10 +8,8 @@
         <html>
             <head>
                 <title>Songs</title>
-                <link rel="stylesheet" type="text/css" href="xsltCSS.css"/>
-                <link rel="stylesheet" type="text/css"
-                    href="/C:/Users/ESRes/OneDrive/Documents/GitHub/Songs-of-Colonization/Website/colonization.css"
-                />
+                <link rel="stylesheet" type="text/css" href="colonization.css"/>
+                <link rel="stylesheet" type="text/css" href="textsCSS.css"/>
             </head>
             <body>
                 <h1>Songs of Colonization</h1>
