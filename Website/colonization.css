@@ -2,6 +2,12 @@
 body {
     background-color: darkgrey;
 }
+div.main {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
 div.menu {
     font-size: 20px;
     background-color: black;
@@ -13,6 +19,8 @@ div.menu {
     letter-spacing: 1px;
     font-family: verbana;
     list-style-type: none;
+    float: left;
+
 }
 
 a {
@@ -71,8 +79,8 @@ a:hover {
 
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
-    display: inline-block; 
-    }
+    display: inline-block;
+}
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {

@@ -1,12 +1,19 @@
-.container {
+h1 {text-align: center;}
+.wrapper {
     display: flex;
-    width: 50%;
-
 }
-div > div {
+.left {
+    flex: 0 0 65%;
+}
+.right {
     flex: 1;
+}
+h2 {
     padding: 10px;
-
+    text-align: center;
+}
+p.info {
+    text-decoration: underline dotted black;
 }
 div.section {
     /*border-style: solid;*/
@@ -19,7 +26,9 @@ div.section {
 ul {
     list-style-type: none;
 }
-h3 {text-decoration: underline;}
+h3 {
+    text-decoration: underline;
+}
 
 .violence {
     background-color: LightCoral;
@@ -50,31 +59,31 @@ h3 {text-decoration: underline;}
 }
 /* Tooltip container */
 .tooltip {
-  position: relative;
-  display: inline-block;
-  border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
 }
 
 /* Tooltip text */
 .tooltip .tooltiptext {
-  visibility: hidden;
-  width: 120px;
-  background-color: #555;
-  color: #fff;
-  text-align: center;
-  padding: 2px 0;
-  border-radius: 4px;
-  font-style:normal;
- 
-  /* Position the tooltip text - see examples below! */
-  position: absolute;
-  z-index: 1;
-  bottom: 100%;
-  left: 50%;
-  margin-left: -60px;
+    visibility: hidden;
+    width: 120px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    padding: 2px 0;
+    border-radius: 4px;
+    font-style: normal;
+
+    /* Position the tooltip text - see examples below! */
+    position: absolute;
+    z-index: 1;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -60px;
 }
 
 /* Show the tooltip text when you mouse over the tooltip container */
 .tooltip:hover .tooltiptext {
-  visibility: visible;
+    visibility: visible;
 }
