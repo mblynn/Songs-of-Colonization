@@ -1,4 +1,11 @@
-
+body {
+ background-image: url("bground_img-cropped.jpg");
+  background-repeat: no-repeat, repeat;
+  height: 100%;
+  background-position: center;
+  width: fill;
+   background-size: 70% 150%;
+}
 h1 {
     color: black;
     background-color: lightgrey;
