@@ -2,6 +2,7 @@
 body {
     background-color: darkgrey;
 }
+p.info {text-align: center;}
 div.main {
     margin: auto;
     width: 50%;
