@@ -1,0 +1,56 @@
+# Things to find and their XPath
+## Values are for American Songs
+
+- NatUnity
+  - total: `count(//NatUnity)` : 22
+  - `count(//NatUnity[@cat='brotherhood'])`: 7
+  - `count(//NatUnity[@cat='solidarity'])`: 6 
+  - `count(//NatUnity[@cat='loyalty'])`: 4
+  - `count(//NatUnity[@cat='pride'])`: 0 
+  - `count(//NatUnity[@cat='patriotism'])`: 3
+  - counts are off, some have two attribute values
+  - per line: `count(//NatUnity) div count(//line)`: 0.07857
+  - `count(//NatUnity[@cat='brotherhood']) div count(//line)`: 0.025
+  - `count(//NatUnity[@cat='solidarity']) div count(//line)`: 0.02143
+  - `count(//NatUnity[@cat='loyalty']) div count(//line)`: 0.01429
+  - `count(//NatUnity[@cat='pride']) div count(//line)`: 0 
+  - `count(//NatUnity[@cat='patriotism']) div count(//line)`: 0.01071
+- Violence
+  - total violence: `count(//violence)` : 25
+  - nat to set: `count(//violence[@perp='native' and @victim='settler'])` : 11
+  - set to nat: `count(//violence[@perp='settler' and @victim='native'])`: 12
+  - ambiguous (both or either): `count(//violence[@perp='ambiguous' or @victim='ambiguous'])`: 2
+  - total per line: `count(//violence) div count(//line)`: 0.089286
+  - nat to set: `count(//violence[@perp='native' and @victim='settler']) div count(//line)` : 0.039286
+  - set to nat: `count(//violence[@perp='settler' and @victim='native']) div count(//line)`: 0.04286
+  - ambiguous (both or either): `count(//violence[@perp='ambiguous' or @victim='ambiguous']) div count(//line)`: 0.007143
+- Possess
+  - total: `count(//possess)` : 17
+  - `count(//possess[@kind='land'])`: 10
+  - `count(//possess[@kind='people'])`: 0
+  - `count(//possess[@kind='labor'])`: 0 
+  - `count(//possess[@kind='resource'])`: 7
+  - total per line `count(//possess) div count(//line)`: 0.0607143
+  -  `count(//possess[@kind='land']) div count(//line)`: 0.0357143
+  - `count(//possess[@kind='people']) div count(//line)`: 0
+  - `count(//possess[@kind='labor']) div count(//line)`: 0
+  - `count(//possess[@kind='resource']) div count(//line)`: 0.025
+- Sig (by mood)
+  - positive:  `count(//sig[@mood='positive'])` : 9
+  - negative: `count(//sig[@mood='negative'])`: 11
+  - ambiguous: `count(//sig[@mood='ambiguous'])`: 8
+  - positive:  `count(//sig[@mood='positive']) div count(//line)`: 0.032143
+  - negative: `count(//sig[@mood='negative']) div count(//line)`: 0.039286
+  - ambiguous: `count(//sig[@mood='ambiguous']) div count(//line)`: 0.028571
+- Homeland?
+  - do we want to track this? by mood?
+  - total `count(//homeland)` : 12
+  - positive:  `count(//homeland[@mood='positive'])` : 5
+  - negative: `count(//homeland[@mood='negative'])`: 3
+  - ambiguous: `count(//homeland[@mood='ambiguous'])`: 3
+  - per line: `count(//homeland) div count(//line)`  : 0.042857
+  - positive:  `count(//homeland[@mood='positive']) div count(//line)`  : 0.017857
+  - negative: `count(//homeland[@mood='negative']) div count(//line)` : 0.0107142
+  - ambiguous: `count(//homeland[@mood='ambiguous']) div count(//line)` : 0.0107142
+- should we pick some interest values of `@type` to track? Which ones?
+
