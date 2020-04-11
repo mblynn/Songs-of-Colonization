@@ -7,16 +7,16 @@
   - total: `count(//NatUnity)` : 21
   - `count(//NatUnity[@cat='brotherhood'])`:  2
   - `count(//NatUnity[@cat='solidarity'])`: 2
-  - `count(//NatUnity[@cat='loyalty'])`: 9
+  - `count(//NatUnity[@cat='loyalty'])`: 10
   - `count(//NatUnity[@cat='pride'])`: 1
-  - `count(//NatUnity[@cat='patriotism'])`: 5
+  - `count(//NatUnity[@cat='patriotism'])`: 6
   - - counts are off, some have two attribute values
   - per line: `count(//NatUnity) div count(//line)`: 0.22826
   - `count(//NatUnity[@cat='brotherhood']) div count(//line)`: 0.021739
   - `count(//NatUnity[@cat='solidarity']) div count(//line)`: 0.021739
-  - `count(//NatuUnity[@cat='loyalty']) div count(//line)`: 0
+  - `count(//NatuUnity[@cat='loyalty']) div count(//line)`: 0.1086957
   - `count(//NatUnity[@cat='pride']) div count(//line)`: 0.01086956
-  - `count(//NatUnity[@cat='patriotism']) div count(//line)`: 0.054348s
+  - `count(//NatUnity[@cat='patriotism']) div count(//line)`: 0.06521739
 - Violence
   - total violence: `count(//violence)` : 3
   - nat to set: `count(//violence[@perp='native' and @victim='settler'])` : 0

@@ -12,7 +12,7 @@
   - per line: `count(//NatUnity) div count(//line)`: 0.07857
   - `count(//NatUnity[@cat='brotherhood']) div count(//line)`: 0.025
   - `count(//NatUnity[@cat='solidarity']) div count(//line)`: 0.02143
-  - `count(//NatUnity[contains(@cat,'loyalty')]) div count(//line)`: 0.02142857
+  - `count(//NatUnity[@cat='loyalty)]) div count(//line)`: 0.02142857
   - `count(//NatUnity[@cat='pride']) div count(//line)`: 0 
   - `count(//NatUnity[@cat='patriotism']) div count(//line)`: 0.01071
 - Violence
