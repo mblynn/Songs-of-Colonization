@@ -54,5 +54,22 @@
   - positive:  `count(//homeland[@mood='positive']) div count(//line)`  : 0.05434783
   - negative: `count(//homeland[@mood='negative']) div count(//line)` : 0
   - ambiguous: `count(//homeland[@mood='ambiguous']) div count(//line)` : 0
+- Sig: Xenophobia
+  - total: `//sig[@type=('xenophobia','hating xenophobia','aggressive xenophobia')])` : 7
+  - xenophobia: `count(//sig[@type='xenophobia'])` : 1
+  - aggressive xenophobia: `count(//sig[@type='aggressive xenophobia'])` : 5
+  - hating xenophobia: `count(//sig[@type='hating xenophobia'])` : 1
+  - per line: `count(//sig[@type='xenophobia']) div count(//line)` : 0.0760869
+  - xenophobia: `count(//sig[@type='xenophobia']) div count(//line)` : 0.0108695
+  - aggressive xenophobia: `count(//sig[@type='aggressive xenophobia']) div count(//line)` : 0.0543478
+  - hating xenophobia: `count(//sig[@type='hating xenophobia']) div count(//line)` : 0.0108695
+- Sig: Belonging
+  - total: 0
+  - belonging: `count(//sig[@type='belonging'])` : 0
+  - per line: `count(//sig[@type='belonging']) div count(//line)` : 0
+- Sig: Longing
+  - total: 0
+  - longing: `count(//sig[@type='longing'])` : 0
+  - per line: `count(//sig[@type='longing']) div count(//line)` : 0
 - should we pick some interest values of `@type` to track? Which ones?
 
