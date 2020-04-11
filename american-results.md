@@ -52,5 +52,22 @@
   - positive:  `count(//homeland[@mood='positive']) div count(//line)`  : 0.017857
   - negative: `count(//homeland[@mood='negative']) div count(//line)` : 0.0107142
   - ambiguous: `count(//homeland[@mood='ambiguous']) div count(//line)` : 0.0107142
+- Sig: Xenophobia
+  - total: `//sig[@type=('xenophobia','hating xenophobia','aggressive xenophobia')])` : 11
+  - xenophobia: `count(//sig[@type='xenophobia'])` : 10
+  - aggressive xenophobia: `count(//sig[@type='aggressive xenophobia'])` : 0
+  - hating xenophobia: `count(//sig[@type='hating xenophobia'])` : 1
+  - per line: `count(//sig[@type='xenophobia']) div count(//line)` : 0.0392857
+  - xenophobia: `count(//sig[@type='xenophobia']) div count(//line)` : 0.0357142
+  - aggressive xenophobia: `count(//sig[@type='aggressive xenophobia']) div count(//line)` : 0
+  - hating xenophobia: `count(//sig[@type='hating xenophobia']) div count(//line)` : 0.0035714
+- Sig: Belonging
+  - total: 3
+  - belonging: `count(//sig[@type='belonging'])` : 3
+  - per line: `count(//sig[@type='belonging']) div count(//line)` : 0.0107142
+- Sig: Longing
+  - total: 1
+  - longing: `count(//sig[@type='longing'])` : 1
+  - per line: `count(//sig[@type='longing']) div count(//line)` : 0.0035714
 - should we pick some interest values of `@type` to track? Which ones?
 
