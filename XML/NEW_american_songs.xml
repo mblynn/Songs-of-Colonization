@@ -123,7 +123,7 @@
             <line>And men of evil passions</line>
             <line>On her reproach have laid,</line>
             <line>But that the ready Ranger</line>
-            <line><NatUnity cat="patriotism loyalty">Rode promptly to her aid</NatUnity>.</line>
+            <line><NatUnity cat="loyalty">Rode promptly to her aid</NatUnity>.</line>
         </verse>
         <verse>
             <line>He may not win the laurel</line>
@@ -145,7 +145,7 @@
             <line>And <sig type="reverant" mood="positive">here's to all you rangers</sig>, I am sure I wish you well.</line>
         </verse>
         <verse>
-            <line>It was at the age of sixteen that <NatUnity cat="loyalty solidarity">I joined the jolly band</NatUnity>,</line>
+            <line>It was at the age of sixteen that <NatUnity cat="solidarity">I joined the jolly band</NatUnity>,</line>
             <line>We marched from San Antonio down to the Rio Grande.</line>
             <line>Our captain he informed us, perhaps he thought it right,</line>
             <line>"Before we reach the station, boys, you'll surely have to fight."</line>

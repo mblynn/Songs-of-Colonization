@@ -5,7 +5,7 @@
   - total: `count(//NatUnity)` : 22
   - `count(//NatUnity[@cat='brotherhood'])`: 7
   - `count(//NatUnity[@cat='solidarity'])`: 6 
-  - `count(//NatUnity[contains(@cat,'loyalty')])` : 6
+  - `count(//NatUnity[@cat='loyalty')])` : 6
   - `count(//NatUnity[@cat='pride'])`: 0 
   - `count(//NatUnity[@cat='patriotism'])`: 3
   - counts are off, some have two attribute values
