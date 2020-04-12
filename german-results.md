@@ -70,6 +70,6 @@
 - Longing
   - total: 2
   - longing: `count(//sig[@type='longing'])` : 2
-  - per line: `count(//sig[@type='longing']) div count(//line)` : 0.0543478
+  - per line: `count(//sig[@type='longing']) div count(//line)` : 0.0217391
   - should we pick some interest values of `@type` to track? Which ones?
 

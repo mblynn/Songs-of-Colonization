@@ -427,8 +427,8 @@
         </verse>
         <verse>
             <line lang="american">Oh the days of elk and buffalo</line>
-            <line lang="american"><sig type="nostalgic" mood="ambiguous">It fills my heart with pain</sig></line>
-            <line lang="american"><sig type="nostalgic" mood="ambiguous">To know these days are past and gone</sig></line>
+            <line lang="american"><sig type="longing" mood="ambiguous">It fills my heart with pain</sig></line>
+            <line lang="american"><sig type="longing" mood="ambiguous">To know these days are past and gone</sig></line>
             <line lang="american">To never come again.</line>
         </verse>
         <verse>
@@ -437,7 +437,7 @@
             <line lang="american"><violence perp="settler" victim="native">We fought him in the mountain top,</violence></line>
             <line lang="american"><violence perp="settler" victim="native">And fought him down again.</violence></line>
             <line lang="american">It fills my heart with pain</line>
-            <line lang="american">To <sig type="nostalgic">know these days are past and gone</sig></line>
+            <line lang="american">To <sig type="longing">know these days are past and gone</sig></line>
             <line lang="american">To never come again.</line>
         </verse>
         <verse>
@@ -456,11 +456,11 @@
             <line lang="american"><NatUnity cat="brotherhood">But we found great joy, old comrades</NatUnity></line>
             <line lang="american">To hear, and make it die;</line>
             <line lang="american"><possess kind="land">We won bright homes for gentle ones,</possess></line>
-            <line lang="american">And now, <possess kind="land">our West,</possess> <homeland type="nostalgic" mood="ambiguous">good-bye.</homeland></line>
+            <line lang="american">And now, <possess kind="land">our West,</possess> <homeland type="longing" mood="ambiguous">good-bye.</homeland></line>
             <line lang="american">But <sig type="celebratory">we found great joy, old comrades</sig></line>
             <line lang="american">To hear, and make it die;</line>
             <line lang="american"><possess kind="land">We won bright homes for gentle ones,</possess>,</line>
-            <line lang="american">And now, <possess kind="land">our West,</possess> <homeland type="nostalgic" mood="ambiguous">good-bye.</homeland></line>
+            <line lang="american">And now, <possess kind="land">our West,</possess> <homeland type="longing" mood="ambiguous">good-bye.</homeland></line>
         </verse>
     </song>
     <song n="1">
@@ -470,7 +470,7 @@
             <line lang="germ-trans">Along the path on horseback</line>
             <!-- How should  separate the languages? -->  
             <line lang="germ-trans">My heart rejoices in my  chest,</line>         
-            <line lang="germ-trans">Just like by <sig type="nostalgic celebratory" mood= "positive">my mother’s hearth</sig></line>
+            <line lang="germ-trans">Just like by <sig type="longing celebratory" mood= "positive">my mother’s hearth</sig></line>
             <!--this seems to have inherent significance as "homeland" because it refers to a mothers hearth- but it is only implied and not direct, so i used "sig". is it too ambiguous to be included? --> 
             <line lang="germ-trans">it knows no worries, it knows no suffering</line>
             <line lang="germ-trans"> No rider ever worries</line>
@@ -549,7 +549,7 @@
             <line lang="germ-trans">I wear my hat cocked upon my ear, I don’t ask for love and gold</line>
             <line lang="germ-trans">For I have a dashing horse underneath me – and carry a good rifle </line>
             <line lang="germ-trans">Whatever else the heavens might bestow on me – that doesn’t weigh heavily on me </line>
-            <line lang="germ-trans"><NatUnity cat="loyalty">We serve you</NatUnity>, <homeland type="nostalgic loving" mood="positive">dear fatherland</homeland>, - in Southwest Africa; -</line>
+            <line lang="germ-trans"><NatUnity cat="loyalty">We serve you</NatUnity>, <homeland type="loving" mood="positive">dear fatherland</homeland>, - in Southwest Africa; -</line>
             <line lang="germ-trans">We are called Schutztruppe --  for <sig type="aggressive xenophobia" mood= "ambiguous">protection</sig> <NatUnity cat="loyalty">we are here</NatUnity>.</line>
         </verse>
         <verse>
@@ -588,7 +588,7 @@
             <line lang="germ-trans">And when it is our turn -- <NatUnity cat="solidarity">we remain undaunted</NatUnity></line>           
             <line lang="germ-trans">In every <violence perp="settler" victim="ambiguous">battle</violence> —<NatUnity cat="solidarity">Life is risked</NatUnity> anew</line>           
             <line lang="germ-trans"><violence perp="settler" victim="ambiguous">We fight</violence> for <NatUnity cat="patriotism">German power</NatUnity>, for <NatUnity cat="patriotism">German Glory</NatUnity> </line>            
-            <line lang="germ-trans">We think back to our <homeland type="nostalgic longing" mood="positive">distant homeland</homeland> --  <NatUnity cat="loyalty">faithfully</NatUnity> with joy and song </line>            
+            <line lang="germ-trans">We think back to our <homeland type="longing" mood="positive">distant homeland</homeland> --  <NatUnity cat="loyalty">faithfully</NatUnity> with joy and song </line>            
             <line lang="germ-trans">We serve you, dear fatherland, - in Southwest Africa; -</line>            
             <line lang="germ-trans">We are called Schutztruoppe- long live, huzzah!</line>
         </verse>
