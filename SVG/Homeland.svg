@@ -40,8 +40,6 @@
         <text x="200" y="-49" text-anchor="start"> positive = orange </text>
         <text x="200" y="-64" text-anchor="start"> key:</text>
         <!-- title -->
-        <text x="55" y="-225" text-anchor="start"> Homeland</text>
-        
-      
+        <text x="55" y="-225" text-anchor="start"> Homeland</text>    
     </g>
 </svg>
