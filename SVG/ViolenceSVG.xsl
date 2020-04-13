@@ -78,13 +78,13 @@
                     <xsl:value-of select="round-half-to-even(100 * $germanViolence, 3) || '%'"/>
                 </text>
                 <!-- writes note about how values are calulated -->
-                <text x="{$maxWidth div 2 +10}" y="{5 * $yScale + 20}" text-anchor="middle"
+                <!--<text x="{$maxWidth div 2 +10}" y="{5 * $yScale + 20}" text-anchor="middle"
                     font-weight="bold" font-size="smaller">*Note: percentages calculated by counting
                     violence elements and dividing </text>
                 <text x="{$maxWidth div 2 +10}" y="{5 * $yScale + 35}" text-anchor="middle"
                     font-weight="bold" font-size="smaller"> by the number of lines in each
-                    language's corpus</text>
-                <!-- creates key for color categories -->
+                    language's corpus</text>-->
+                <!--<!-\- creates key for color categories -\->
                 <text x="{$maxWidth + 100}" y="-{$maxHeight * $yScale div 1.3}"
                     text-decoration="underline" font-weight="bold">Key</text>
                 <text x="{$maxWidth + 10}" y="-{$maxHeight * $yScale div 1.5}" fill="orange"
@@ -92,11 +92,8 @@
                 <text x="{$maxWidth + 10}" y="-{$maxHeight * $yScale div 1.7}" fill="red"
                     >Perpetrator: Native | Victim: Settler</text>
                 <text x="{$maxWidth + 10}" y="-{$maxHeight * $yScale div 2}" fill="blue">Perpetrator
-                    or Victim: Ambiguous</text>
+                    or Victim: Ambiguous</text>-->
             </g>
         </svg>
     </xsl:template>
 </xsl:stylesheet>
-<!-- I tried to do batch processing like we discussed in the extra session on Friday 4/10
-     I wasn't able to get it for some reason. Since we don't have too many texts I combined 
-     the songs into one XML document and added @lang to each line to distinguish between them in the XPath expressions-->
