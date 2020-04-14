@@ -1,0 +1,25 @@
+h1 {
+    color: black;
+    background-color: lightgrey;
+    width: 350px;
+    padding: 0px;
+    text-align: center;
+    margin: auto;
+}
+
+p {
+    font-family: verbana;
+    font-size: 16px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+a.internal {
+    color: blue;
+    text-decoration: none;
+}
+a.internal:hover,
+a.interal:active {
+    text-decoration: underline;
+    color: blue;
+}
