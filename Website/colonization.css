@@ -23,6 +23,8 @@ div.menu {
     font-family: verbana;
     list-style-type: none;
     float: left;
+    /*    comment out and try again if nav bar moves*/
+    position: fixed;
 
 }
 
