@@ -132,5 +132,35 @@
       <text x="325" y="15" text-anchor="middle" font-size="smaller"> German Songs </text>
       <text x="175" y="-277.8571428571429" text-anchor="middle">8.929%</text>
       <text x="300" y="-104.82608695652175">3.261%</text>
+      <rect x="504"
+            y="-210"
+            height="10"
+            width="10"
+            stroke="black"
+            stroke-width="1"
+            stroke-linecap="square"
+            fill="blue"/>
+      <text x="516" y="-200">Perpetrator or
+                    Victim: Ambiguous </text>
+      <rect x="504"
+            y="-184"
+            height="10"
+            width="10"
+            stroke="black"
+            stroke-width="1"
+            stroke-linecap="square"
+            fill="red"/>
+      <text x="516" y="-174">Perpetrator: Native |
+                    Victim: Settler</text>
+      <rect x="504"
+            y="-158"
+            height="10"
+            width="10"
+            stroke="black"
+            stroke-width="1"
+            stroke-linecap="square"
+            fill="orange"/>
+      <text x="516" y="-148">Perpetrator: Settler |
+                    Victim: Native</text>
    </g>
 </svg>

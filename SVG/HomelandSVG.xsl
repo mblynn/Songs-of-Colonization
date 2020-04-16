@@ -97,15 +97,15 @@
                     <xsl:value-of select="round-half-to-even(100 * $germanHomeland, 3) || '%'"/>
                 </text>
                 <!-- creates key for color categories -->
-                <rect x="{$maxWidth + 4}" y="-{$maxHeight * $yScale div 1.43}" height="10"
+                <rect x="{$maxWidth + 4}" y="-{210}" height="10"
                     width="10" stroke="black" stroke-width="1" stroke-linecap="square" fill="blue"/>
-                <text x="{$maxWidth + 16}" y="-{$maxHeight * $yScale div 1.5}">Positive</text>
-                <rect x="{$maxWidth + 4}" y="-{$maxHeight * $yScale div 1.60}" height="10"
+                <text x="{$maxWidth + 16}" y="-{200}">Positive</text>
+                <rect x="{$maxWidth + 4}" y="-{184}" height="10"
                     width="10" stroke="black" stroke-width="1" stroke-linecap="square" fill="red"/>
-                <text x="{$maxWidth + 16}" y="-{$maxHeight * $yScale div 1.7}">Negative</text>
-                <rect x="{$maxWidth + 4}" y="-{$maxHeight * $yScale div 1.82}" height="10"
+                <text x="{$maxWidth + 16}" y="-{174}">Negative</text>
+                <rect x="{$maxWidth + 4}" y="-{158}" height="10"
                     width="10" stroke="black" stroke-width="1" stroke-linecap="square" fill="orange"/>
-                <text x="{$maxWidth + 16}" y="-{$maxHeight * $yScale div 1.94}">Ambiguous</text>
+                <text x="{$maxWidth + 16}" y="-{148}">Ambiguous</text>
             </g>
         </svg>
     </xsl:template>

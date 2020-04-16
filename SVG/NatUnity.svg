@@ -145,40 +145,49 @@
             font-size="smaller">7.857%</text>
       <text x="300" y="-348.39130434782606" font-size="smaller">22.826%</text>
       <rect x="504"
-            y="-256.8493150684932"
+            y="-258"
             height="10"
             width="10"
             stroke="black"
             stroke-width="1"
             stroke-linecap="square"
             fill="blue"/>
-      <text x="516" y="-246.71052631578948">Loyalty</text>
+      <text x="516" y="-248">Loyalty</text>
       <rect x="504"
-            y="-230.06134969325154"
+            y="-232"
             height="10"
             width="10"
             stroke="black"
             stroke-width="1"
             stroke-linecap="square"
             fill="red"/>
-      <text x="516" y="-219.2982456140351">Brotherhood</text>
+      <text x="516" y="-222">Brotherhood</text>
       <rect x="504"
-            y="-204.91803278688525"
+            y="-206"
             height="10"
             width="10"
             stroke="black"
             stroke-width="1"
             stroke-linecap="square"
             fill="orange"/>
-      <text x="516" y="-193.29896907216497">Solidarity</text>
+      <text x="516" y="-196">Solidarity</text>
       <rect x="504"
-            y="-180.28846153846152"
+            y="-180"
             height="10"
             width="10"
             stroke="black"
             stroke-width="1"
             stroke-linecap="square"
             fill="yellow"/>
-      <text x="516" y="-170.45454545454544">Patriotism</text>
+      <text x="516" y="-170">Patriotism</text>
+      <rect x="504"
+            y="-154"
+            height="10"
+            width="10"
+            stroke="black"
+            stroke-width="1"
+            stroke-linecap="square"
+            fill="green"/>
+      <text x="516" y="-144">Pride</text>
    </g>
 </svg>

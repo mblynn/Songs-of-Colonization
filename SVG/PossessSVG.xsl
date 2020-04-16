@@ -91,18 +91,18 @@
                     <xsl:value-of select="round-half-to-even(100 * $germanPossess, 3) || '%'"/>
                 </text>
                 <!-- creates key for color categories -->
-                <rect x="{$maxWidth + 4}" y="-{$maxHeight * $yScale div 1.43}" height="10" width="10"
+                <rect x="{$maxWidth + 4}" y="-{210}" height="10" width="10"
                     stroke="black" stroke-width="1" stroke-linecap="square" fill="blue"/>
-                <text x="{$maxWidth + 16}" y="-{$maxHeight * $yScale div 1.5}">Land</text>
-                <rect x="{$maxWidth + 4}" y="-{$maxHeight * $yScale div 1.60}" height="10" width="10"
+                <text x="{$maxWidth + 16}" y="-{200}">Land</text>
+                <rect x="{$maxWidth + 4}" y="-{184}" height="10" width="10"
                     stroke="black" stroke-width="1" stroke-linecap="square" fill="red"/>
-                <text x="{$maxWidth + 16}" y="-{$maxHeight * $yScale div 1.7}">People</text>
-                <rect x="{$maxWidth + 4}" y="-{$maxHeight * $yScale div 1.87}" height="10" width="10"
+                <text x="{$maxWidth + 16}" y="-{174}">People</text>
+                <rect x="{$maxWidth + 4}" y="-{158}" height="10" width="10"
                     stroke="black" stroke-width="1" stroke-linecap="square" fill="orange"/>
-                <text x="{$maxWidth + 16}" y="-{$maxHeight * $yScale div 2}">Resource</text>
-                <rect x="{$maxWidth + 4}" y="-{$maxHeight * $yScale div 2.2}" height="10" width="10"
+                <text x="{$maxWidth + 16}" y="-{148}">Resource</text>
+                <rect x="{$maxWidth + 4}" y="-{132}" height="10" width="10"
                     stroke="black" stroke-width="1" stroke-linecap="square" fill="yellow"/>
-                <text x="{$maxWidth + 16}" y="-{$maxHeight * $yScale div 2.4}">Labor</text>
+                <text x="{$maxWidth + 16}" y="-{122}">Labor</text>
             </g>
         </svg>
     </xsl:template>

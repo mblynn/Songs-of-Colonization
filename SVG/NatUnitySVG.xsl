@@ -91,8 +91,8 @@
                     height="{$yScale * ($german-bro + $german-sol * $yBarScale)}" fill="red"
                     stroke="black" stroke-width=".25"/>
                 <!-- german patriotism -->
-                <rect x="{$xPos + $interbarSpacing}" y="-{( 2 * 65.28260869565217 + 48.8152173913 )}"
-                    width="{$barWidth}"
+                <rect x="{$xPos + $interbarSpacing}"
+                    y="-{( 2 * 65.28260869565217 + 48.8152173913 )}" width="{$barWidth}"
                     height="{$yScale * ($german-bro + $german-sol + $german-pat + $german-pride * $yBarScale)}"
                     fill="green" stroke="black" stroke-width=".25"/>
                 <!-- german pride -->
@@ -119,18 +119,21 @@
                     <xsl:value-of select="round-half-to-even(100 * $germanNatUnity, 3) || '%'"/>
                 </text>
                 <!-- creates key for color categories -->
-                <rect x="{$maxWidth + 4}" y="-{$maxHeight * $yScale div 1.46}" height="10"
+                <rect x="{$maxWidth + 4}" y="-{258}" height="10"
                     width="10" stroke="black" stroke-width="1" stroke-linecap="square" fill="blue"/>
-                <text x="{$maxWidth + 16}" y="-{$maxHeight * $yScale div 1.52}">Loyalty</text>
-                <rect x="{$maxWidth + 4}" y="-{$maxHeight * $yScale div 1.63}" height="10"
+                <text x="{$maxWidth + 16}" y="-{248}">Loyalty</text>
+                <rect x="{$maxWidth + 4}" y="-{232}" height="10"
                     width="10" stroke="black" stroke-width="1" stroke-linecap="square" fill="red"/>
-                <text x="{$maxWidth + 16}" y="-{$maxHeight * $yScale div 1.71}">Brotherhood</text>
-                <rect x="{$maxWidth + 4}" y="-{$maxHeight * $yScale div 1.83}" height="10"
+                <text x="{$maxWidth + 16}" y="-{222}">Brotherhood</text>
+                <rect x="{$maxWidth + 4}" y="-{206}" height="10"
                     width="10" stroke="black" stroke-width="1" stroke-linecap="square" fill="orange"/>
-                <text x="{$maxWidth + 16}" y="-{$maxHeight * $yScale div 1.94}">Solidarity</text>
-                <rect x="{$maxWidth + 4}" y="-{$maxHeight * $yScale div 2.08}" height="10"
+                <text x="{$maxWidth + 16}" y="-{196}">Solidarity</text>
+                <rect x="{$maxWidth + 4}" y="-{180}" height="10"
                     width="10" stroke="black" stroke-width="1" stroke-linecap="square" fill="yellow"/>
-                <text x="{$maxWidth + 16}" y="-{$maxHeight * $yScale div 2.2}">Patriotism</text>
+                <text x="{$maxWidth + 16}" y="-{170}">Patriotism</text>
+                <rect x="{$maxWidth + 4}" y="-{154}" height="10"
+                    width="10" stroke="black" stroke-width="1" stroke-linecap="square" fill="green"/>
+                <text x="{$maxWidth + 16}" y="-{144}">Pride</text>
             </g>
         </svg>
     </xsl:template>

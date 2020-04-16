@@ -93,14 +93,14 @@
             y="-32.19642857142857"
             width="50"
             height="32.19642857142857"
-            fill="red"
+            fill="orange"
             stroke="black"
             stroke-width=".25"/>
       <rect x="150"
             y="-64.39285714285714"
             width="50"
             height="32.19642857142857"
-            fill="orange"
+            fill="red"
             stroke="black"
             stroke-width=".25"/>
       <rect x="300"
@@ -141,7 +141,7 @@
       <text x="175" y="-131.57142857142856" text-anchor="middle">4.286%</text>
       <text x="300" y="-166.04347826086956">5.435%</text>
       <rect x="504"
-            y="-209.7902097902098"
+            y="-210"
             height="10"
             width="10"
             stroke="black"
@@ -150,22 +150,22 @@
             fill="blue"/>
       <text x="516" y="-200">Positive</text>
       <rect x="504"
-            y="-187.5"
+            y="-184"
             height="10"
             width="10"
             stroke="black"
             stroke-width="1"
             stroke-linecap="square"
             fill="red"/>
-      <text x="516" y="-176.47058823529412">Negative</text>
+      <text x="516" y="-174">Negative</text>
       <rect x="504"
-            y="-164.83516483516482"
+            y="-158"
             height="10"
             width="10"
             stroke="black"
             stroke-width="1"
             stroke-linecap="square"
             fill="orange"/>
-      <text x="516" y="-154.63917525773195">Ambiguous</text>
+      <text x="516" y="-148">Ambiguous</text>
    </g>
 </svg>
