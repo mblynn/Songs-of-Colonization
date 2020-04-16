@@ -5,10 +5,12 @@ h1 {
     display: flex;
 }
 .left {
-    flex: 0 0 65%;
+    flex-grow: 1;
+    float: left;
 }
 .right {
-    flex: 1;
+    flex-grow: 1;
+    float: right;
 }
 h2 {
     padding: 10px;
