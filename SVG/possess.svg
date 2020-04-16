@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+   <g transform="translate(100, 400)">
+      <line x1="0"
+            y1="-30"
+            x2="500"
+            y2="-30"
+            stroke="black"
+            stroke-dasharray="3 3"
+            stroke-width="2"/>
+      <text x="-10" y="-30" text-anchor="end" alignment-baseline="central">1% </text>
+      <line x1="0"
+            y1="-60"
+            x2="500"
+            y2="-60"
+            stroke="black"
+            stroke-dasharray="3 3"
+            stroke-width="2"/>
+      <text x="-10" y="-60" text-anchor="end" alignment-baseline="central">2% </text>
+      <line x1="0"
+            y1="-90"
+            x2="500"
+            y2="-90"
+            stroke="black"
+            stroke-dasharray="3 3"
+            stroke-width="2"/>
+      <text x="-10" y="-90" text-anchor="end" alignment-baseline="central">3% </text>
+      <line x1="0"
+            y1="-120"
+            x2="500"
+            y2="-120"
+            stroke="black"
+            stroke-dasharray="3 3"
+            stroke-width="2"/>
+      <text x="-10" y="-120" text-anchor="end" alignment-baseline="central">4% </text>
+      <line x1="0"
+            y1="-150"
+            x2="500"
+            y2="-150"
+            stroke="black"
+            stroke-dasharray="3 3"
+            stroke-width="2"/>
+      <text x="-10" y="-150" text-anchor="end" alignment-baseline="central">5% </text>
+      <line x1="0"
+            y1="-180"
+            x2="500"
+            y2="-180"
+            stroke="black"
+            stroke-dasharray="3 3"
+            stroke-width="2"/>
+      <text x="-10" y="-180" text-anchor="end" alignment-baseline="central">6% </text>
+      <line x1="0"
+            y1="-210"
+            x2="500"
+            y2="-210"
+            stroke="black"
+            stroke-dasharray="3 3"
+            stroke-width="2"/>
+      <text x="-10" y="-210" text-anchor="end" alignment-baseline="central">7% </text>
+      <line x1="0"
+            y1="-240"
+            x2="500"
+            y2="-240"
+            stroke="black"
+            stroke-dasharray="3 3"
+            stroke-width="2"/>
+      <text x="-10" y="-240" text-anchor="end" alignment-baseline="central">8% </text>
+      <line x1="0"
+            y1="-270"
+            x2="500"
+            y2="-270"
+            stroke="black"
+            stroke-dasharray="3 3"
+            stroke-width="2"/>
+      <text x="-10" y="-270" text-anchor="end" alignment-baseline="central">9% </text>
+      <line x1="0"
+            y1="-300"
+            x2="500"
+            y2="-300"
+            stroke="black"
+            stroke-dasharray="3 3"
+            stroke-width="2"/>
+      <text x="-10" y="-300" text-anchor="end" alignment-baseline="central">10% </text>
+      <text x="-50" y="-150" writing-mode="tb" text-anchor="middle">Percentage of Possession</text>
+      <rect x="150"
+            y="-182.14285714285714"
+            width="50"
+            height="182.14285714285714"
+            fill="blue"
+            stroke="black"
+            stroke-width=".25"/>
+      <rect x="150"
+            y="-75.18214285714286"
+            width="50"
+            height="75.18214285714286"
+            fill="orange"
+            stroke="black"
+            stroke-width=".25"/>
+      <rect x="300"
+            y="-163.04347826086956"
+            width="50"
+            height="163.04347826086956"
+            fill="blue"
+            stroke="black"
+            stroke-width=".25"/>
+      <rect x="300"
+            y="-32.641304347826086"
+            width="50"
+            height="32.641304347826086"
+            fill="orange"
+            stroke="black"
+            stroke-width=".25"/>
+      <rect x="300"
+            y="-65.28260869565217"
+            width="50"
+            height="32.641304347826086"
+            fill="red"
+            stroke="black"
+            stroke-width=".25"/>
+      <line x1="0"
+            y1="0"
+            x2="500"
+            y2="0"
+            stroke="black"
+            stroke-linecap="square"/>
+      <line x1="0"
+            y1="0"
+            x2="0"
+            y2="-300"
+            stroke="black"
+            stroke-linecap="square"/>
+      <text x="175" y="15" text-anchor="middle" font-size="smaller"> American Songs </text>
+      <text x="325" y="15" text-anchor="middle" font-size="smaller"> German Songs </text>
+      <text x="175" y="-189.14285714285714" text-anchor="middle">6.071%</text>
+      <text x="300" y="-166.04347826086956">5.435%</text>
+      <rect x="504"
+            y="-209.7902097902098"
+            height="10"
+            width="10"
+            stroke="black"
+            stroke-width="1"
+            stroke-linecap="square"
+            fill="orange"/>
+      <text x="516" y="-200">Resource</text>
+      <rect x="504"
+            y="-187.5"
+            height="10"
+            width="10"
+            stroke="black"
+            stroke-width="1"
+            stroke-linecap="square"
+            fill="red"/>
+      <text x="516" y="-176.47058823529412">People</text>
+      <rect x="504"
+            y="-160.427807486631"
+            height="10"
+            width="10"
+            stroke="black"
+            stroke-width="1"
+            stroke-linecap="square"
+            fill="blue"/>
+      <text x="516" y="-150">Land</text>
+      <rect x="504"
+            y="-136.36363636363635"
+            height="10"
+            width="10"
+            stroke="black"
+            stroke-width="1"
+            stroke-linecap="square"
+            fill="yellow"/>
+      <text x="516" y="-125">Labor</text>
+   </g>
+</svg>
