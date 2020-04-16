@@ -70,15 +70,36 @@
                     width="{$barWidth}"
                     height="{$yScale * ($american-bro + $american-sol * $yBarScale)}" fill="red"
                     stroke="black" stroke-width=".25"/>
-                <rect x="{$xPos}"
-                    y="-{(75.07499999999999 + 16.146428571428572)}"
+                <!-- american patriotism -->
+                <rect x="{$xPos}" y="-{(75.07499999999999 + 16.146428571428572)}"
                     width="{$barWidth}"
-                    height="{$yScale * ($american-bro + $american-sol + $american-pat * $yBarScale)}" fill="yellow"
-                    stroke="black" stroke-width=".25"/>
+                    height="{$yScale * ($american-bro + $american-sol + $american-pat * $yBarScale)}"
+                    fill="yellow" stroke="black" stroke-width=".25"/>
                 <!-- entire german rectangle -->
                 <rect x="{$xPos + $interbarSpacing}" y="-{$yScale * ($germanNatUnity * $yBarScale)}"
                     width="{$barWidth}" height="{$yScale * ($germanNatUnity * $yBarScale)}"
                     fill="blue" stroke="black" stroke-width=".25"/>
+                <!-- german brotherhood -->
+                <rect x="{$xPos + $interbarSpacing}"
+                    y="-{$yScale * ($german-bro + $german-sol * $yBarScale)}" width="{$barWidth}"
+                    height="{$yScale * ($german-bro + $german-sol * $yBarScale)}" fill="orange"
+                    stroke="black" stroke-width=".25"/>
+                <!--  german solidarity-->
+                <rect x="{$xPos + $interbarSpacing}"
+                    y="-{2 * ($yScale * ($german-bro + $german-sol * $yBarScale))}"
+                    width="{$barWidth}"
+                    height="{$yScale * ($german-bro + $german-sol * $yBarScale)}" fill="red"
+                    stroke="black" stroke-width=".25"/>
+                <!-- german patriotism -->
+                <rect x="{$xPos + $interbarSpacing}" y="-{( 2 * 65.28260869565217 + 48.8152173913 )}"
+                    width="{$barWidth}"
+                    height="{$yScale * ($german-bro + $german-sol + $german-pat + $german-pride * $yBarScale)}"
+                    fill="green" stroke="black" stroke-width=".25"/>
+                <!-- german pride -->
+                <rect x="{$xPos + $interbarSpacing}" y="-{(65.28260869565217 + 97.8913043478261)}"
+                    width="{$barWidth}"
+                    height="{$yScale * ($german-bro + $german-sol + $german-pat * $yBarScale)}"
+                    fill="yellow" stroke="black" stroke-width=".25"/>
                 <!-- draws axes -->
                 <line x1="0" y1="0" x2="{$maxWidth}" y2="0" stroke="black" stroke-linecap="square"/>
                 <line x1="0" y1="0" x2="0" y2="-{$maxHeight * $yScale}" stroke="black"
@@ -107,8 +128,8 @@
                 <rect x="{$maxWidth + 4}" y="-{$maxHeight * $yScale div 1.83}" height="10"
                     width="10" stroke="black" stroke-width="1" stroke-linecap="square" fill="orange"/>
                 <text x="{$maxWidth + 16}" y="-{$maxHeight * $yScale div 1.94}">Solidarity</text>
-                <rect x="{$maxWidth + 4}" y="-{$maxHeight * $yScale div 2.08}" height="10" width="10"
-                    stroke="black" stroke-width="1" stroke-linecap="square" fill="yellow"/>
+                <rect x="{$maxWidth + 4}" y="-{$maxHeight * $yScale div 2.08}" height="10"
+                    width="10" stroke="black" stroke-width="1" stroke-linecap="square" fill="yellow"/>
                 <text x="{$maxWidth + 16}" y="-{$maxHeight * $yScale div 2.2}">Patriotism</text>
             </g>
         </svg>
