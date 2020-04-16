@@ -2,6 +2,15 @@
 body {
     background-color: darkgrey;
 }
+h1.top {
+    width: 700px;
+    margin: auto;
+    padding: 0px;
+    text-align: center;
+}
+hr {
+    border: 1.5px solid black;
+}
 p.info {
     text-align: center;
 }
