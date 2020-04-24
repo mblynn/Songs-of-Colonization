@@ -2,13 +2,12 @@ body {
     background-image: url("bground_img-cropped.jpg");
     background-repeat: no-repeat, repeat;
     background-position: 27% 1px;
-    background-size: 68% 220%;
+    background-size: 68% 200%;
 }
 
 h1.page {
     color: black;
-/*    background-color: lightgrey;
-*/    width: 600px;
+    width: 600px;
     padding: 0px;
     text-align: center;
     margin: auto;
