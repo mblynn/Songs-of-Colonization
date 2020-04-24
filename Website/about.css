@@ -21,3 +21,12 @@ a.interal:active {
     text-decoration: underline;
     color: blue;
 }
+a.header_link {
+    color: black;
+    text-decoration: underline;
+}
+a.header_link:hover,
+a.header_link:active {
+    text-decoration: underline;
+    color: blue;
+}
