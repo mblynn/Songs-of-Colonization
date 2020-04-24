@@ -5,10 +5,10 @@ body {
     background-size: 68% 220%;
 }
 
-h1 {
+h1.page {
     color: black;
-    background-color: lightgrey;
-    width: 600px;
+/*    background-color: lightgrey;
+*/    width: 600px;
     padding: 0px;
     text-align: center;
     margin: auto;

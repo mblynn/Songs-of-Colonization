@@ -4,8 +4,9 @@ body {
 }
 h1.top {
     width: 100%;
+    background-color: LightGrey;
     margin: auto;
-    padding: 0px;
+    padding: 15px;
     text-align: center;
     font-size: 250%;
 }
