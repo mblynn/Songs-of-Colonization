@@ -12,10 +12,10 @@ p {
     text-align: justify;
     text-justify: inter-word;
 }
-a {
+a.note {
     text-decoration: none;
 }
-a:visited {
+a.note:visited {
     color: blue;
 }
 a.internal {
